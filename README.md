@@ -10,31 +10,25 @@ http://store.steampowered.com/app/806720/
 
 # Instructions
 
-## 1. modify Localization.json
+## 1. Create a JSON file for your language
 
-add translations.
+Copy `jpn.json` to a new file for your language, e.g. `eng.json`, and translate the strings on the right-hand side.
 
 e.g.
-```
-"設定.Caption":
-{
-   "jpn":"設定",
-   "eng":"Settings", // <- this
-},
+```json
+    "設定.Caption": "Settings", // <- this
 ```
 
-## 2. replace json
+## 2. Add the new JSON file to the game
 
-GensoYonbaiKen2 contains Localization.json.  
-`gsq2_Data/StreamingAssets/Localization.json`
-
-replace it with your modified one.
+Place the file into the `gsq2_Data/StreamingAssets/` directory of GensoYonbaiKen2.
 
 ## 3. modify language.txt
 
-The game contains language.txt. Open it.  
-And replace `jpn` with your language. e.g.`eng`
+The game contains language.txt. Open it.
+And replace `jpn` with your language. e.g. `eng`
 
 Start the game, it will render your translations.
+
 
 And create pull request!
