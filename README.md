@@ -10,9 +10,23 @@ http://store.steampowered.com/app/806720/
 
 # Instructions
 
-## 1. modify Localization.json
+  If you are not a developer, jump to #4.
 
-add translations.
+## 1. Copy Localization.json
+
+  Copy `Localization.json` in new language directory.
+
+  Files in this repo will be like this.
+```
+deu/Localization.json
+eng/Localization.json
+Localization.json
+README.md
+```
+
+## 2. Modify your Localization.json
+
+Edit the `xxx/Localization.json` and add translations.  
 
 e.g.
 ```
@@ -23,18 +37,19 @@ e.g.
 },
 ```
 
-## 2. replace json
+
+## 3. Create pull request!
+
+## 4. Replace json
 
 GensoYonbaiKen2 contains Localization.json.  
 `gsq2_Data/StreamingAssets/Localization.json`
 
-replace it with your modified one.
+Replace it with your modified one.
 
-## 3. modify language.txt
+## 5. Modify language.txt
 
 The game contains language.txt. Open it.  
-And replace `jpn` with your language. e.g.`eng`
+And replace `jpn` with your language. e.g. `eng`
 
 Start the game, it will render your translations.
-
-And create pull request!
