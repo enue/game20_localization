@@ -37,8 +37,10 @@ e.g.
 },
 ```
 
-
 ## 3. Create pull request!
+
+  Words in `jpn` will be used where your translation lacks.
+  So PRs don't have to be perfect.
 
 ## 4. Replace json
 
