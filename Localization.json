@@ -1,9 +1,9 @@
-﻿{
-     "設定.Caption":
+{
+    "設定.Caption":
     {
         "jpn":"設定",
     },
-     "設定.OpenManual":
+    "設定.OpenManual":
     {
         "jpn":"オンラインマニュアルを開く",
     },
@@ -23,9 +23,7 @@
     {
         "jpn":"詠唱メッセージ自動送り",
     },
-
-
-     "Ability.DNAの瑕":
+    "Ability.DNAの瑕":
     {
         "jpn":"DNAの瑕",
     },
@@ -57,10 +55,6 @@
     {
         "jpn":"DNAの瑕",
     },
-    "Ability.Description.DNAの瑕.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.DNAの瑕.2":
     {
         "jpn":"DNAの瑕L2",
@@ -69,25 +63,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.DNAの瑕.2":
-    {
-        "jpn":"記憶",
-    },
-    "Ability.CastName.DNAの瑕.2":
-    {
-        "jpn":"「DNAの瑕」",
-    },
-    "Ability.SpellText.DNAの瑕.2":
-    {
-        "jpn":"身に潜む記憶と記録\n顕れよ！　DNAの瑕！",
-    },
     "Ability.DNAの瑕.3":
     {
         "jpn":"DNAの瑕",
-    },
-    "Ability.Description.DNAの瑕.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.DNAの瑕.3":
     {
@@ -96,18 +74,6 @@
     "Ability.UnlockDescription.DNAの瑕.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.DNAの瑕.3":
-    {
-        "jpn":"記憶",
-    },
-    "Ability.CastName.DNAの瑕.3":
-    {
-        "jpn":"「DNAの瑕」",
-    },
-    "Ability.SpellText.DNAの瑕.3":
-    {
-        "jpn":"身に潜む記憶と記録\n顕れよ！　DNAの瑕！",
     },
     "Ability.ご先祖様":
     {
@@ -157,10 +123,6 @@
     {
         "jpn":"ご先祖様が見ているぞ",
     },
-    "Ability.Description.ご先祖様が見ているぞ.2":
-    {
-        "jpn":"行動を消費しない",
-    },
     "Ability.UnlockName.ご先祖様が見ているぞ.2":
     {
         "jpn":"ご先祖様が見ているぞL2",
@@ -169,25 +131,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ご先祖様が見ているぞ.2":
-    {
-        "jpn":"夢符",
-    },
-    "Ability.CastName.ご先祖様が見ているぞ.2":
-    {
-        "jpn":"「ご先祖様が見ているぞ」",
-    },
-    "Ability.SpellText.ご先祖様が見ているぞ.2":
-    {
-        "jpn":"独りのときも草葉の陰で\nご先祖様が見ているぞ！",
-    },
     "Ability.ご先祖様が見ているぞ.3":
     {
         "jpn":"ご先祖様が見ているぞ",
-    },
-    "Ability.Description.ご先祖様が見ているぞ.3":
-    {
-        "jpn":"行動を消費しない",
     },
     "Ability.UnlockName.ご先祖様が見ているぞ.3":
     {
@@ -196,18 +142,6 @@
     "Ability.UnlockDescription.ご先祖様が見ているぞ.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ご先祖様が見ているぞ.3":
-    {
-        "jpn":"夢符",
-    },
-    "Ability.CastName.ご先祖様が見ているぞ.3":
-    {
-        "jpn":"「ご先祖様が見ているぞ」",
-    },
-    "Ability.SpellText.ご先祖様が見ているぞ.3":
-    {
-        "jpn":"独りのときも草葉の陰で\nご先祖様が見ているぞ！",
     },
     "Ability.ちりょう":
     {
@@ -285,10 +219,6 @@
     {
         "jpn":"アビスノヴァ",
     },
-    "Ability.Description.アビスノヴァ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.アビスノヴァ.2":
     {
         "jpn":"アビスノヴァL2",
@@ -297,25 +227,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.アビスノヴァ.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.アビスノヴァ.2":
-    {
-        "jpn":"「アビスノヴァ」",
-    },
-    "Ability.SpellText.アビスノヴァ.2":
-    {
-        "jpn":"この身より迸る灼熱の混沌\n天地崩壊の火よ…　アビスノヴァ！",
-    },
     "Ability.アビスノヴァ.3":
     {
         "jpn":"アビスノヴァ",
-    },
-    "Ability.Description.アビスノヴァ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.アビスノヴァ.3":
     {
@@ -324,18 +238,6 @@
     "Ability.UnlockDescription.アビスノヴァ.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.アビスノヴァ.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.アビスノヴァ.3":
-    {
-        "jpn":"「アビスノヴァ」",
-    },
-    "Ability.SpellText.アビスノヴァ.3":
-    {
-        "jpn":"この身より迸る灼熱の混沌\n天地崩壊の火よ…　アビスノヴァ！",
     },
     "Ability.オトリ":
     {
@@ -385,10 +287,6 @@
     {
         "jpn":"カウンターL2",
     },
-    "Ability.Description.カウンター.2":
-    {
-        "jpn":"接触攻撃にカウンター",
-    },
     "Ability.UnlockName.カウンター.2":
     {
         "jpn":"カウンターL2",
@@ -397,25 +295,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.カウンター.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンター.2":
-    {
-        "jpn":"カウンター",
-    },
-    "Ability.SpellText.カウンター.2":
-    {
-        "jpn":"",
-    },
     "Ability.カウンター.3":
     {
         "jpn":"カウンターL3",
-    },
-    "Ability.Description.カウンター.3":
-    {
-        "jpn":"接触攻撃にカウンター",
     },
     "Ability.UnlockName.カウンター.3":
     {
@@ -424,18 +306,6 @@
     "Ability.UnlockDescription.カウンター.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.カウンター.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンター.3":
-    {
-        "jpn":"カウンター",
-    },
-    "Ability.SpellText.カウンター.3":
-    {
-        "jpn":"",
     },
     "Ability.カウンターアタックブースト":
     {
@@ -469,10 +339,6 @@
     {
         "jpn":"カウンターアタックブーストL2",
     },
-    "Ability.Description.カウンターアタックブースト.2":
-    {
-        "jpn":"攻撃を受けたときにたまに攻撃上昇",
-    },
     "Ability.UnlockName.カウンターアタックブースト.2":
     {
         "jpn":"カウンターアタックブーストL2",
@@ -481,25 +347,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.カウンターアタックブースト.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターアタックブースト.2":
-    {
-        "jpn":"アタックブースト",
-    },
-    "Ability.SpellText.カウンターアタックブースト.2":
-    {
-        "jpn":"",
-    },
     "Ability.カウンターアタックブースト.3":
     {
         "jpn":"カウンターアタックブーストL3",
-    },
-    "Ability.Description.カウンターアタックブースト.3":
-    {
-        "jpn":"攻撃を受けたときにたまに攻撃上昇",
     },
     "Ability.UnlockName.カウンターアタックブースト.3":
     {
@@ -508,18 +358,6 @@
     "Ability.UnlockDescription.カウンターアタックブースト.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.カウンターアタックブースト.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターアタックブースト.3":
-    {
-        "jpn":"アタックブースト",
-    },
-    "Ability.SpellText.カウンターアタックブースト.3":
-    {
-        "jpn":"",
     },
     "Ability.カウンターシールド":
     {
@@ -553,10 +391,6 @@
     {
         "jpn":"カウンターシールドL2",
     },
-    "Ability.Description.カウンターシールド.2":
-    {
-        "jpn":"物理攻撃を受けたときにたまに物理耐性アップ",
-    },
     "Ability.UnlockName.カウンターシールド.2":
     {
         "jpn":"カウンターシールドL2",
@@ -565,25 +399,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.カウンターシールド.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターシールド.2":
-    {
-        "jpn":"シールド",
-    },
-    "Ability.SpellText.カウンターシールド.2":
-    {
-        "jpn":"",
-    },
     "Ability.カウンターシールド.3":
     {
         "jpn":"カウンターシールドL3",
-    },
-    "Ability.Description.カウンターシールド.3":
-    {
-        "jpn":"物理攻撃を受けたときにたまに物理耐性アップ",
     },
     "Ability.UnlockName.カウンターシールド.3":
     {
@@ -592,18 +410,6 @@
     "Ability.UnlockDescription.カウンターシールド.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.カウンターシールド.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターシールド.3":
-    {
-        "jpn":"シールド",
-    },
-    "Ability.SpellText.カウンターシールド.3":
-    {
-        "jpn":"",
     },
     "Ability.カウンタースピードブースト":
     {
@@ -637,10 +443,6 @@
     {
         "jpn":"カウンタースピードブーストL2",
     },
-    "Ability.Description.カウンタースピードブースト.2":
-    {
-        "jpn":"攻撃を受けたときにたまに敏捷上昇",
-    },
     "Ability.UnlockName.カウンタースピードブースト.2":
     {
         "jpn":"カウンタースピードブーストL2",
@@ -649,25 +451,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.カウンタースピードブースト.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンタースピードブースト.2":
-    {
-        "jpn":"スピードブースト",
-    },
-    "Ability.SpellText.カウンタースピードブースト.2":
-    {
-        "jpn":"",
-    },
     "Ability.カウンタースピードブースト.3":
     {
         "jpn":"カウンタースピードブーストL3",
-    },
-    "Ability.Description.カウンタースピードブースト.3":
-    {
-        "jpn":"攻撃を受けたときにたまに敏捷上昇",
     },
     "Ability.UnlockName.カウンタースピードブースト.3":
     {
@@ -676,18 +462,6 @@
     "Ability.UnlockDescription.カウンタースピードブースト.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.カウンタースピードブースト.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンタースピードブースト.3":
-    {
-        "jpn":"スピードブースト",
-    },
-    "Ability.SpellText.カウンタースピードブースト.3":
-    {
-        "jpn":"",
     },
     "Ability.カウンターナイフ":
     {
@@ -721,10 +495,6 @@
     {
         "jpn":"カウンターナイフL2",
     },
-    "Ability.Description.カウンターナイフ.2":
-    {
-        "jpn":"射撃、接触攻撃にカウンター",
-    },
     "Ability.UnlockName.カウンターナイフ.2":
     {
         "jpn":"カウンターナイフL2",
@@ -733,25 +503,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.カウンターナイフ.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターナイフ.2":
-    {
-        "jpn":"カウンターナイフ",
-    },
-    "Ability.SpellText.カウンターナイフ.2":
-    {
-        "jpn":"",
-    },
     "Ability.カウンターナイフ.3":
     {
         "jpn":"カウンターナイフL3",
-    },
-    "Ability.Description.カウンターナイフ.3":
-    {
-        "jpn":"射撃、接触攻撃にカウンター",
     },
     "Ability.UnlockName.カウンターナイフ.3":
     {
@@ -760,18 +514,6 @@
     "Ability.UnlockDescription.カウンターナイフ.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.カウンターナイフ.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターナイフ.3":
-    {
-        "jpn":"カウンターナイフ",
-    },
-    "Ability.SpellText.カウンターナイフ.3":
-    {
-        "jpn":"",
     },
     "Ability.カウンターマジックシールド":
     {
@@ -805,10 +547,6 @@
     {
         "jpn":"カウンターマジックシールドL2",
     },
-    "Ability.Description.カウンターマジックシールド.2":
-    {
-        "jpn":"魔法攻撃を受けたときにたまに魔法耐性アップ",
-    },
     "Ability.UnlockName.カウンターマジックシールド.2":
     {
         "jpn":"カウンターマジックシールドL2",
@@ -817,25 +555,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.カウンターマジックシールド.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターマジックシールド.2":
-    {
-        "jpn":"マジックシールド",
-    },
-    "Ability.SpellText.カウンターマジックシールド.2":
-    {
-        "jpn":"",
-    },
     "Ability.カウンターマジックシールド.3":
     {
         "jpn":"カウンターマジックシールドL3",
-    },
-    "Ability.Description.カウンターマジックシールド.3":
-    {
-        "jpn":"魔法攻撃を受けたときにたまに魔法耐性アップ",
     },
     "Ability.UnlockName.カウンターマジックシールド.3":
     {
@@ -844,18 +566,6 @@
     "Ability.UnlockDescription.カウンターマジックシールド.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.カウンターマジックシールド.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターマジックシールド.3":
-    {
-        "jpn":"マジックシールド",
-    },
-    "Ability.SpellText.カウンターマジックシールド.3":
-    {
-        "jpn":"",
     },
     "Ability.カウンターリジェネレート":
     {
@@ -889,10 +599,6 @@
     {
         "jpn":"カウンターリジェネレートL2",
     },
-    "Ability.Description.カウンターリジェネレート.2":
-    {
-        "jpn":"攻撃を受けたときにたまに自動再生付与",
-    },
     "Ability.UnlockName.カウンターリジェネレート.2":
     {
         "jpn":"カウンターリジェネレートL2",
@@ -901,25 +607,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.カウンターリジェネレート.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターリジェネレート.2":
-    {
-        "jpn":"リジェネレート",
-    },
-    "Ability.SpellText.カウンターリジェネレート.2":
-    {
-        "jpn":"",
-    },
     "Ability.カウンターリジェネレート.3":
     {
         "jpn":"カウンターリジェネレートL3",
-    },
-    "Ability.Description.カウンターリジェネレート.3":
-    {
-        "jpn":"攻撃を受けたときにたまに自動再生付与",
     },
     "Ability.UnlockName.カウンターリジェネレート.3":
     {
@@ -928,18 +618,6 @@
     "Ability.UnlockDescription.カウンターリジェネレート.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.カウンターリジェネレート.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンターリジェネレート.3":
-    {
-        "jpn":"リジェネレート",
-    },
-    "Ability.SpellText.カウンターリジェネレート.3":
-    {
-        "jpn":"",
     },
     "Ability.カウンター森羅結界":
     {
@@ -973,10 +651,6 @@
     {
         "jpn":"カウンター森羅結界L2",
     },
-    "Ability.Description.カウンター森羅結界.2":
-    {
-        "jpn":"カウンターで森羅結界を張る",
-    },
     "Ability.UnlockName.カウンター森羅結界.2":
     {
         "jpn":"カウンター森羅結界L2",
@@ -985,25 +659,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.カウンター森羅結界.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンター森羅結界.2":
-    {
-        "jpn":"森羅結界",
-    },
-    "Ability.SpellText.カウンター森羅結界.2":
-    {
-        "jpn":"",
-    },
     "Ability.カウンター森羅結界.3":
     {
         "jpn":"カウンター森羅結界L3",
-    },
-    "Ability.Description.カウンター森羅結界.3":
-    {
-        "jpn":"カウンターで森羅結界を張る",
     },
     "Ability.UnlockName.カウンター森羅結界.3":
     {
@@ -1012,18 +670,6 @@
     "Ability.UnlockDescription.カウンター森羅結界.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.カウンター森羅結界.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.カウンター森羅結界.3":
-    {
-        "jpn":"森羅結界",
-    },
-    "Ability.SpellText.カウンター森羅結界.3":
-    {
-        "jpn":"",
     },
     "Ability.ガゴウジサイクロン":
     {
@@ -1057,10 +703,6 @@
     {
         "jpn":"ガゴウジサイクロン",
     },
-    "Ability.Description.ガゴウジサイクロン.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.ガゴウジサイクロン.2":
     {
         "jpn":"ガゴウジサイクロンL2",
@@ -1069,25 +711,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ガゴウジサイクロン.2":
-    {
-        "jpn":"雷矢",
-    },
-    "Ability.CastName.ガゴウジサイクロン.2":
-    {
-        "jpn":"「ガゴウジサイクロン」",
-    },
-    "Ability.SpellText.ガゴウジサイクロン.2":
-    {
-        "jpn":"雷神の子よ、怨念の全てを\n今そこに刻め！　ガゴウジサイクロン！",
-    },
     "Ability.ガゴウジサイクロン.3":
     {
         "jpn":"ガゴウジサイクロン",
-    },
-    "Ability.Description.ガゴウジサイクロン.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.ガゴウジサイクロン.3":
     {
@@ -1096,18 +722,6 @@
     "Ability.UnlockDescription.ガゴウジサイクロン.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ガゴウジサイクロン.3":
-    {
-        "jpn":"雷矢",
-    },
-    "Ability.CastName.ガゴウジサイクロン.3":
-    {
-        "jpn":"「ガゴウジサイクロン」",
-    },
-    "Ability.SpellText.ガゴウジサイクロン.3":
-    {
-        "jpn":"雷神の子よ、怨念の全てを\n今そこに刻め！　ガゴウジサイクロン！",
     },
     "Ability.ガッツ":
     {
@@ -1129,10 +743,6 @@
     {
         "jpn":"ガッツL2",
     },
-    "Ability.Description.ガッツ.2":
-    {
-        "jpn":"瀕死時に命中、回避、必殺がアップ",
-    },
     "Ability.UnlockName.ガッツ.2":
     {
         "jpn":"ガッツL2",
@@ -1144,10 +754,6 @@
     "Ability.ガッツ.3":
     {
         "jpn":"ガッツL3",
-    },
-    "Ability.Description.ガッツ.3":
-    {
-        "jpn":"瀕死時に命中、回避、必殺がアップ",
     },
     "Ability.UnlockName.ガッツ.3":
     {
@@ -1189,10 +795,6 @@
     {
         "jpn":"ガードL2",
     },
-    "Ability.Description.ガード.2":
-    {
-        "jpn":"受けるダメージをたまに半減",
-    },
     "Ability.UnlockName.ガード.2":
     {
         "jpn":"ガードL2",
@@ -1201,25 +803,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.ガード.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.ガード.2":
-    {
-        "jpn":"ガード",
-    },
-    "Ability.SpellText.ガード.2":
-    {
-        "jpn":"",
-    },
     "Ability.ガード.3":
     {
         "jpn":"ガードL3",
-    },
-    "Ability.Description.ガード.3":
-    {
-        "jpn":"受けるダメージをたまに半減",
     },
     "Ability.UnlockName.ガード.3":
     {
@@ -1228,18 +814,6 @@
     "Ability.UnlockDescription.ガード.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.ガード.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.ガード.3":
-    {
-        "jpn":"ガード",
-    },
-    "Ability.SpellText.ガード.3":
-    {
-        "jpn":"",
     },
     "Ability.キョンシー":
     {
@@ -1317,10 +891,6 @@
     {
         "jpn":"スカーレットデビル",
     },
-    "Ability.Description.スカーレットデビル.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.スカーレットデビル.2":
     {
         "jpn":"スカーレットデビルL2",
@@ -1329,25 +899,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.スカーレットデビル.2":
-    {
-        "jpn":"紅魔",
-    },
-    "Ability.CastName.スカーレットデビル.2":
-    {
-        "jpn":"「スカーレットデビル」",
-    },
-    "Ability.SpellText.スカーレットデビル.2":
-    {
-        "jpn":"赤き弾幕に地を染めろ\n人妖を喰らう炎！　スカーレットデビル！",
-    },
     "Ability.スカーレットデビル.3":
     {
         "jpn":"スカーレットデビル",
-    },
-    "Ability.Description.スカーレットデビル.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.スカーレットデビル.3":
     {
@@ -1356,18 +910,6 @@
     "Ability.UnlockDescription.スカーレットデビル.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.スカーレットデビル.3":
-    {
-        "jpn":"紅魔",
-    },
-    "Ability.CastName.スカーレットデビル.3":
-    {
-        "jpn":"「スカーレットデビル」",
-    },
-    "Ability.SpellText.スカーレットデビル.3":
-    {
-        "jpn":"赤き弾幕に地を染めろ\n人妖を喰らう炎！　スカーレットデビル！",
     },
     "Ability.スキマ移動":
     {
@@ -1433,10 +975,6 @@
     {
         "jpn":"スプリーンイーター",
     },
-    "Ability.Description.スプリーンイーター.2":
-    {
-        "jpn":"追加効果：攻撃低下",
-    },
     "Ability.UnlockName.スプリーンイーター.2":
     {
         "jpn":"スプリーンイーターL2",
@@ -1445,25 +983,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.スプリーンイーター.2":
-    {
-        "jpn":"恨霊",
-    },
-    "Ability.CastName.スプリーンイーター.2":
-    {
-        "jpn":"「スプリーンイーター」",
-    },
-    "Ability.SpellText.スプリーンイーター.2":
-    {
-        "jpn":"地獄の怨霊ども、集いて肝を食らえ！\nスプリーンイーター！",
-    },
     "Ability.スプリーンイーター.3":
     {
         "jpn":"スプリーンイーター",
-    },
-    "Ability.Description.スプリーンイーター.3":
-    {
-        "jpn":"追加効果：攻撃低下",
     },
     "Ability.UnlockName.スプリーンイーター.3":
     {
@@ -1472,18 +994,6 @@
     "Ability.UnlockDescription.スプリーンイーター.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.スプリーンイーター.3":
-    {
-        "jpn":"恨霊",
-    },
-    "Ability.CastName.スプリーンイーター.3":
-    {
-        "jpn":"「スプリーンイーター」",
-    },
-    "Ability.SpellText.スプリーンイーター.3":
-    {
-        "jpn":"地獄の怨霊ども、集いて肝を食らえ！\nスプリーンイーター！",
     },
     "Ability.スペルブースト":
     {
@@ -1505,10 +1015,6 @@
     {
         "jpn":"スペルカード威力+10％",
     },
-    "Ability.Description.スペルブースト.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.スペルブースト.2":
     {
         "jpn":"スペルカード威力+10％",
@@ -1520,10 +1026,6 @@
     "Ability.スペルブースト.3":
     {
         "jpn":"スペルカード威力+15％",
-    },
-    "Ability.Description.スペルブースト.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.スペルブースト.3":
     {
@@ -1537,10 +1039,6 @@
     {
         "jpn":"スペルカード威力+20％",
     },
-    "Ability.Description.スペルブースト.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.スペルブースト.4":
     {
         "jpn":"スペルカード威力+20％",
@@ -1552,10 +1050,6 @@
     "Ability.スペルブースト.5":
     {
         "jpn":"スペルカード威力+25％",
-    },
-    "Ability.Description.スペルブースト.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.スペルブースト.5":
     {
@@ -1597,10 +1091,6 @@
     {
         "jpn":"セプテントリオン",
     },
-    "Ability.Description.セプテントリオン.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.セプテントリオン.2":
     {
         "jpn":"セプテントリオンL2",
@@ -1609,25 +1099,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.セプテントリオン.2":
-    {
-        "jpn":"七星",
-    },
-    "Ability.CastName.セプテントリオン.2":
-    {
-        "jpn":"「セプテントリオン」",
-    },
-    "Ability.SpellText.セプテントリオン.2":
-    {
-        "jpn":"天を見よ！頭上に輝く死兆星！\n沈め、セプテントリオン！",
-    },
     "Ability.セプテントリオン.3":
     {
         "jpn":"セプテントリオン",
-    },
-    "Ability.Description.セプテントリオン.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.セプテントリオン.3":
     {
@@ -1636,18 +1110,6 @@
     "Ability.UnlockDescription.セプテントリオン.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.セプテントリオン.3":
-    {
-        "jpn":"七星",
-    },
-    "Ability.CastName.セプテントリオン.3":
-    {
-        "jpn":"「セプテントリオン」",
-    },
-    "Ability.SpellText.セプテントリオン.3":
-    {
-        "jpn":"天を見よ！頭上に輝く死兆星！\n沈め、セプテントリオン！",
     },
     "Ability.ソウルスカルプチュア":
     {
@@ -1681,10 +1143,6 @@
     {
         "jpn":"ソウルスカルプチュア",
     },
-    "Ability.Description.ソウルスカルプチュア.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.ソウルスカルプチュア.2":
     {
         "jpn":"ソウルスカルプチュアL2",
@@ -1693,25 +1151,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ソウルスカルプチュア.2":
-    {
-        "jpn":"傷魂",
-    },
-    "Ability.CastName.ソウルスカルプチュア.2":
-    {
-        "jpn":"「ソウルスカルプチュア」",
-    },
-    "Ability.SpellText.ソウルスカルプチュア.2":
-    {
-        "jpn":"誰だろうと関係のない処刑を思いついた！\nソウルスカルプチュア！",
-    },
     "Ability.ソウルスカルプチュア.3":
     {
         "jpn":"ソウルスカルプチュア",
-    },
-    "Ability.Description.ソウルスカルプチュア.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.ソウルスカルプチュア.3":
     {
@@ -1720,18 +1162,6 @@
     "Ability.UnlockDescription.ソウルスカルプチュア.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ソウルスカルプチュア.3":
-    {
-        "jpn":"傷魂",
-    },
-    "Ability.CastName.ソウルスカルプチュア.3":
-    {
-        "jpn":"「ソウルスカルプチュア」",
-    },
-    "Ability.SpellText.ソウルスカルプチュア.3":
-    {
-        "jpn":"誰だろうと関係のない処刑を思いついた！\nソウルスカルプチュア！",
     },
     "Ability.ゾンビフェアリー":
     {
@@ -1748,6 +1178,10 @@
     "Ability.UnlockDescription.ゾンビフェアリー":
     {
         "jpn":"ゾンビフェアリーを呼び出す",
+    },
+    "Ability.SpellText.ゾンビフェアリー":
+    {
+        "jpn":"罪多き霊魂を離さぬなら\n生命無き妖精が裁く　ゾンビフェアリー！",
     },
     "Ability.ダッシュ":
     {
@@ -1797,10 +1231,6 @@
     {
         "jpn":"トリップワイヤー",
     },
-    "Ability.Description.トリップワイヤー.2":
-    {
-        "jpn":"上海人形との間にいるユニットに攻撃",
-    },
     "Ability.UnlockName.トリップワイヤー.2":
     {
         "jpn":"トリップワイヤーL2",
@@ -1809,25 +1239,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.トリップワイヤー.2":
-    {
-        "jpn":"注力",
-    },
-    "Ability.CastName.トリップワイヤー.2":
-    {
-        "jpn":"「トリップワイヤー」",
-    },
-    "Ability.SpellText.トリップワイヤー.2":
-    {
-        "jpn":"我が線条よ、光を束ねて邪道を阻め\nトリップワイヤー！",
-    },
     "Ability.トリップワイヤー.3":
     {
         "jpn":"トリップワイヤー",
-    },
-    "Ability.Description.トリップワイヤー.3":
-    {
-        "jpn":"上海人形との間にいるユニットに攻撃",
     },
     "Ability.UnlockName.トリップワイヤー.3":
     {
@@ -1836,18 +1250,6 @@
     "Ability.UnlockDescription.トリップワイヤー.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.トリップワイヤー.3":
-    {
-        "jpn":"注力",
-    },
-    "Ability.CastName.トリップワイヤー.3":
-    {
-        "jpn":"「トリップワイヤー」",
-    },
-    "Ability.SpellText.トリップワイヤー.3":
-    {
-        "jpn":"我が線条よ、光を束ねて邪道を阻め\nトリップワイヤー！",
     },
     "Ability.ドラゴンメテオ":
     {
@@ -1881,10 +1283,6 @@
     {
         "jpn":"ドラゴンメテオ",
     },
-    "Ability.Description.ドラゴンメテオ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.ドラゴンメテオ.2":
     {
         "jpn":"ドラゴンメテオL2",
@@ -1893,25 +1291,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ドラゴンメテオ.2":
-    {
-        "jpn":"星符",
-    },
-    "Ability.CastName.ドラゴンメテオ.2":
-    {
-        "jpn":"「ドラゴンメテオ」",
-    },
-    "Ability.SpellText.ドラゴンメテオ.2":
-    {
-        "jpn":"天に星屑、地に龍脈\n引き合い呼応せよ！　ドラゴンメテオ！",
-    },
     "Ability.ドラゴンメテオ.3":
     {
         "jpn":"ドラゴンメテオ",
-    },
-    "Ability.Description.ドラゴンメテオ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.ドラゴンメテオ.3":
     {
@@ -1920,18 +1302,6 @@
     "Ability.UnlockDescription.ドラゴンメテオ.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ドラゴンメテオ.3":
-    {
-        "jpn":"星符",
-    },
-    "Ability.CastName.ドラゴンメテオ.3":
-    {
-        "jpn":"「ドラゴンメテオ」",
-    },
-    "Ability.SpellText.ドラゴンメテオ.3":
-    {
-        "jpn":"天に星屑、地に龍脈\n引き合い呼応せよ！　ドラゴンメテオ！",
     },
     "Ability.ナイフ":
     {
@@ -1993,10 +1363,6 @@
     {
         "jpn":"ノエキアンデリュージュ",
     },
-    "Ability.Description.ノエキアンデリュージュ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.ノエキアンデリュージュ.2":
     {
         "jpn":"ノエキアンデリュージュL2",
@@ -2005,25 +1371,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ノエキアンデリュージュ.2":
-    {
-        "jpn":"土水符",
-    },
-    "Ability.CastName.ノエキアンデリュージュ.2":
-    {
-        "jpn":"「ノエキアンデリュージュ」",
-    },
-    "Ability.SpellText.ノエキアンデリュージュ.2":
-    {
-        "jpn":"40日と40夜の豪雨よ、大地を洗え！\nノエキアンデリュージュ！",
-    },
     "Ability.ノエキアンデリュージュ.3":
     {
         "jpn":"ノエキアンデリュージュ",
-    },
-    "Ability.Description.ノエキアンデリュージュ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.ノエキアンデリュージュ.3":
     {
@@ -2032,18 +1382,6 @@
     "Ability.UnlockDescription.ノエキアンデリュージュ.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ノエキアンデリュージュ.3":
-    {
-        "jpn":"土水符",
-    },
-    "Ability.CastName.ノエキアンデリュージュ.3":
-    {
-        "jpn":"「ノエキアンデリュージュ」",
-    },
-    "Ability.SpellText.ノエキアンデリュージュ.3":
-    {
-        "jpn":"40日と40夜の豪雨よ、大地を洗え！\nノエキアンデリュージュ！",
     },
     "Ability.ハングリータイガー":
     {
@@ -2077,10 +1415,6 @@
     {
         "jpn":"ハングリータイガー",
     },
-    "Ability.Description.ハングリータイガー.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.ハングリータイガー.2":
     {
         "jpn":"ハングリータイガーL2",
@@ -2089,25 +1423,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ハングリータイガー.2":
-    {
-        "jpn":"寅符",
-    },
-    "Ability.CastName.ハングリータイガー.2":
-    {
-        "jpn":"「ハングリータイガー」",
-    },
-    "Ability.SpellText.ハングリータイガー.2":
-    {
-        "jpn":"飢えし獣には、汝の身を差し出せ！\nハングリータイガー！",
-    },
     "Ability.ハングリータイガー.3":
     {
         "jpn":"ハングリータイガー",
-    },
-    "Ability.Description.ハングリータイガー.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.ハングリータイガー.3":
     {
@@ -2116,18 +1434,6 @@
     "Ability.UnlockDescription.ハングリータイガー.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ハングリータイガー.3":
-    {
-        "jpn":"寅符",
-    },
-    "Ability.CastName.ハングリータイガー.3":
-    {
-        "jpn":"「ハングリータイガー」",
-    },
-    "Ability.SpellText.ハングリータイガー.3":
-    {
-        "jpn":"飢えし獣には、汝の身を差し出せ！\nハングリータイガー！",
     },
     "Ability.フォースクライシス":
     {
@@ -2161,10 +1467,6 @@
     {
         "jpn":"フォースクライシス",
     },
-    "Ability.Description.フォースクライシス.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.フォースクライシス.2":
     {
         "jpn":"フォースクライシスL2",
@@ -2173,25 +1475,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.フォースクライシス.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.フォースクライシス.2":
-    {
-        "jpn":"フォースクライシス",
-    },
-    "Ability.SpellText.フォースクライシス.2":
-    {
-        "jpn":"八卦に従い、愚かなる者達の頭上に\n星砕け降り注げ！　フォースクライシス！",
-    },
     "Ability.フォースクライシス.3":
     {
         "jpn":"フォースクライシス",
-    },
-    "Ability.Description.フォースクライシス.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.フォースクライシス.3":
     {
@@ -2200,18 +1486,6 @@
     "Ability.UnlockDescription.フォースクライシス.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.フォースクライシス.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.フォースクライシス.3":
-    {
-        "jpn":"フォースクライシス",
-    },
-    "Ability.SpellText.フォースクライシス.3":
-    {
-        "jpn":"八卦に従い、愚かなる者達の頭上に\n星砕け降り注げ！　フォースクライシス！",
     },
     "Ability.ブラインドナイトバード":
     {
@@ -2245,10 +1519,6 @@
     {
         "jpn":"ブラインドナイトバード",
     },
-    "Ability.Description.ブラインドナイトバード.2":
-    {
-        "jpn":"追加効果：射程ダウン",
-    },
     "Ability.UnlockName.ブラインドナイトバード.2":
     {
         "jpn":"ブラインドナイトバードL2",
@@ -2257,25 +1527,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ブラインドナイトバード.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.ブラインドナイトバード.2":
-    {
-        "jpn":"「ブラインドナイトバード」",
-    },
-    "Ability.SpellText.ブラインドナイトバード.2":
-    {
-        "jpn":"敵発見！　私が鳥目にしてあげる！\nブラインドナイトバード！",
-    },
     "Ability.ブラインドナイトバード.3":
     {
         "jpn":"ブラインドナイトバード",
-    },
-    "Ability.Description.ブラインドナイトバード.3":
-    {
-        "jpn":"追加効果：射程ダウン",
     },
     "Ability.UnlockName.ブラインドナイトバード.3":
     {
@@ -2284,18 +1538,6 @@
     "Ability.UnlockDescription.ブラインドナイトバード.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ブラインドナイトバード.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.ブラインドナイトバード.3":
-    {
-        "jpn":"「ブラインドナイトバード」",
-    },
-    "Ability.SpellText.ブラインドナイトバード.3":
-    {
-        "jpn":"敵発見！　私が鳥目にしてあげる！\nブラインドナイトバード！",
     },
     "Ability.ブロック":
     {
@@ -2329,10 +1571,6 @@
     {
         "jpn":"ブロックL2",
     },
-    "Ability.Description.ブロック.2":
-    {
-        "jpn":"接触攻撃をたまに回避",
-    },
     "Ability.UnlockName.ブロック.2":
     {
         "jpn":"ブロックL2",
@@ -2341,25 +1579,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.ブロック.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.ブロック.2":
-    {
-        "jpn":"ブロック",
-    },
-    "Ability.SpellText.ブロック.2":
-    {
-        "jpn":"",
-    },
     "Ability.ブロック.3":
     {
         "jpn":"ブロックL3",
-    },
-    "Ability.Description.ブロック.3":
-    {
-        "jpn":"接触攻撃をたまに回避",
     },
     "Ability.UnlockName.ブロック.3":
     {
@@ -2368,18 +1590,6 @@
     "Ability.UnlockDescription.ブロック.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.ブロック.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.ブロック.3":
-    {
-        "jpn":"ブロック",
-    },
-    "Ability.SpellText.ブロック.3":
-    {
-        "jpn":"",
     },
     "Ability.ポイズンレイズ":
     {
@@ -2413,10 +1623,6 @@
     {
         "jpn":"ポイズンレイズ",
     },
-    "Ability.Description.ポイズンレイズ.2":
-    {
-        "jpn":"追加効果：毒",
-    },
     "Ability.UnlockName.ポイズンレイズ.2":
     {
         "jpn":"ポイズンレイズL2",
@@ -2425,25 +1631,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ポイズンレイズ.2":
-    {
-        "jpn":"毒爪",
-    },
-    "Ability.CastName.ポイズンレイズ.2":
-    {
-        "jpn":"「ポイズンレイズ」",
-    },
-    "Ability.SpellText.ポイズンレイズ.2":
-    {
-        "jpn":"肉体をむしばみ 不浄の爪に満つる毒\n禁忌なる屍… ポイズンレイズ！",
-    },
     "Ability.ポイズンレイズ.3":
     {
         "jpn":"ポイズンレイズ",
-    },
-    "Ability.Description.ポイズンレイズ.3":
-    {
-        "jpn":"追加効果：毒",
     },
     "Ability.UnlockName.ポイズンレイズ.3":
     {
@@ -2452,18 +1642,6 @@
     "Ability.UnlockDescription.ポイズンレイズ.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ポイズンレイズ.3":
-    {
-        "jpn":"毒爪",
-    },
-    "Ability.CastName.ポイズンレイズ.3":
-    {
-        "jpn":"「ポイズンレイズ」",
-    },
-    "Ability.SpellText.ポイズンレイズ.3":
-    {
-        "jpn":"肉体をむしばみ 不浄の爪に満つる毒\n禁忌なる屍… ポイズンレイズ！",
     },
     "Ability.マスタースパーク":
     {
@@ -2497,10 +1675,6 @@
     {
         "jpn":"マスタースパーク",
     },
-    "Ability.Description.マスタースパーク.2":
-    {
-        "jpn":"使用後魔法の威力半減",
-    },
     "Ability.UnlockName.マスタースパーク.2":
     {
         "jpn":"マスタースパークL2",
@@ -2509,25 +1683,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.マスタースパーク.2":
-    {
-        "jpn":"恋符",
-    },
-    "Ability.CastName.マスタースパーク.2":
-    {
-        "jpn":"「マスタースパーク」",
-    },
-    "Ability.SpellText.マスタースパーク.2":
-    {
-        "jpn":"四象、八卦を生じ　恋色の光を放て！\nマスタースパーク！",
-    },
     "Ability.マスタースパーク.3":
     {
         "jpn":"マスタースパーク",
-    },
-    "Ability.Description.マスタースパーク.3":
-    {
-        "jpn":"使用後魔法の威力半減",
     },
     "Ability.UnlockName.マスタースパーク.3":
     {
@@ -2536,18 +1694,6 @@
     "Ability.UnlockDescription.マスタースパーク.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.マスタースパーク.3":
-    {
-        "jpn":"恋符",
-    },
-    "Ability.CastName.マスタースパーク.3":
-    {
-        "jpn":"「マスタースパーク」",
-    },
-    "Ability.SpellText.マスタースパーク.3":
-    {
-        "jpn":"四象、八卦を生じ　恋色の光を放て！\nマスタースパーク！",
     },
     "Ability.ミレニアムの吸血鬼":
     {
@@ -2609,10 +1755,6 @@
     {
         "jpn":"ヤンシャオグイ",
     },
-    "Ability.Description.ヤンシャオグイ.2":
-    {
-        "jpn":"追加効果：敏捷低下",
-    },
     "Ability.UnlockName.ヤンシャオグイ.2":
     {
         "jpn":"ヤンシャオグイL2",
@@ -2621,25 +1763,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ヤンシャオグイ.2":
-    {
-        "jpn":"邪符",
-    },
-    "Ability.CastName.ヤンシャオグイ.2":
-    {
-        "jpn":"「ヤンシャオグイ」",
-    },
-    "Ability.SpellText.ヤンシャオグイ.2":
-    {
-        "jpn":"小さき骨、幼き霊　君を追わんと欲す\nヤンシャオグイ！",
-    },
     "Ability.ヤンシャオグイ.3":
     {
         "jpn":"ヤンシャオグイ",
-    },
-    "Ability.Description.ヤンシャオグイ.3":
-    {
-        "jpn":"追加効果：敏捷低下",
     },
     "Ability.UnlockName.ヤンシャオグイ.3":
     {
@@ -2648,18 +1774,6 @@
     "Ability.UnlockDescription.ヤンシャオグイ.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ヤンシャオグイ.3":
-    {
-        "jpn":"邪符",
-    },
-    "Ability.CastName.ヤンシャオグイ.3":
-    {
-        "jpn":"「ヤンシャオグイ」",
-    },
-    "Ability.SpellText.ヤンシャオグイ.3":
-    {
-        "jpn":"小さき骨、幼き霊　君を追わんと欲す\nヤンシャオグイ！",
     },
     "Ability.ラストジャッジメント":
     {
@@ -2693,10 +1807,6 @@
     {
         "jpn":"ラストジャッジメント",
     },
-    "Ability.Description.ラストジャッジメント.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.ラストジャッジメント.2":
     {
         "jpn":"ラストジャッジメントL2",
@@ -2705,25 +1815,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ラストジャッジメント.2":
-    {
-        "jpn":"審判",
-    },
-    "Ability.CastName.ラストジャッジメント.2":
-    {
-        "jpn":"「ラストジャッジメント」",
-    },
-    "Ability.SpellText.ラストジャッジメント.2":
-    {
-        "jpn":"死者も生者も逃れられぬ審判を受けよ！\nラストジャッジメント！",
-    },
     "Ability.ラストジャッジメント.3":
     {
         "jpn":"ラストジャッジメント",
-    },
-    "Ability.Description.ラストジャッジメント.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.ラストジャッジメント.3":
     {
@@ -2732,18 +1826,6 @@
     "Ability.UnlockDescription.ラストジャッジメント.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ラストジャッジメント.3":
-    {
-        "jpn":"審判",
-    },
-    "Ability.CastName.ラストジャッジメント.3":
-    {
-        "jpn":"「ラストジャッジメント」",
-    },
-    "Ability.SpellText.ラストジャッジメント.3":
-    {
-        "jpn":"死者も生者も逃れられぬ審判を受けよ！\nラストジャッジメント！",
     },
     "Ability.ロイヤルフレア":
     {
@@ -2777,10 +1859,6 @@
     {
         "jpn":"ロイヤルフレア",
     },
-    "Ability.Description.ロイヤルフレア.2":
-    {
-        "jpn":"使用後魔法の威力半減",
-    },
     "Ability.UnlockName.ロイヤルフレア.2":
     {
         "jpn":"ロイヤルフレアL2",
@@ -2789,25 +1867,9 @@
     {
         "jpn":"ヒット数アップ",
     },
-    "Ability.CastNamePrefix.ロイヤルフレア.2":
-    {
-        "jpn":"日符",
-    },
-    "Ability.CastName.ロイヤルフレア.2":
-    {
-        "jpn":"「ロイヤルフレア」",
-    },
-    "Ability.SpellText.ロイヤルフレア.2":
-    {
-        "jpn":"日輪揺らぎて、迸る焔は\n天と地を焼かん　ロイヤルフレア！",
-    },
     "Ability.ロイヤルフレア.3":
     {
         "jpn":"ロイヤルフレア",
-    },
-    "Ability.Description.ロイヤルフレア.3":
-    {
-        "jpn":"使用後魔法の威力半減",
     },
     "Ability.UnlockName.ロイヤルフレア.3":
     {
@@ -2816,18 +1878,6 @@
     "Ability.UnlockDescription.ロイヤルフレア.3":
     {
         "jpn":"ヒット数アップ",
-    },
-    "Ability.CastNamePrefix.ロイヤルフレア.3":
-    {
-        "jpn":"日符",
-    },
-    "Ability.CastName.ロイヤルフレア.3":
-    {
-        "jpn":"「ロイヤルフレア」",
-    },
-    "Ability.SpellText.ロイヤルフレア.3":
-    {
-        "jpn":"日輪揺らぎて、迸る焔は\n天と地を焼かん　ロイヤルフレア！",
     },
     "Ability.ワイルドカーペット":
     {
@@ -2861,10 +1911,6 @@
     {
         "jpn":"ワイルドカーペット",
     },
-    "Ability.Description.ワイルドカーペット.2":
-    {
-        "jpn":"状態変化を解除",
-    },
     "Ability.UnlockName.ワイルドカーペット.2":
     {
         "jpn":"ワイルドカーペットL2",
@@ -2873,25 +1919,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.ワイルドカーペット.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.ワイルドカーペット.2":
-    {
-        "jpn":"「ワイルドカーペット」",
-    },
-    "Ability.SpellText.ワイルドカーペット.2":
-    {
-        "jpn":"鳥獣たちよ、来たりて大地を覆え！\nワイルドカーペット！",
-    },
     "Ability.ワイルドカーペット.3":
     {
         "jpn":"ワイルドカーペット",
-    },
-    "Ability.Description.ワイルドカーペット.3":
-    {
-        "jpn":"状態変化を解除",
     },
     "Ability.UnlockName.ワイルドカーペット.3":
     {
@@ -2900,18 +1930,6 @@
     "Ability.UnlockDescription.ワイルドカーペット.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.ワイルドカーペット.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.ワイルドカーペット.3":
-    {
-        "jpn":"「ワイルドカーペット」",
-    },
-    "Ability.SpellText.ワイルドカーペット.3":
-    {
-        "jpn":"鳥獣たちよ、来たりて大地を覆え！\nワイルドカーペット！",
     },
     "Ability.一寸法師にも五分の魂":
     {
@@ -2945,10 +1963,6 @@
     {
         "jpn":"一寸法師にも五分の魂",
     },
-    "Ability.Description.一寸法師にも五分の魂.2":
-    {
-        "jpn":"防御無視ダメージ カウンター無効",
-    },
     "Ability.UnlockName.一寸法師にも五分の魂.2":
     {
         "jpn":"一寸法師にも五分の魂L2",
@@ -2957,25 +1971,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.一寸法師にも五分の魂.2":
-    {
-        "jpn":"小人",
-    },
-    "Ability.CastName.一寸法師にも五分の魂.2":
-    {
-        "jpn":"「一寸法師にも五分の魂」",
-    },
-    "Ability.SpellText.一寸法師にも五分の魂.2":
-    {
-        "jpn":"小さくなあれ、大きくなあれ\nそして砕けろ！　一寸法師にも五分の魂！",
-    },
     "Ability.一寸法師にも五分の魂.3":
     {
         "jpn":"一寸法師にも五分の魂",
-    },
-    "Ability.Description.一寸法師にも五分の魂.3":
-    {
-        "jpn":"防御無視ダメージ カウンター無効",
     },
     "Ability.UnlockName.一寸法師にも五分の魂.3":
     {
@@ -2984,18 +1982,6 @@
     "Ability.UnlockDescription.一寸法師にも五分の魂.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.一寸法師にも五分の魂.3":
-    {
-        "jpn":"小人",
-    },
-    "Ability.CastName.一寸法師にも五分の魂.3":
-    {
-        "jpn":"「一寸法師にも五分の魂」",
-    },
-    "Ability.SpellText.一寸法師にも五分の魂.3":
-    {
-        "jpn":"小さくなあれ、大きくなあれ\nそして砕けろ！　一寸法師にも五分の魂！",
     },
     "Ability.上海人形":
     {
@@ -3012,6 +1998,10 @@
     "Ability.UnlockDescription.上海人形":
     {
         "jpn":"上海人形を呼び出す",
+    },
+    "Ability.SpellText.上海人形":
+    {
+        "jpn":"人の似姿にかりそめの命を",
     },
     "Ability.二ッ岩家の裁き":
     {
@@ -3105,10 +2095,6 @@
     {
         "jpn":"HP+20％",
     },
-    "Ability.Description.体力アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.体力アップ.2":
     {
         "jpn":"HP+20％",
@@ -3120,10 +2106,6 @@
     "Ability.体力アップ.3":
     {
         "jpn":"HP+30％",
-    },
-    "Ability.Description.体力アップ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.体力アップ.3":
     {
@@ -3137,10 +2119,6 @@
     {
         "jpn":"HP+40％",
     },
-    "Ability.Description.体力アップ.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.体力アップ.4":
     {
         "jpn":"HP+40％",
@@ -3152,10 +2130,6 @@
     "Ability.体力アップ.5":
     {
         "jpn":"HP+50％",
-    },
-    "Ability.Description.体力アップ.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.体力アップ.5":
     {
@@ -3197,10 +2171,6 @@
     {
         "jpn":"余命幾許も無し",
     },
-    "Ability.Description.余命幾許も無し.2":
-    {
-        "jpn":"相手のHPを半減",
-    },
     "Ability.UnlockName.余命幾許も無し.2":
     {
         "jpn":"余命幾許も無しL2",
@@ -3209,25 +2179,9 @@
     {
         "jpn":"命中上昇",
     },
-    "Ability.CastNamePrefix.余命幾許も無し.2":
-    {
-        "jpn":"薄命",
-    },
-    "Ability.CastName.余命幾許も無し.2":
-    {
-        "jpn":"「余命幾許も無し」",
-    },
-    "Ability.SpellText.余命幾許も無し.2":
-    {
-        "jpn":"死神の手をとり、蝋燭を叩き切り\n三途の川を渡れ…　余命幾許もなし！",
-    },
     "Ability.余命幾許も無し.3":
     {
         "jpn":"余命幾許も無し",
-    },
-    "Ability.Description.余命幾許も無し.3":
-    {
-        "jpn":"相手のHPを半減",
     },
     "Ability.UnlockName.余命幾許も無し.3":
     {
@@ -3236,18 +2190,6 @@
     "Ability.UnlockDescription.余命幾許も無し.3":
     {
         "jpn":"命中上昇",
-    },
-    "Ability.CastNamePrefix.余命幾許も無し.3":
-    {
-        "jpn":"薄命",
-    },
-    "Ability.CastName.余命幾許も無し.3":
-    {
-        "jpn":"「余命幾許も無し」",
-    },
-    "Ability.SpellText.余命幾許も無し.3":
-    {
-        "jpn":"死神の手をとり、蝋燭を叩き切り\n三途の川を渡れ…　余命幾許もなし！",
     },
     "Ability.八方鬼縛陣":
     {
@@ -3281,10 +2223,6 @@
     {
         "jpn":"八方鬼縛陣",
     },
-    "Ability.Description.八方鬼縛陣.2":
-    {
-        "jpn":"妖怪特効",
-    },
     "Ability.UnlockName.八方鬼縛陣.2":
     {
         "jpn":"八方鬼縛陣L2",
@@ -3293,25 +2231,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.八方鬼縛陣.2":
-    {
-        "jpn":"神技",
-    },
-    "Ability.CastName.八方鬼縛陣.2":
-    {
-        "jpn":"「八方鬼縛陣」",
-    },
-    "Ability.SpellText.八方鬼縛陣.2":
-    {
-        "jpn":"神力、我が身を囲いて\n輝く呪縛となれ！　八方鬼縛陣！",
-    },
     "Ability.八方鬼縛陣.3":
     {
         "jpn":"八方鬼縛陣",
-    },
-    "Ability.Description.八方鬼縛陣.3":
-    {
-        "jpn":"妖怪特効",
     },
     "Ability.UnlockName.八方鬼縛陣.3":
     {
@@ -3320,18 +2242,6 @@
     "Ability.UnlockDescription.八方鬼縛陣.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.八方鬼縛陣.3":
-    {
-        "jpn":"神技",
-    },
-    "Ability.CastName.八方鬼縛陣.3":
-    {
-        "jpn":"「八方鬼縛陣」",
-    },
-    "Ability.SpellText.八方鬼縛陣.3":
-    {
-        "jpn":"神力、我が身を囲いて\n輝く呪縛となれ！　八方鬼縛陣！",
     },
     "Ability.勧善懲悪は古の良き典なり":
     {
@@ -3365,10 +2275,6 @@
     {
         "jpn":"勧善懲悪は古の良き典なり",
     },
-    "Ability.Description.勧善懲悪は古の良き典なり.2":
-    {
-        "jpn":"相手の装備を破壊する",
-    },
     "Ability.UnlockName.勧善懲悪は古の良き典なり.2":
     {
         "jpn":"勧善懲悪は古の良き典なりL2",
@@ -3377,25 +2283,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.勧善懲悪は古の良き典なり.2":
-    {
-        "jpn":"人符",
-    },
-    "Ability.CastName.勧善懲悪は古の良き典なり.2":
-    {
-        "jpn":"「勧善懲悪は古の良き典なり」",
-    },
-    "Ability.SpellText.勧善懲悪は古の良き典なり.2":
-    {
-        "jpn":"へつらいあざむく者の利器鋒剣を砕かん\n勧善懲悪は古の良き典なり！",
-    },
     "Ability.勧善懲悪は古の良き典なり.3":
     {
         "jpn":"勧善懲悪は古の良き典なり",
-    },
-    "Ability.Description.勧善懲悪は古の良き典なり.3":
-    {
-        "jpn":"相手の装備を破壊する",
     },
     "Ability.UnlockName.勧善懲悪は古の良き典なり.3":
     {
@@ -3404,18 +2294,6 @@
     "Ability.UnlockDescription.勧善懲悪は古の良き典なり.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.勧善懲悪は古の良き典なり.3":
-    {
-        "jpn":"人符",
-    },
-    "Ability.CastName.勧善懲悪は古の良き典なり.3":
-    {
-        "jpn":"「勧善懲悪は古の良き典なり」",
-    },
-    "Ability.SpellText.勧善懲悪は古の良き典なり.3":
-    {
-        "jpn":"へつらいあざむく者の利器鋒剣を砕かん\n勧善懲悪は古の良き典なり！",
     },
     "Ability.十王裁判":
     {
@@ -3449,10 +2327,6 @@
     {
         "jpn":"十王裁判",
     },
-    "Ability.Description.十王裁判.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.十王裁判.2":
     {
         "jpn":"十王裁判L2",
@@ -3461,25 +2335,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.十王裁判.2":
-    {
-        "jpn":"審判",
-    },
-    "Ability.CastName.十王裁判.2":
-    {
-        "jpn":"「十王裁判」",
-    },
-    "Ability.SpellText.十王裁判.2":
-    {
-        "jpn":"天空の光に己の罪を問え！\n審判、十王裁判！",
-    },
     "Ability.十王裁判.3":
     {
         "jpn":"十王裁判",
-    },
-    "Ability.Description.十王裁判.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.十王裁判.3":
     {
@@ -3488,18 +2346,6 @@
     "Ability.UnlockDescription.十王裁判.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.十王裁判.3":
-    {
-        "jpn":"審判",
-    },
-    "Ability.CastName.十王裁判.3":
-    {
-        "jpn":"「十王裁判」",
-    },
-    "Ability.SpellText.十王裁判.3":
-    {
-        "jpn":"天空の光に己の罪を問え！\n審判、十王裁判！",
     },
     "Ability.呪力吸収":
     {
@@ -3565,10 +2411,6 @@
     {
         "jpn":"命中+10",
     },
-    "Ability.Description.命中アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.命中アップ.2":
     {
         "jpn":"命中+10",
@@ -3580,10 +2422,6 @@
     "Ability.命中アップ.3":
     {
         "jpn":"命中+15",
-    },
-    "Ability.Description.命中アップ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.命中アップ.3":
     {
@@ -3597,10 +2435,6 @@
     {
         "jpn":"命中+20",
     },
-    "Ability.Description.命中アップ.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.命中アップ.4":
     {
         "jpn":"命中+20",
@@ -3612,10 +2446,6 @@
     "Ability.命中アップ.5":
     {
         "jpn":"命中+25",
-    },
-    "Ability.Description.命中アップ.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.命中アップ.5":
     {
@@ -3657,10 +2487,6 @@
     {
         "jpn":"咲夜の世界",
     },
-    "Ability.Description.咲夜の世界.2":
-    {
-        "jpn":"連続行動",
-    },
     "Ability.UnlockName.咲夜の世界.2":
     {
         "jpn":"咲夜の世界L2",
@@ -3669,25 +2495,9 @@
     {
         "jpn":"行動回数増加",
     },
-    "Ability.CastNamePrefix.咲夜の世界.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.咲夜の世界.2":
-    {
-        "jpn":"「咲夜の世界」",
-    },
-    "Ability.SpellText.咲夜の世界.2":
-    {
-        "jpn":"あなたの時間も私のもの\n動けぬ者に勝ち目は、ない　咲夜の世界！",
-    },
     "Ability.咲夜の世界.3":
     {
         "jpn":"咲夜の世界",
-    },
-    "Ability.Description.咲夜の世界.3":
-    {
-        "jpn":"連続行動",
     },
     "Ability.UnlockName.咲夜の世界.3":
     {
@@ -3696,18 +2506,6 @@
     "Ability.UnlockDescription.咲夜の世界.3":
     {
         "jpn":"コスト減少",
-    },
-    "Ability.CastNamePrefix.咲夜の世界.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.咲夜の世界.3":
-    {
-        "jpn":"「咲夜の世界」",
-    },
-    "Ability.SpellText.咲夜の世界.3":
-    {
-        "jpn":"あなたの時間も私のもの\n動けぬ者に勝ち目は、ない　咲夜の世界！",
     },
     "Ability.回避":
     {
@@ -3757,10 +2555,6 @@
     {
         "jpn":"回避+10",
     },
-    "Ability.Description.回避アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.回避アップ.2":
     {
         "jpn":"回避+10",
@@ -3772,10 +2566,6 @@
     "Ability.回避アップ.3":
     {
         "jpn":"回避+15",
-    },
-    "Ability.Description.回避アップ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.回避アップ.3":
     {
@@ -3789,10 +2579,6 @@
     {
         "jpn":"回避+20",
     },
-    "Ability.Description.回避アップ.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.回避アップ.4":
     {
         "jpn":"回避+20",
@@ -3804,10 +2590,6 @@
     "Ability.回避アップ.5":
     {
         "jpn":"回避+25",
-    },
-    "Ability.Description.回避アップ.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.回避アップ.5":
     {
@@ -3865,10 +2647,6 @@
     {
         "jpn":"夜雀の歌",
     },
-    "Ability.Description.夜雀の歌.2":
-    {
-        "jpn":"追加効果：命中ダウン",
-    },
     "Ability.UnlockName.夜雀の歌.2":
     {
         "jpn":"夜雀の歌L2",
@@ -3877,25 +2655,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.夜雀の歌.2":
-    {
-        "jpn":"夜盲",
-    },
-    "Ability.CastName.夜雀の歌.2":
-    {
-        "jpn":"「夜雀の歌」",
-    },
-    "Ability.SpellText.夜雀の歌.2":
-    {
-        "jpn":"弾幕なんかよりも爆発力のある\n夜雀の歌を聴けー！",
-    },
     "Ability.夜雀の歌.3":
     {
         "jpn":"夜雀の歌",
-    },
-    "Ability.Description.夜雀の歌.3":
-    {
-        "jpn":"追加効果：命中ダウン",
     },
     "Ability.UnlockName.夜雀の歌.3":
     {
@@ -3904,18 +2666,6 @@
     "Ability.UnlockDescription.夜雀の歌.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.夜雀の歌.3":
-    {
-        "jpn":"夜盲",
-    },
-    "Ability.CastName.夜雀の歌.3":
-    {
-        "jpn":"「夜雀の歌」",
-    },
-    "Ability.SpellText.夜雀の歌.3":
-    {
-        "jpn":"弾幕なんかよりも爆発力のある\n夜雀の歌を聴けー！",
     },
     "Ability.夢想封印":
     {
@@ -3949,10 +2699,6 @@
     {
         "jpn":"夢想封印",
     },
-    "Ability.Description.夢想封印.2":
-    {
-        "jpn":"妖怪特効",
-    },
     "Ability.UnlockName.夢想封印.2":
     {
         "jpn":"夢想封印L2",
@@ -3961,25 +2707,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.夢想封印.2":
-    {
-        "jpn":"霊符",
-    },
-    "Ability.CastName.夢想封印.2":
-    {
-        "jpn":"「夢想封印」",
-    },
-    "Ability.SpellText.夢想封印.2":
-    {
-        "jpn":"光つどいて\n魔を封ぜよ！　夢想封印！",
-    },
     "Ability.夢想封印.3":
     {
         "jpn":"夢想封印",
-    },
-    "Ability.Description.夢想封印.3":
-    {
-        "jpn":"妖怪特効",
     },
     "Ability.UnlockName.夢想封印.3":
     {
@@ -3988,18 +2718,6 @@
     "Ability.UnlockDescription.夢想封印.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.夢想封印.3":
-    {
-        "jpn":"霊符",
-    },
-    "Ability.CastName.夢想封印.3":
-    {
-        "jpn":"「夢想封印」",
-    },
-    "Ability.SpellText.夢想封印.3":
-    {
-        "jpn":"光つどいて\n魔を封ぜよ！　夢想封印！",
     },
     "Ability.大日如来の輝き":
     {
@@ -4033,10 +2751,6 @@
     {
         "jpn":"大日如来の輝き",
     },
-    "Ability.Description.大日如来の輝き.2":
-    {
-        "jpn":"射撃・接触攻撃をかわしてカウンター",
-    },
     "Ability.UnlockName.大日如来の輝き.2":
     {
         "jpn":"大日如来の輝きL2",
@@ -4045,25 +2759,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.大日如来の輝き.2":
-    {
-        "jpn":"天符",
-    },
-    "Ability.CastName.大日如来の輝き.2":
-    {
-        "jpn":"「大日如来の輝き」",
-    },
-    "Ability.SpellText.大日如来の輝き.2":
-    {
-        "jpn":"",
-    },
     "Ability.大日如来の輝き.3":
     {
         "jpn":"大日如来の輝き",
-    },
-    "Ability.Description.大日如来の輝き.3":
-    {
-        "jpn":"射撃・接触攻撃をかわしてカウンター",
     },
     "Ability.UnlockName.大日如来の輝き.3":
     {
@@ -4072,18 +2770,6 @@
     "Ability.UnlockDescription.大日如来の輝き.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.大日如来の輝き.3":
-    {
-        "jpn":"天符",
-    },
-    "Ability.CastName.大日如来の輝き.3":
-    {
-        "jpn":"「大日如来の輝き」",
-    },
-    "Ability.SpellText.大日如来の輝き.3":
-    {
-        "jpn":"",
     },
     "Ability.大火の改新":
     {
@@ -4117,10 +2803,6 @@
     {
         "jpn":"大火の改新",
     },
-    "Ability.Description.大火の改新.2":
-    {
-        "jpn":"地形変化",
-    },
     "Ability.UnlockName.大火の改新.2":
     {
         "jpn":"大火の改新L2",
@@ -4129,25 +2811,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.大火の改新.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.大火の改新.2":
-    {
-        "jpn":"「大火の改新」",
-    },
-    "Ability.SpellText.大火の改新.2":
-    {
-        "jpn":"地に潜む炎よ、世を赤く染めよ！\n今こそ来たれ、大火の改新！",
-    },
     "Ability.大火の改新.3":
     {
         "jpn":"大火の改新",
-    },
-    "Ability.Description.大火の改新.3":
-    {
-        "jpn":"地形変化",
     },
     "Ability.UnlockName.大火の改新.3":
     {
@@ -4156,18 +2822,6 @@
     "Ability.UnlockDescription.大火の改新.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.大火の改新.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.大火の改新.3":
-    {
-        "jpn":"「大火の改新」",
-    },
-    "Ability.SpellText.大火の改新.3":
-    {
-        "jpn":"地に潜む炎よ、世を赤く染めよ！\n今こそ来たれ、大火の改新！",
     },
     "Ability.威圧":
     {
@@ -4188,10 +2842,6 @@
     "Ability.威圧.2":
     {
         "jpn":"威圧L2",
-    },
-    "Ability.Description.威圧.2":
-    {
-        "jpn":"敵ユニットの移動を阻害",
     },
     "Ability.UnlockName.威圧.2":
     {
@@ -4233,10 +2883,6 @@
     {
         "jpn":"宵越しの銭",
     },
-    "Ability.Description.宵越しの銭.2":
-    {
-        "jpn":"所持金を消費して攻撃",
-    },
     "Ability.UnlockName.宵越しの銭.2":
     {
         "jpn":"宵越しの銭L2",
@@ -4245,25 +2891,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.宵越しの銭.2":
-    {
-        "jpn":"投銭",
-    },
-    "Ability.CastName.宵越しの銭.2":
-    {
-        "jpn":"「宵越しの銭」",
-    },
-    "Ability.SpellText.宵越しの銭.2":
-    {
-        "jpn":"六文銭をつかみ、冥府への旅路にのぞめ！\n宵越しの銭！",
-    },
     "Ability.宵越しの銭.3":
     {
         "jpn":"宵越しの銭",
-    },
-    "Ability.Description.宵越しの銭.3":
-    {
-        "jpn":"所持金を消費して攻撃",
     },
     "Ability.UnlockName.宵越しの銭.3":
     {
@@ -4272,18 +2902,6 @@
     "Ability.UnlockDescription.宵越しの銭.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.宵越しの銭.3":
-    {
-        "jpn":"投銭",
-    },
-    "Ability.CastName.宵越しの銭.3":
-    {
-        "jpn":"「宵越しの銭」",
-    },
-    "Ability.SpellText.宵越しの銭.3":
-    {
-        "jpn":"六文銭をつかみ、冥府への旅路にのぞめ！\n宵越しの銭！",
     },
     "Ability.射撃":
     {
@@ -4377,10 +2995,6 @@
     {
         "jpn":"必殺+10",
     },
-    "Ability.Description.必殺アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.必殺アップ.2":
     {
         "jpn":"必殺+10",
@@ -4392,10 +3006,6 @@
     "Ability.必殺アップ.3":
     {
         "jpn":"必殺+15",
-    },
-    "Ability.Description.必殺アップ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.必殺アップ.3":
     {
@@ -4409,10 +3019,6 @@
     {
         "jpn":"必殺+20",
     },
-    "Ability.Description.必殺アップ.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.必殺アップ.4":
     {
         "jpn":"必殺+20",
@@ -4424,10 +3030,6 @@
     "Ability.必殺アップ.5":
     {
         "jpn":"必殺+25",
-    },
-    "Ability.Description.必殺アップ.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.必殺アップ.5":
     {
@@ -4501,10 +3103,6 @@
     {
         "jpn":"攻撃+10％",
     },
-    "Ability.Description.攻撃アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.攻撃アップ.2":
     {
         "jpn":"攻撃+10％",
@@ -4516,10 +3114,6 @@
     "Ability.攻撃アップ.3":
     {
         "jpn":"攻撃+15％",
-    },
-    "Ability.Description.攻撃アップ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.攻撃アップ.3":
     {
@@ -4533,10 +3127,6 @@
     {
         "jpn":"攻撃+20％",
     },
-    "Ability.Description.攻撃アップ.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.攻撃アップ.4":
     {
         "jpn":"攻撃+20％",
@@ -4548,10 +3138,6 @@
     "Ability.攻撃アップ.5":
     {
         "jpn":"攻撃+25％",
-    },
-    "Ability.Description.攻撃アップ.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.攻撃アップ.5":
     {
@@ -4581,10 +3167,6 @@
     {
         "jpn":"敏捷+10％",
     },
-    "Ability.Description.敏捷アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.敏捷アップ.2":
     {
         "jpn":"敏捷+10％",
@@ -4596,10 +3178,6 @@
     "Ability.敏捷アップ.3":
     {
         "jpn":"敏捷+15％",
-    },
-    "Ability.Description.敏捷アップ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.敏捷アップ.3":
     {
@@ -4613,10 +3191,6 @@
     {
         "jpn":"敏捷+20％",
     },
-    "Ability.Description.敏捷アップ.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.敏捷アップ.4":
     {
         "jpn":"敏捷+20％",
@@ -4628,10 +3202,6 @@
     "Ability.敏捷アップ.5":
     {
         "jpn":"敏捷+25％",
-    },
-    "Ability.Description.敏捷アップ.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.敏捷アップ.5":
     {
@@ -4689,10 +3259,6 @@
     {
         "jpn":"施餓鬼縛りの術",
     },
-    "Ability.Description.施餓鬼縛りの術.2":
-    {
-        "jpn":"敵ユニットの呪力を奪う",
-    },
     "Ability.UnlockName.施餓鬼縛りの術.2":
     {
         "jpn":"施餓鬼縛りの術L2",
@@ -4701,25 +3267,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.施餓鬼縛りの術.2":
-    {
-        "jpn":"酔夢",
-    },
-    "Ability.CastName.施餓鬼縛りの術.2":
-    {
-        "jpn":"「施餓鬼縛りの術」",
-    },
-    "Ability.SpellText.施餓鬼縛りの術.2":
-    {
-        "jpn":"飢えし者ども　呑めや歌え\n施餓鬼縛りの術！",
-    },
     "Ability.施餓鬼縛りの術.3":
     {
         "jpn":"施餓鬼縛りの術",
-    },
-    "Ability.Description.施餓鬼縛りの術.3":
-    {
-        "jpn":"敵ユニットの呪力を奪う",
     },
     "Ability.UnlockName.施餓鬼縛りの術.3":
     {
@@ -4728,18 +3278,6 @@
     "Ability.UnlockDescription.施餓鬼縛りの術.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.施餓鬼縛りの術.3":
-    {
-        "jpn":"酔夢",
-    },
-    "Ability.CastName.施餓鬼縛りの術.3":
-    {
-        "jpn":"「施餓鬼縛りの術」",
-    },
-    "Ability.SpellText.施餓鬼縛りの術.3":
-    {
-        "jpn":"飢えし者ども　呑めや歌え\n施餓鬼縛りの術！",
     },
     "Ability.月兎遠隔催眠術(テレメスメリズム)":
     {
@@ -4773,10 +3311,6 @@
     {
         "jpn":"月兎遠隔催眠術(テレメスメリズム)",
     },
-    "Ability.Description.月兎遠隔催眠術(テレメスメリズム).2":
-    {
-        "jpn":"50%の確率で相手の行動値を下げる",
-    },
     "Ability.UnlockName.月兎遠隔催眠術(テレメスメリズム).2":
     {
         "jpn":"月兎遠隔催眠術(テレメスメリズム)L2",
@@ -4785,25 +3319,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.月兎遠隔催眠術(テレメスメリズム).2":
-    {
-        "jpn":"月眼",
-    },
-    "Ability.CastName.月兎遠隔催眠術(テレメスメリズム).2":
-    {
-        "jpn":"「月兎遠隔催眠術(テレメスメリズム)」",
-    },
-    "Ability.SpellText.月兎遠隔催眠術(テレメスメリズム).2":
-    {
-        "jpn":"狂気の瞳に　揺らげ意識よ\n月兎遠隔催眠術！",
-    },
     "Ability.月兎遠隔催眠術(テレメスメリズム).3":
     {
         "jpn":"月兎遠隔催眠術(テレメスメリズム)",
-    },
-    "Ability.Description.月兎遠隔催眠術(テレメスメリズム).3":
-    {
-        "jpn":"50%の確率で相手の行動値を下げる",
     },
     "Ability.UnlockName.月兎遠隔催眠術(テレメスメリズム).3":
     {
@@ -4812,18 +3330,6 @@
     "Ability.UnlockDescription.月兎遠隔催眠術(テレメスメリズム).3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.月兎遠隔催眠術(テレメスメリズム).3":
-    {
-        "jpn":"月眼",
-    },
-    "Ability.CastName.月兎遠隔催眠術(テレメスメリズム).3":
-    {
-        "jpn":"「月兎遠隔催眠術(テレメスメリズム)」",
-    },
-    "Ability.SpellText.月兎遠隔催眠術(テレメスメリズム).3":
-    {
-        "jpn":"狂気の瞳に　揺らげ意識よ\n月兎遠隔催眠術！",
     },
     "Ability.森羅結界":
     {
@@ -4949,10 +3455,6 @@
     {
         "jpn":"瀕死HP回復L2",
     },
-    "Ability.Description.瀕死HP回復.2":
-    {
-        "jpn":"瀕死時にたまにHPが回復",
-    },
     "Ability.UnlockName.瀕死HP回復.2":
     {
         "jpn":"瀕死HP回復L2",
@@ -4961,25 +3463,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.瀕死HP回復.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.瀕死HP回復.2":
-    {
-        "jpn":"瀕死HP回復",
-    },
-    "Ability.SpellText.瀕死HP回復.2":
-    {
-        "jpn":"",
-    },
     "Ability.瀕死HP回復.3":
     {
         "jpn":"瀕死HP回復L3",
-    },
-    "Ability.Description.瀕死HP回復.3":
-    {
-        "jpn":"瀕死時にたまにHPが回復",
     },
     "Ability.UnlockName.瀕死HP回復.3":
     {
@@ -4988,18 +3474,6 @@
     "Ability.UnlockDescription.瀕死HP回復.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.瀕死HP回復.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.瀕死HP回復.3":
-    {
-        "jpn":"瀕死HP回復",
-    },
-    "Ability.SpellText.瀕死HP回復.3":
-    {
-        "jpn":"",
     },
     "Ability.瀕死クイック":
     {
@@ -5033,10 +3507,6 @@
     {
         "jpn":"瀕死クイックL2",
     },
-    "Ability.Description.瀕死クイック.2":
-    {
-        "jpn":"瀕死時にたまに行動値が増加",
-    },
     "Ability.UnlockName.瀕死クイック.2":
     {
         "jpn":"瀕死クイックL2",
@@ -5044,18 +3514,6 @@
     "Ability.UnlockDescription.瀕死クイック.2":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.瀕死クイック.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.瀕死クイック.2":
-    {
-        "jpn":"瀕死クイック",
-    },
-    "Ability.SpellText.瀕死クイック.2":
-    {
-        "jpn":"",
     },
     "Ability.瀕死呪力チャージ":
     {
@@ -5089,10 +3547,6 @@
     {
         "jpn":"呪力チャージL2",
     },
-    "Ability.Description.瀕死呪力チャージ.2":
-    {
-        "jpn":"瀕死時に呪力が増加",
-    },
     "Ability.UnlockName.瀕死呪力チャージ.2":
     {
         "jpn":"呪力チャージL2",
@@ -5101,25 +3555,9 @@
     {
         "jpn":"増加量アップ",
     },
-    "Ability.CastNamePrefix.瀕死呪力チャージ.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.瀕死呪力チャージ.2":
-    {
-        "jpn":"瀕死呪力チャージ",
-    },
-    "Ability.SpellText.瀕死呪力チャージ.2":
-    {
-        "jpn":"",
-    },
     "Ability.瀕死呪力チャージ.3":
     {
         "jpn":"呪力チャージL3",
-    },
-    "Ability.Description.瀕死呪力チャージ.3":
-    {
-        "jpn":"瀕死時に呪力が増加",
     },
     "Ability.UnlockName.瀕死呪力チャージ.3":
     {
@@ -5128,18 +3566,6 @@
     "Ability.UnlockDescription.瀕死呪力チャージ.3":
     {
         "jpn":"増加量アップ",
-    },
-    "Ability.CastNamePrefix.瀕死呪力チャージ.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.瀕死呪力チャージ.3":
-    {
-        "jpn":"瀕死呪力チャージ",
-    },
-    "Ability.SpellText.瀕死呪力チャージ.3":
-    {
-        "jpn":"",
     },
     "Ability.火焔の車輪":
     {
@@ -5173,10 +3599,6 @@
     {
         "jpn":"火焔の車輪",
     },
-    "Ability.Description.火焔の車輪.2":
-    {
-        "jpn":"地形変化",
-    },
     "Ability.UnlockName.火焔の車輪.2":
     {
         "jpn":"火焔の車輪L2",
@@ -5185,25 +3607,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.火焔の車輪.2":
-    {
-        "jpn":"妖怪",
-    },
-    "Ability.CastName.火焔の車輪.2":
-    {
-        "jpn":"「火焔の車輪」",
-    },
-    "Ability.SpellText.火焔の車輪.2":
-    {
-        "jpn":"地に閉ざされし、地獄の炎よ\n死者の罪を問え！ 火焔の車輪！",
-    },
     "Ability.火焔の車輪.3":
     {
         "jpn":"火焔の車輪",
-    },
-    "Ability.Description.火焔の車輪.3":
-    {
-        "jpn":"地形変化",
     },
     "Ability.UnlockName.火焔の車輪.3":
     {
@@ -5212,18 +3618,6 @@
     "Ability.UnlockDescription.火焔の車輪.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.火焔の車輪.3":
-    {
-        "jpn":"妖怪",
-    },
-    "Ability.CastName.火焔の車輪.3":
-    {
-        "jpn":"「火焔の車輪」",
-    },
-    "Ability.SpellText.火焔の車輪.3":
-    {
-        "jpn":"地に閉ざされし、地獄の炎よ\n死者の罪を問え！ 火焔の車輪！",
     },
     "Ability.物理に強い":
     {
@@ -5245,10 +3639,6 @@
     {
         "jpn":"物理ダメージ10％減",
     },
-    "Ability.Description.物理に強い.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.物理に強い.2":
     {
         "jpn":"物理ダメージ10％減",
@@ -5260,10 +3650,6 @@
     "Ability.物理に強い.3":
     {
         "jpn":"物理ダメージ15％減",
-    },
-    "Ability.Description.物理に強い.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.物理に強い.3":
     {
@@ -5277,10 +3663,6 @@
     {
         "jpn":"物理ダメージ20％減",
     },
-    "Ability.Description.物理に強い.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.物理に強い.4":
     {
         "jpn":"物理ダメージ20％減",
@@ -5292,10 +3674,6 @@
     "Ability.物理に強い.5":
     {
         "jpn":"物理ダメージ25％減",
-    },
-    "Ability.Description.物理に強い.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.物理に強い.5":
     {
@@ -5325,10 +3703,6 @@
     {
         "jpn":"物理威力+10％",
     },
-    "Ability.Description.物理攻撃アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.物理攻撃アップ.2":
     {
         "jpn":"物理威力+10％",
@@ -5340,10 +3714,6 @@
     "Ability.物理攻撃アップ.3":
     {
         "jpn":"物理威力+15％",
-    },
-    "Ability.Description.物理攻撃アップ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.物理攻撃アップ.3":
     {
@@ -5357,10 +3727,6 @@
     {
         "jpn":"物理威力+20％",
     },
-    "Ability.Description.物理攻撃アップ.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.物理攻撃アップ.4":
     {
         "jpn":"物理威力+20％",
@@ -5372,10 +3738,6 @@
     "Ability.物理攻撃アップ.5":
     {
         "jpn":"物理威力+25％",
-    },
-    "Ability.Description.物理攻撃アップ.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.物理攻撃アップ.5":
     {
@@ -5417,10 +3779,6 @@
     {
         "jpn":"百万鬼夜行",
     },
-    "Ability.Description.百万鬼夜行.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.百万鬼夜行.2":
     {
         "jpn":"百万鬼夜行L2",
@@ -5429,25 +3787,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.百万鬼夜行.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.百万鬼夜行.2":
-    {
-        "jpn":"「百万鬼夜行」",
-    },
-    "Ability.SpellText.百万鬼夜行.2":
-    {
-        "jpn":"私の酒と技が受けられないってのか！\n百万鬼夜行！",
-    },
     "Ability.百万鬼夜行.3":
     {
         "jpn":"百万鬼夜行",
-    },
-    "Ability.Description.百万鬼夜行.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.百万鬼夜行.3":
     {
@@ -5456,18 +3798,6 @@
     "Ability.UnlockDescription.百万鬼夜行.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.百万鬼夜行.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.百万鬼夜行.3":
-    {
-        "jpn":"「百万鬼夜行」",
-    },
-    "Ability.SpellText.百万鬼夜行.3":
-    {
-        "jpn":"私の酒と技が受けられないってのか！\n百万鬼夜行！",
     },
     "Ability.盗む":
     {
@@ -5701,10 +4031,6 @@
     {
         "jpn":"移動+2",
     },
-    "Ability.Description.移動アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.移動アップ.2":
     {
         "jpn":"移動+2",
@@ -5801,10 +4127,6 @@
     {
         "jpn":"花鳥風月、嘯風弄月",
     },
-    "Ability.Description.花鳥風月、嘯風弄月.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.花鳥風月、嘯風弄月.2":
     {
         "jpn":"花鳥風月、嘯風弄月L2",
@@ -5813,25 +4135,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.花鳥風月、嘯風弄月.2":
-    {
-        "jpn":"幻想",
-    },
-    "Ability.CastName.花鳥風月、嘯風弄月.2":
-    {
-        "jpn":"「花鳥風月、嘯風弄月」",
-    },
-    "Ability.SpellText.花鳥風月、嘯風弄月.2":
-    {
-        "jpn":"枯れない花は百花繚乱の光を放つ！\n花鳥風月、嘯風弄月！",
-    },
     "Ability.花鳥風月、嘯風弄月.3":
     {
         "jpn":"花鳥風月、嘯風弄月",
-    },
-    "Ability.Description.花鳥風月、嘯風弄月.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.花鳥風月、嘯風弄月.3":
     {
@@ -5840,18 +4146,6 @@
     "Ability.UnlockDescription.花鳥風月、嘯風弄月.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.花鳥風月、嘯風弄月.3":
-    {
-        "jpn":"幻想",
-    },
-    "Ability.CastName.花鳥風月、嘯風弄月.3":
-    {
-        "jpn":"「花鳥風月、嘯風弄月」",
-    },
-    "Ability.SpellText.花鳥風月、嘯風弄月.3":
-    {
-        "jpn":"枯れない花は百花繚乱の光を放つ！\n花鳥風月、嘯風弄月！",
     },
     "Ability.芳香":
     {
@@ -5973,10 +4267,6 @@
     {
         "jpn":"見切りL2",
     },
-    "Ability.Description.見切り.2":
-    {
-        "jpn":"射撃、接触攻撃をたまに回避",
-    },
     "Ability.UnlockName.見切り.2":
     {
         "jpn":"見切りL2",
@@ -5985,25 +4275,9 @@
     {
         "jpn":"発動率アップ",
     },
-    "Ability.CastNamePrefix.見切り.2":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.見切り.2":
-    {
-        "jpn":"見切り",
-    },
-    "Ability.SpellText.見切り.2":
-    {
-        "jpn":"",
-    },
     "Ability.見切り.3":
     {
         "jpn":"見切りL3",
-    },
-    "Ability.Description.見切り.3":
-    {
-        "jpn":"射撃、接触攻撃をたまに回避",
     },
     "Ability.UnlockName.見切り.3":
     {
@@ -6012,18 +4286,6 @@
     "Ability.UnlockDescription.見切り.3":
     {
         "jpn":"発動率アップ",
-    },
-    "Ability.CastNamePrefix.見切り.3":
-    {
-        "jpn":"",
-    },
-    "Ability.CastName.見切り.3":
-    {
-        "jpn":"見切り",
-    },
-    "Ability.SpellText.見切り.3":
-    {
-        "jpn":"",
     },
     "Ability.豪族乱舞":
     {
@@ -6057,10 +4319,6 @@
     {
         "jpn":"豪族乱舞",
     },
-    "Ability.Description.豪族乱舞.2":
-    {
-        "jpn":"布都と屠自古の間に攻撃範囲",
-    },
     "Ability.UnlockName.豪族乱舞.2":
     {
         "jpn":"豪族乱舞L2",
@@ -6069,25 +4327,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.豪族乱舞.2":
-    {
-        "jpn":"召喚",
-    },
-    "Ability.CastName.豪族乱舞.2":
-    {
-        "jpn":"「豪族乱舞」",
-    },
-    "Ability.SpellText.豪族乱舞.2":
-    {
-        "jpn":"君をば天とし、臣をば地とす\nゆえに命ずる！　豪族乱舞！",
-    },
     "Ability.豪族乱舞.3":
     {
         "jpn":"豪族乱舞",
-    },
-    "Ability.Description.豪族乱舞.3":
-    {
-        "jpn":"布都と屠自古の間に攻撃範囲",
     },
     "Ability.UnlockName.豪族乱舞.3":
     {
@@ -6096,18 +4338,6 @@
     "Ability.UnlockDescription.豪族乱舞.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.豪族乱舞.3":
-    {
-        "jpn":"召喚",
-    },
-    "Ability.CastName.豪族乱舞.3":
-    {
-        "jpn":"「豪族乱舞」",
-    },
-    "Ability.SpellText.豪族乱舞.3":
-    {
-        "jpn":"君をば天とし、臣をば地とす\nゆえに命ずる！　豪族乱舞！",
     },
     "Ability.超高速上海人形":
     {
@@ -6124,6 +4354,10 @@
     "Ability.UnlockDescription.超高速上海人形":
     {
         "jpn":"行動値を使わず上海人形を呼び出す",
+    },
+    "Ability.SpellText.超高速上海人形":
+    {
+        "jpn":"人の似姿にかりそめの命を",
     },
     "Ability.輝針剣":
     {
@@ -6157,10 +4391,6 @@
     {
         "jpn":"輝針剣",
     },
-    "Ability.Description.輝針剣.2":
-    {
-        "jpn":"行動を消費しない",
-    },
     "Ability.UnlockName.輝針剣.2":
     {
         "jpn":"輝針剣L2",
@@ -6169,25 +4399,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.輝針剣.2":
-    {
-        "jpn":"妖剣",
-    },
-    "Ability.CastName.輝針剣.2":
-    {
-        "jpn":"「輝針剣」",
-    },
-    "Ability.SpellText.輝針剣.2":
-    {
-        "jpn":"輝く針の剣よ、我ら反逆者の力を\n何度でも示し給え！　輝針剣！",
-    },
     "Ability.輝針剣.3":
     {
         "jpn":"輝針剣",
-    },
-    "Ability.Description.輝針剣.3":
-    {
-        "jpn":"行動を消費しない",
     },
     "Ability.UnlockName.輝針剣.3":
     {
@@ -6196,18 +4410,6 @@
     "Ability.UnlockDescription.輝針剣.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.輝針剣.3":
-    {
-        "jpn":"妖剣",
-    },
-    "Ability.CastName.輝針剣.3":
-    {
-        "jpn":"「輝針剣」",
-    },
-    "Ability.SpellText.輝針剣.3":
-    {
-        "jpn":"輝く針の剣よ、我ら反逆者の力を\n何度でも示し給え！　輝針剣！",
     },
     "Ability.防御":
     {
@@ -6301,10 +4503,6 @@
     {
         "jpn":"霊力+2",
     },
-    "Ability.Description.霊力アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.霊力アップ.2":
     {
         "jpn":"霊力+2",
@@ -6316,10 +4514,6 @@
     "Ability.霊力アップ.3":
     {
         "jpn":"霊力+3",
-    },
-    "Ability.Description.霊力アップ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.霊力アップ.3":
     {
@@ -6333,10 +4527,6 @@
     {
         "jpn":"霊力+4",
     },
-    "Ability.Description.霊力アップ.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.霊力アップ.4":
     {
         "jpn":"霊力+4",
@@ -6348,10 +4538,6 @@
     "Ability.霊力アップ.5":
     {
         "jpn":"霊力+5",
-    },
-    "Ability.Description.霊力アップ.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.霊力アップ.5":
     {
@@ -6421,10 +4607,6 @@
     {
         "jpn":"魔彩光の上海人形",
     },
-    "Ability.Description.魔彩光の上海人形.2":
-    {
-        "jpn":"上海人形を使役して攻撃",
-    },
     "Ability.UnlockName.魔彩光の上海人形.2":
     {
         "jpn":"魔彩光の上海人形L2",
@@ -6433,25 +4615,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.魔彩光の上海人形.2":
-    {
-        "jpn":"咒詛",
-    },
-    "Ability.CastName.魔彩光の上海人形.2":
-    {
-        "jpn":"「魔彩光の上海人形」",
-    },
-    "Ability.SpellText.魔彩光の上海人形.2":
-    {
-        "jpn":"精巧なるしもべたちよ\n主命を果たせ 魔彩光の上海人形！",
-    },
     "Ability.魔彩光の上海人形.3":
     {
         "jpn":"魔彩光の上海人形",
-    },
-    "Ability.Description.魔彩光の上海人形.3":
-    {
-        "jpn":"上海人形を使役して攻撃",
     },
     "Ability.UnlockName.魔彩光の上海人形.3":
     {
@@ -6460,18 +4626,6 @@
     "Ability.UnlockDescription.魔彩光の上海人形.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.魔彩光の上海人形.3":
-    {
-        "jpn":"咒詛",
-    },
-    "Ability.CastName.魔彩光の上海人形.3":
-    {
-        "jpn":"「魔彩光の上海人形」",
-    },
-    "Ability.SpellText.魔彩光の上海人形.3":
-    {
-        "jpn":"精巧なるしもべたちよ\n主命を果たせ 魔彩光の上海人形！",
     },
     "Ability.魔法に強い":
     {
@@ -6493,10 +4647,6 @@
     {
         "jpn":"魔法ダメージ10％減",
     },
-    "Ability.Description.魔法に強い.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.魔法に強い.2":
     {
         "jpn":"魔法ダメージ10％減",
@@ -6508,10 +4658,6 @@
     "Ability.魔法に強い.3":
     {
         "jpn":"魔法ダメージ15％減",
-    },
-    "Ability.Description.魔法に強い.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.魔法に強い.3":
     {
@@ -6525,10 +4671,6 @@
     {
         "jpn":"魔法ダメージ20％減",
     },
-    "Ability.Description.魔法に強い.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.魔法に強い.4":
     {
         "jpn":"魔法ダメージ20％減",
@@ -6540,10 +4682,6 @@
     "Ability.魔法に強い.5":
     {
         "jpn":"魔法ダメージ25％減",
-    },
-    "Ability.Description.魔法に強い.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.魔法に強い.5":
     {
@@ -6601,10 +4739,6 @@
     {
         "jpn":"魔法威力+10％",
     },
-    "Ability.Description.魔法攻撃アップ.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.魔法攻撃アップ.2":
     {
         "jpn":"魔法威力+10％",
@@ -6616,10 +4750,6 @@
     "Ability.魔法攻撃アップ.3":
     {
         "jpn":"魔法威力+15％",
-    },
-    "Ability.Description.魔法攻撃アップ.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.魔法攻撃アップ.3":
     {
@@ -6633,10 +4763,6 @@
     {
         "jpn":"魔法威力+20％",
     },
-    "Ability.Description.魔法攻撃アップ.4":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.魔法攻撃アップ.4":
     {
         "jpn":"魔法威力+20％",
@@ -6648,10 +4774,6 @@
     "Ability.魔法攻撃アップ.5":
     {
         "jpn":"魔法威力+25％",
-    },
-    "Ability.Description.魔法攻撃アップ.5":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.魔法攻撃アップ.5":
     {
@@ -6693,10 +4815,6 @@
     {
         "jpn":"黄金の震眩",
     },
-    "Ability.Description.黄金の震眩.2":
-    {
-        "jpn":"",
-    },
     "Ability.UnlockName.黄金の震眩.2":
     {
         "jpn":"黄金の震眩L2",
@@ -6705,25 +4823,9 @@
     {
         "jpn":"威力上昇",
     },
-    "Ability.CastNamePrefix.黄金の震眩.2":
-    {
-        "jpn":"宝符",
-    },
-    "Ability.CastName.黄金の震眩.2":
-    {
-        "jpn":"「黄金の震眩」",
-    },
-    "Ability.SpellText.黄金の震眩.2":
-    {
-        "jpn":"毘沙門天の宝塔に願う\n現世の不浄を払わん！ 黄金の震眩！",
-    },
     "Ability.黄金の震眩.3":
     {
         "jpn":"黄金の震眩",
-    },
-    "Ability.Description.黄金の震眩.3":
-    {
-        "jpn":"",
     },
     "Ability.UnlockName.黄金の震眩.3":
     {
@@ -6732,18 +4834,6 @@
     "Ability.UnlockDescription.黄金の震眩.3":
     {
         "jpn":"威力上昇",
-    },
-    "Ability.CastNamePrefix.黄金の震眩.3":
-    {
-        "jpn":"宝符",
-    },
-    "Ability.CastName.黄金の震眩.3":
-    {
-        "jpn":"「黄金の震眩」",
-    },
-    "Ability.SpellText.黄金の震眩.3":
-    {
-        "jpn":"毘沙門天の宝塔に願う\n現世の不浄を払わん！ 黄金の震眩！",
     },
     "Article.わら人形":
     {
@@ -7265,12 +5355,10 @@
     {
         "jpn":"ザコ",
     },
-
     "Character.阿求":
     {
         "jpn":"阿求",
     },
-
     "Element.物理":
     {
         "jpn":"物理",
@@ -7287,7 +5375,6 @@
     {
         "jpn":"光",
     },
-
     "Element.無効":
     {
         "jpn":"{element}無効",
@@ -7312,7 +5399,6 @@
     {
         "jpn":"{element}に超弱い",
     },
-
     "Status.HP":
     {
         "jpn":"HP",
@@ -7357,12 +5443,10 @@
     {
         "jpn":"射程",
     },
-
     "Family.妖怪":
     {
         "jpn":"妖怪",
     },
-
     "Menu.所持品":
     {
         "jpn":"所持品",
@@ -7435,7 +5519,6 @@
     {
         "jpn":"必要アビリティ:{abilities}",
     },
-
     "Menu.Unit.アビリティ習得.完了ダイアログ":
     {
         "jpn":"{ability}を習得した！",
@@ -7444,12 +5527,10 @@
     {
         "jpn":"{ability}を習得した！\n「アビリティ装備」で習得したアビリティを装備しよう",
     },
-
     "Menu.編成.外す":
     {
         "jpn":"外す",
     },
-
     "ステータスアップアイテム.確認":
     {
         "jpn":"{character}に{item}を使いますか？",
@@ -7462,7 +5543,6 @@
     {
         "jpn":"これ以上{status}を上げられません",
     },
-
     "UnitStatusView.レベル":
     {
         "jpn":"レベル {level}",
@@ -7471,7 +5551,6 @@
     {
         "jpn":"装備",
     },
-
     "UnitState.APチャージ":
     {
         "jpn":"行動値上昇",
@@ -7696,8 +5775,6 @@
     {
         "jpn":"クリアデータはセーブしましたか？",
     },
-
-
     "AbilityWindow.威力":
     {
         "jpn":"威力 {value}",
@@ -7718,7 +5795,6 @@
     {
         "jpn":"属性 {elements}",
     },
-
     "ショップ.購入確認":
     {
         "jpn":"{item}を購入します（{price}円）\n所持数 : {count}",
@@ -7727,12 +5803,10 @@
     {
         "jpn":"装備数 : {count}",
     },
-
     "ステージ選択.開始":
     {
         "jpn":"{stage}\nを開始しますか？",
     },
-
     "Battle.レベルアップ":
     {
         "jpn":"レベルアップ！ {prev} → {next}",
@@ -7773,7 +5847,6 @@
     {
         "jpn":"攻撃対象に味方ユニットがいます。よろしいですか？",
     },
-
     "Chapter.映姫":
     {
         "jpn":"えーきさま危機一髪！",
@@ -7814,7 +5887,6 @@
     {
         "jpn":"お役に立てたかしら？",
     },
-
     "Chapter.映姫.4_1":
     {
         "jpn":"ギャフン！",
@@ -7839,7 +5911,6 @@
     {
         "jpn":"悪夢のようだわ……",
     },
-
     "Chapter.映姫.5_1":
     {
         "jpn":"というわけで、小町は来てないかしら？",
@@ -7860,7 +5931,6 @@
     {
         "jpn":"やれやれ、無駄足でしたね",
     },
-
     "Chapter.映姫.6_1":
     {
         "jpn":"ンニャ……そうでもないぞ",
@@ -7921,7 +5991,6 @@
     {
         "jpn":"烏合の衆が何するものぞ\n かかって来るがいい！",
     },
-
     "Chapter.小町":
     {
         "jpn":"激突！小町VS映姫",
@@ -7970,7 +6039,6 @@
     {
         "jpn":"成敗！",
     },
-
     "Chapter.小町.2_1":
     {
         "jpn":"まさか勝てるなんて……\nしっかりしてくださいよ",
@@ -7979,7 +6047,6 @@
     {
         "jpn":"う、うるさいっ\nさっきの戦闘で本調子じゃないんですよ",
     },
-
     "Chapter.小町.3_1":
     {
         "jpn":"ええっ、シャクを取られた！？",
@@ -8008,7 +6075,6 @@
     {
         "jpn":"……やってらんねえ",
     },
-
     "Chapter.博麗神社":
     {
         "jpn":"博麗神社",
@@ -8017,7 +6083,6 @@
     {
         "jpn":"ちいさないきもの",
     },
-
     "Chapter.針妙丸.1_1":
     {
         "jpn":"あなたが噂の閻魔さま",
@@ -8050,7 +6115,6 @@
     {
         "jpn":"悪いけど、\nあなたたちにはここで退場してもらうわ！",
     },
-
     "Chapter.針妙丸.2_1":
     {
         "jpn":"実際のところ、あのシャクは\nそこまで強力なものでもないんですが",
@@ -8079,7 +6143,6 @@
     {
         "jpn":"きゃん！",
     },
-
     "Chapter.針妙丸.3_1":
     {
         "jpn":"四季さま、ああいう奴には、ヒット数の多いアビリティで攻撃するのが良いですよ",
@@ -8088,8 +6151,6 @@
     {
         "jpn":"委細承知！",
     },
-
-
     "Chapter.魔理沙":
     {
         "jpn":"敵か味方か霧雨魔理沙",
@@ -8138,7 +6199,6 @@
     {
         "jpn":"まずは競合相手らしく、\n妨害させてもらうぜ！",
     },
-
     "Chapter.魔理沙.2_1":
     {
         "jpn":"しくじったか",
@@ -8163,12 +6223,10 @@
     {
         "jpn":"良いのかなー？",
     },
-
     "Chapter.霖之助":
     {
         "jpn":"",
     },
-
     "Chapter.霖之助.1_1":
     {
         "jpn":"いらっしゃい\n珍しいお客さんだ",
@@ -8185,7 +6243,6 @@
     {
         "jpn":"ま、何か役に立つものがあるかもしれないし、ちょっと見てみましょう",
     },
-
     "Chapter.霖之助.2_1":
     {
         "jpn":"いらっしゃい",
@@ -8194,12 +6251,10 @@
     {
         "jpn":"あ、あれは……\nまさか、ほ　う　と　う？",
     },
-
     "Chapter.パチュリー":
     {
         "jpn":"燃える大図書館",
     },
-
     "Chapter.パチュリー.1_1":
     {
         "jpn":"紅魔館……",
@@ -8236,7 +6291,6 @@
     {
         "jpn":"誰も来ないように、\n戸締りをしておいているから大丈夫よ",
     },
-
     "Chapter.パチュリー.3_1":
     {
         "jpn":"およ？道を間違えたかな？",
@@ -8261,7 +6315,6 @@
     {
         "jpn":"……怒！",
     },
-
     "Chapter.パチュリー.4_1":
     {
         "jpn":"むきゅ",
@@ -8278,7 +6331,6 @@
     {
         "jpn":"ええと、それはですね……",
     },
-
     "Chapter.パチュリー.5_1":
     {
         "jpn":"レミィがそんな……どっかの泥棒みたいなゲスに落ちたなんて……",
@@ -8299,7 +6351,6 @@
     {
         "jpn":"付き合いの悪い友人には、ちょっとお灸を据えなくちゃあね",
     },
-
     "Chapter.パチュリー.6_1":
     {
         "jpn":"うん？なんでお前もついてくるんだ？",
@@ -8308,7 +6359,6 @@
     {
         "jpn":"えっ",
     },
-
     "Chapter.咲夜":
     {
         "jpn":"悪魔の手先のおもてなし",
@@ -8353,16 +6403,13 @@
     {
         "jpn":"押し通る！",
     },
-
     "Chapter.咲夜.2_1":
     {
         "jpn":"くっ、だがお嬢さまの手にかかれば、あなた方など……",
     },
-
-
     "Chapter.レミリア":
     {
-        "jpn":"決戦！紅魔館"
+        "jpn":"決戦！紅魔館",
     },
     "Chapter.レミリア.1_1":
     {
@@ -8380,7 +6427,6 @@
     {
         "jpn":"ちっ",
     },
-
     "Chapter.レミリア.3_1":
     {
         "jpn":"さて、それでこいつの始末はどうすんの？",
@@ -8393,7 +6439,6 @@
     {
         "jpn":"んー、そうですね",
     },
-
     "Chapter.レミリア.4_1":
     {
         "jpn":"判決",
@@ -8406,7 +6451,6 @@
     {
         "jpn":"自宅謹慎！",
     },
-
     "Chapter.レミリア.5_1":
     {
         "jpn":"意外ね。てっきり、大人しくしてろと\nでも言われるかと思ったわ",
@@ -8431,7 +6475,6 @@
     {
         "jpn":"せっかくだからこの事件の顛末、この目で見届けてやるわ！",
     },
-
     "Chapter.レミリア.6_1":
     {
         "jpn":"しばらく大人しくしといてもらいます",
@@ -8448,7 +6491,6 @@
     {
         "jpn":"気が利くわ……ま、せいぜいがんばることね",
     },
-
     "Chapter.レミリア.7_1":
     {
         "jpn":"来たか……閻魔！",
@@ -8469,7 +6511,6 @@
     {
         "jpn":"やってみるがいいわ……できるものなら",
     },
-
     "Chapter.レミリア.8_1":
     {
         "jpn":"うわ、なんだこいつら！\nどっから入ってきた！？",
@@ -8482,14 +6523,13 @@
     {
         "jpn":"ええい、しゃらくさい、であえ、であえーい！",
     },
-
     "Chapter.紅魔館":
     {
-        "jpn":"紅魔館"
+        "jpn":"紅魔館",
     },
     "Chapter.燐":
     {
-        "jpn":"突撃！地霊殿"
+        "jpn":"突撃！地霊殿",
     },
     "Chapter.燐.1_1":
     {
@@ -8535,7 +6575,6 @@
     {
         "jpn":"このまま帰すわけには、いかないね！！",
     },
-
     "Chapter.燐.2_1":
     {
         "jpn":"この調子だと、先に主人に会っておくほうが、丸く収まりそうね",
@@ -8548,12 +6587,10 @@
     {
         "jpn":"さて、どうしたものか……",
     },
-
     "Chapter.さとり":
     {
-        "jpn":"VSさとり"
+        "jpn":"VSさとり",
     },
-
     "Chapter.さとり.1_1":
     {
         "jpn":"と、いうわけで、\nあなたのところのカラスが",
@@ -8586,7 +6623,6 @@
     {
         "jpn":"（早く帰りたいなあ）",
     },
-
     "Chapter.さとり.2_1":
     {
         "jpn":"……仕方がない、\nお空に話を聞きにいきましょう",
@@ -8607,11 +6643,9 @@
     {
         "jpn":"ドキリ",
     },
-
-
     "Chapter.空":
     {
-        "jpn":"霊烏路空、灼熱の戦い"
+        "jpn":"霊烏路空、灼熱の戦い",
     },
     "Chapter.空.1_1":
     {
@@ -8629,7 +6663,6 @@
     {
         "jpn":"いや、本当に覚えてないんじゃないかなー",
     },
-
     "Chapter.空.2_1":
     {
         "jpn":"うーん、何のことだか……",
@@ -8638,8 +6671,6 @@
     {
         "jpn":"ま、とりあえずシャクは戻ってきましたね",
     },
-
-
     "Chapter.空.3_1":
     {
         "jpn":"……",
@@ -8664,7 +6695,6 @@
     {
         "jpn":"まあ、そんなところでしょうが……",
     },
-
     "Chapter.空.4_1":
     {
         "jpn":"それで、こいつらの始末はどうすんの？",
@@ -8673,7 +6703,6 @@
     {
         "jpn":"そうね……",
     },
-
     "Chapter.空.5_1":
     {
         "jpn":"判決",
@@ -8686,7 +6715,6 @@
     {
         "jpn":"謹慎",
     },
-
     "Chapter.空.6_1":
     {
         "jpn":"せいぜい、こき使ってやりましょう",
@@ -8703,12 +6731,10 @@
     {
         "jpn":"わかるな",
     },
-
     "Chapter.空.7_1":
     {
         "jpn":"お空が行くなら、あたいらも一緒しないわけにはいかないね",
     },
-
     "Chapter.空.8_1":
     {
         "jpn":"じゃ、留守番しとくね！",
@@ -8717,16 +6743,14 @@
     {
         "jpn":"……いいなあ",
     },
-
     "Chapter.地霊殿":
     {
-        "jpn":"地霊殿"
+        "jpn":"地霊殿",
     },
     "Chapter.芳香":
     {
-        "jpn":"死んでも戦え！宮古芳香"
+        "jpn":"死んでも戦え！宮古芳香",
     },
-
     "Chapter.芳香.1_1":
     {
         "jpn":"ん？誰か来たのか？",
@@ -8763,17 +6787,14 @@
     {
         "jpn":"近づくやつがいたら、倒す。\n命令、遂行！",
     },
-
     "Chapter.芳香.2_1":
     {
         "jpn":"グオオ、やられた……",
     },
-
     "Chapter.布都":
     {
-        "jpn":"必死！物部布都"
+        "jpn":"必死！物部布都",
     },
-
     "Chapter.布都.1_1":
     {
         "jpn":"青娥がどこにいるか、聞いてみましょう",
@@ -8790,17 +6811,14 @@
     {
         "jpn":"過激ねー",
     },
-
     "Chapter.布都.2_1":
     {
         "jpn":"仕方ない、ここは、逃げの一手！",
     },
-
     "Chapter.神子":
     {
-        "jpn":"豪族たちの挽歌"
+        "jpn":"豪族たちの挽歌",
     },
-
     "Chapter.神子.1_1":
     {
         "jpn":"太子さまー、大変大変！",
@@ -8825,8 +6843,6 @@
     {
         "jpn":"やーってやんよ！",
     },
-
-
     "Chapter.神子.2_1":
     {
         "jpn":"すでに臨戦態勢か……",
@@ -8867,12 +6883,10 @@
     {
         "jpn":"帰る",
     },
-
     "Chapter.神子.4_1":
     {
         "jpn":"フハハハハ！だろうな！",
     },
-
     "Chapter.神子.5_1":
     {
         "jpn":"なに、青娥がシャクを？",
@@ -8913,12 +6927,10 @@
     {
         "jpn":"……",
     },
-
     "Chapter.青娥":
     {
-        "jpn":"邪悪！霍青娥"
+        "jpn":"邪悪！霍青娥",
     },
-
     "Chapter.青娥.1_1":
     {
         "jpn":"ん？なぜここが分かって……おやまあ、\n太子さまが手引きしたんですの？",
@@ -8959,13 +6971,10 @@
     {
         "jpn":"いけっ！芳香ちゃん！",
     },
-
     "Chapter.青娥.2_1":
     {
         "jpn":"負けちゃいましたね。仕方がないので、\nシャクはお返しいたします",
     },
-
-
     "Chapter.青娥.3_1":
     {
         "jpn":"さて、青娥の始末はどうすんの？",
@@ -8978,7 +6987,6 @@
     {
         "jpn":"ひどいことをしないでくれたら、\nいろいろサービスするわよ？",
     },
-
     "Chapter.青娥.4_1":
     {
         "jpn":"どうする？",
@@ -8991,7 +6999,6 @@
     {
         "jpn":"情け無用！",
     },
-
     "Chapter.青娥.5_1":
     {
         "jpn":"死んだら、綺麗なキョンシーに\nしてあげる",
@@ -9004,7 +7011,6 @@
     {
         "jpn":"おっとろしいの！",
     },
-
     "Chapter.青娥.6_1":
     {
         "jpn":"よよよ、ひどいですわ。",
@@ -9033,7 +7039,6 @@
     {
         "jpn":"相手が悪かったと、諦めるしかないわね",
     },
-
     "Chapter.神霊廟":
     {
         "jpn":"神霊廟",
@@ -9042,7 +7047,6 @@
     {
         "jpn":"ローレライ哀歌",
     },
-
     "Chapter.ミスティア.1_1":
     {
         "jpn":"らん　ららら　らららー",
@@ -9055,7 +7059,6 @@
     {
         "jpn":"〆ましょう",
     },
-
     "Chapter.ミスティア.2_1":
     {
         "jpn":"あんたなんかに、捕まるもんですか",
@@ -9096,7 +7099,6 @@
     {
         "jpn":"成敗！",
     },
-
     "Chapter.ミスティア.3_1":
     {
         "jpn":"あんたなんかに、捕まるもんですか",
@@ -9105,17 +7107,14 @@
     {
         "jpn":"ぐあ、前が見えない！",
     },
-
     "Chapter.ミスティア.4_1":
     {
         "jpn":"逃げられましたか……",
     },
-
     "Chapter.星":
     {
         "jpn":"寅丸の受難",
     },
-
     "Chapter.星.1_1":
     {
         "jpn":"うーん、ここにもない。\nいったいどこで落としたのか……",
@@ -9140,7 +7139,6 @@
     {
         "jpn":"でも、本物なら宝塔を持っているはずよ",
     },
-
     "Chapter.星.1_7":
     {
         "jpn":"確かに、そんな大事なものを\nなくすはずが……",
@@ -9157,7 +7155,6 @@
     {
         "jpn":"アタック！",
     },
-
     "Chapter.星.2_1":
     {
         "jpn":"くっ、宝塔さえあれば……",
@@ -9170,7 +7167,6 @@
     {
         "jpn":"悪びれないんだなあ",
     },
-
     "Chapter.星.3_1":
     {
         "jpn":"あやつら、疑心暗鬼になっておるのう",
@@ -9179,18 +7175,14 @@
     {
         "jpn":"どれ、ひとつ仕掛けてやるか",
     },
-
     "Chapter.星.4_1":
     {
         "jpn":"へ？",
     },
-
-
     "Chapter.白蓮":
     {
         "jpn":"偽聖白蓮あらわる！",
     },
-
     "Chapter.白蓮.1_1":
     {
         "jpn":"♪",
@@ -9239,7 +7231,6 @@
     {
         "jpn":"？",
     },
-
     "Chapter.白蓮.3_1":
     {
         "jpn":"一体、何がなにやら",
@@ -9272,7 +7263,6 @@
     {
         "jpn":"良いものを見せてもらったし、次は直々に相手してやるわい。待っておるぞ",
     },
-
     "Chapter.マミゾウ":
     {
         "jpn":"激戦、二ッ岩マミゾウ",
@@ -9293,7 +7283,6 @@
     {
         "jpn":"言うのう。ワシとしては、\nなるべくもたせて欲しいんじゃがな？",
     },
-
     "Chapter.マミゾウ.2_1":
     {
         "jpn":"ま、とりあえずシャクは戻ってきましたね",
@@ -9306,7 +7295,6 @@
     {
         "jpn":"本物です！",
     },
-
     "Chapter.マミゾウ.3_1":
     {
         "jpn":"それで、こいつの始末はどうすんの？",
@@ -9315,7 +7303,6 @@
     {
         "jpn":"そうね……",
     },
-
     "Chapter.マミゾウ.4_1":
     {
         "jpn":"どうする？",
@@ -9328,7 +7315,6 @@
     {
         "jpn":"大人しくさせる",
     },
-
     "Chapter.マミゾウ.5_1":
     {
         "jpn":"年寄りをこきつかうとな。\nいたわってほしいもんじゃのう",
@@ -9337,7 +7323,6 @@
     {
         "jpn":"妖怪に年寄りも何もありますか！",
     },
-
     "Chapter.マミゾウ.6_1":
     {
         "jpn":"仕方がない、一回休みと行くか",
@@ -9346,12 +7331,10 @@
     {
         "jpn":"お手並み拝見、といったところじゃな",
     },
-
     "Chapter.白蓮2":
     {
         "jpn":"逆襲の白蓮",
     },
-
     "Chapter.白蓮2.1_1":
     {
         "jpn":"以前は不覚をとりましたが、\n今度は万全の態勢でやらせていただきます",
@@ -9364,7 +7347,6 @@
     {
         "jpn":"りべんじ、というやつです\nいざ、南無三！",
     },
-
     "Chapter.白蓮2.2_1":
     {
         "jpn":"ふー、わたしたちもまだまだ\n未熟なようです……",
@@ -9393,12 +7375,10 @@
     {
         "jpn":"……宝塔が、またなくなってしまった",
     },
-
     "Chapter.幽香":
     {
         "jpn":"風見幽香との一騎打ち",
     },
-
     "Chapter.幽香.1_1":
     {
         "jpn":"やるわね、なかなか、良い運動になったわ",
@@ -9415,7 +7395,6 @@
     {
         "jpn":"げ",
     },
-
     "Chapter.幽香.2_1":
     {
         "jpn":"来たわね",
@@ -9436,7 +7415,6 @@
     {
         "jpn":"それじゃ、さっさと終わらせて\nあげたほうがよさそうね！",
     },
-
     "Chapter.魔理沙2":
     {
         "jpn":"魔理沙、ふたたび",
@@ -9473,7 +7451,6 @@
     {
         "jpn":"その好奇心が、自らの命を縮めると知れ！",
     },
-
     "Chapter.魔理沙2.2_1":
     {
         "jpn":"なんだと……",
@@ -9486,7 +7463,6 @@
     {
         "jpn":"ここまでして負けるのかわたしは。\nくそ、一体、シャクの秘密ってなんなんだ",
     },
-
     "Chapter.魔理沙2.3_1":
     {
         "jpn":"それはわたしが説明しよう",
@@ -9571,12 +7547,10 @@
     {
         "jpn":"今回はちょっとラクしすぎたから、\n最後にひと暴れ、してやろうかな！",
     },
-
     "Chapter.萃香":
     {
         "jpn":"黒幕！伊吹萃香",
     },
-
     "Chapter.萃香.1_1":
     {
         "jpn":"へへへ、暴れた暴れた。\n今日はこれまで……",
@@ -9593,7 +7567,6 @@
     {
         "jpn":"……洗えば使えるはずです……",
     },
-
     "Chapter.萃香.2_1":
     {
         "jpn":"良い月だ！",
@@ -9606,7 +7579,6 @@
     {
         "jpn":"暴れるぞ！かかってこーい！！",
     },
-
     "Chapter.こいし":
     {
         "jpn":"エンディング",
@@ -9633,158 +7605,148 @@
     },
     "Chapter.こいし.1_6":
     {
-        "jpn": "あーあ、もうおしまいかあ。\n意外と早かったな",
+        "jpn":"あーあ、もうおしまいかあ。\n意外と早かったな",
     },
     "Chapter.こいし.1_7":
     {
-        "jpn": "……妹妖怪？",
+        "jpn":"……妹妖怪？",
     },
     "Chapter.こいし.1_8":
     {
-        "jpn": "もっとグッチャグチャのスプラッターが\n見られると思ったのに",
+        "jpn":"もっとグッチャグチャのスプラッターが\n見られると思ったのに",
     },
     "Chapter.こいし.1_9":
     {
-        "jpn": "まさかお前……",
+        "jpn":"まさかお前……",
     },
     "Chapter.こいし.1_10":
     {
-        "jpn": "そう！その鬼に入れ知恵したのはわたし",
+        "jpn":"そう！その鬼に入れ知恵したのはわたし",
     },
     "Chapter.こいし.1_11":
     {
-        "jpn": "閻魔さまのシャクは、\n珍味としてイケるのです",
+        "jpn":"閻魔さまのシャクは、\n珍味としてイケるのです",
     },
     "Chapter.こいし.1_12":
     {
-        "jpn": "そうなんだよねー",
+        "jpn":"そうなんだよねー",
     },
     "Chapter.こいし.1_13":
     {
-        "jpn": "ついでに色々、コトが回るように、裏方でがんばってました",
+        "jpn":"ついでに色々、コトが回るように、裏方でがんばってました",
     },
     "Chapter.こいし.1_14":
     {
-        "jpn": "縁の下の力持ちってやつ？",
+        "jpn":"縁の下の力持ちってやつ？",
     },
     "Chapter.こいし.1_15":
     {
-        "jpn": "……しかし、ならなぜ今更、\n表に出てきました？",
+        "jpn":"……しかし、ならなぜ今更、\n表に出てきました？",
     },
     "Chapter.こいし.1_16":
     {
-        "jpn": "もうちょっと、しっちゃかめっちゃかに\nなってくれると思ったんだけど",
+        "jpn":"もうちょっと、しっちゃかめっちゃかに\nなってくれると思ったんだけど",
     },
     "Chapter.こいし.1_17":
     {
-        "jpn": "残念ながらうまくいかなかったので、",
+        "jpn":"残念ながらうまくいかなかったので、",
     },
     "Chapter.こいし.1_18":
     {
-        "jpn": "悔しいから、わたし自らの手で、\n状況をかき回しに来たのよ",
+        "jpn":"悔しいから、わたし自らの手で、\n状況をかき回しに来たのよ",
     },
     "Chapter.こいし.1_19":
     {
-        "jpn": "ラスボスっぽいでしょ？",
+        "jpn":"ラスボスっぽいでしょ？",
     },
     "Chapter.こいし.1_20":
     {
-        "jpn": "……",
+        "jpn":"……",
     },
     "Chapter.こいし.1_21":
     {
-        "jpn": "……そう、あなたは少し、\nラスボスらしすぎる",
+        "jpn":"……そう、あなたは少し、\nラスボスらしすぎる",
     },
     "Chapter.こいし.1_22":
     {
-        "jpn": "自らノコノコ現れたことを後悔しながら、地獄に帰るが良い！",
+        "jpn":"自らノコノコ現れたことを後悔しながら、地獄に帰るが良い！",
     },
-
-
-
     "Chapter.鈴仙":
     {
         "jpn":"潜入！鈴仙・U・イナバ",
     },
-
     "Chapter.鈴仙.1_1":
     {
-        "jpn": "おっと失礼、ここ通りますよ",
+        "jpn":"おっと失礼、ここ通りますよ",
     },
     "Chapter.鈴仙.1_2":
     {
-        "jpn": "ん、あ、薬屋さん……？",
+        "jpn":"ん、あ、薬屋さん……？",
     },
     "Chapter.鈴仙.1_3":
     {
-        "jpn": "げえっ、あんた、永遠亭の！",
+        "jpn":"げえっ、あんた、永遠亭の！",
     },
     "Chapter.鈴仙.1_4":
     {
-        "jpn": "げええっ！巫女！",
+        "jpn":"げええっ！巫女！",
     },
     "Chapter.鈴仙.1_5":
     {
-        "jpn": "里に何の用！？",
+        "jpn":"里に何の用！？",
     },
     "Chapter.鈴仙.1_6":
     {
-        "jpn": "怪しい薬を売りつける気ね",
+        "jpn":"怪しい薬を売りつける気ね",
     },
     "Chapter.鈴仙.1_7":
     {
-        "jpn": "何も企んでませんってば",
+        "jpn":"何も企んでませんってば",
     },
     "Chapter.鈴仙.1_8":
     {
-        "jpn": "あ、でも、無敵になれる薬ありますよ\n役に立つんじゃない？",
+        "jpn":"あ、でも、無敵になれる薬ありますよ\n役に立つんじゃない？",
     },
     "Chapter.鈴仙.1_9":
     {
-        "jpn": "どう見たって、怪しい薬じゃないの！",
+        "jpn":"どう見たって、怪しい薬じゃないの！",
     },
     "Chapter.鈴仙.1_10":
     {
-        "jpn": "墓穴！",
+        "jpn":"墓穴！",
     },
-
-
     "Chapter.鈴仙.2_1":
     {
-        "jpn": "うーん、これじゃ今日は\nもう商売できないわ",
+        "jpn":"うーん、これじゃ今日は\nもう商売できないわ",
     },
     "Chapter.鈴仙.2_2":
     {
-        "jpn": "うちへ帰ることね",
+        "jpn":"うちへ帰ることね",
     },
     "Chapter.鈴仙.2_3":
     {
-        "jpn": "スグ帰ったら、それはそれで\n仕事を押し付けられるので",
+        "jpn":"スグ帰ったら、それはそれで\n仕事を押し付けられるので",
     },
     "Chapter.鈴仙.2_4":
     {
-        "jpn": "しばらく時間をつぶしてから帰ります",
+        "jpn":"しばらく時間をつぶしてから帰ります",
     },
     "Chapter.鈴仙.2_5":
     {
-        "jpn": "ちゃっかりしてんのね",
+        "jpn":"ちゃっかりしてんのね",
     },
-
-
     "Chapter.鈴仙.3_1":
     {
-        "jpn": "……小町は、ああいうこと、してます？",
+        "jpn":"……小町は、ああいうこと、してます？",
     },
     "Chapter.鈴仙.3_2":
     {
         "jpn":"ははっ何のことやら",
     },
-
     "Chapter.永琳":
     {
         "jpn":"師匠が来た！",
     },
-
     "Chapter.永琳.1_1":
     {
         "jpn":"ウ・ド・ン・ゲ？",
@@ -9817,7 +7779,6 @@
     {
         "jpn":"偽物よ！師匠を騙る不届き者め！",
     },
-
     "Chapter.永琳.2_1":
     {
         "jpn":"腕を上げたわね、ウドンゲ",
@@ -9834,7 +7795,6 @@
     {
         "jpn":"は、はい！",
     },
-
     "Chapter.Boss.1_1":
     {
         "jpn":"ふー、これにて一件落着……",
@@ -9859,7 +7819,6 @@
     {
         "jpn":"そりゃ、めんどくさいことになった……",
     },
-
     "Chapter.Boss.2_1":
     {
         "jpn":"これで、2つ目ね",
@@ -9872,7 +7831,6 @@
     {
         "jpn":"これが最後の1つ、と",
     },
-
     "Chapter.Boss.5_1":
     {
         "jpn":"ええっ、本気ですか？\n手伝ってもらって、ラクしましょうよ",
@@ -9885,7 +7843,6 @@
     {
         "jpn":"そういうことをしてると、恨まれますよ。\n後悔しても、知りませんよ？",
     },
-
     "Chapter.Boss.6_1":
     {
         "jpn":"これで4人中2人を撃破、と",
@@ -9898,7 +7855,6 @@
     {
         "jpn":"なかなか順調でよろしい",
     },
-
     "Chapter.Boss.6_4":
     {
         "jpn":"ところで小町、シャクはちゃんと持ってますか？",
@@ -9963,7 +7919,6 @@
     {
         "jpn":"やれやれ……とんだヤブヘビね！",
     },
-
     "Chapter.Boss.7_1":
     {
         "jpn":"なあ、ちょっと今までに取り返したシャクを見せてくれない？",
@@ -10020,7 +7975,6 @@
     {
         "jpn":"魔理沙、泣かす！キャン言わす！",
     },
-
     "Chapter.Boss.9_1":
     {
         "jpn":"魔理沙に会いにいきましょう",
@@ -10029,7 +7983,6 @@
     {
         "jpn":"決戦です！",
     },
-
     "Chapter.Ending.1_1":
     {
         "jpn":"「とまあ、これが今回の事件の一部始終」",
@@ -10058,28 +8011,26 @@
     {
         "jpn":"地底の妖怪たちとの折り合いをつけるのは、\n尋常のことではない",
     },
-
     "Chapter.Ending.1_8":
     {
-       "jpn":"この程度のトラブルは覚悟のうえ。\nそれが妖怪の世界というものだ",
+        "jpn":"この程度のトラブルは覚悟のうえ。\nそれが妖怪の世界というものだ",
     },
     "Chapter.Ending.1_9":
     {
-       "jpn":"……それはともかく",
+        "jpn":"……それはともかく",
     },
     "Chapter.Ending.1_10":
     {
-       "jpn":"小町が自分のシャクを、\nたまに妙な目で見ているのだけど……",
+        "jpn":"小町が自分のシャクを、\nたまに妙な目で見ているのだけど……",
     },
     "Chapter.Ending.1_11":
     {
-       "jpn":"……油断できない。\nわたしの戦いは、もうしばらく続くようだ",
+        "jpn":"……油断できない。\nわたしの戦いは、もうしばらく続くようだ",
     },
     "Chapter.Ending.1_12":
     {
-       "jpn":"\n　　　　　　　　　　　　　　　　　　　　おしまい",
+        "jpn":"\n　　　　　　　　　　　　　　　　　　　　おしまい",
     },
-
     "Chapter.ゲームクリア":
     {
         "jpn":"ゲームクリア！",
