@@ -2,39 +2,32 @@
      "設定.Caption":
     {
         "jpn":"設定",
-        "eng":"Config",
     },
      "設定.OpenManual":
     {
         "jpn":"オンラインマニュアルを開く",
-        "eng":"Online Manual"
     },
     "設定.SE":
     {
         "jpn":"効果音",
-        "eng":"Sound Effect",
     },
     "設定.BGM":
     {
         "jpn":"BGM",
-        "eng":"Background",
     },
     "設定.DefaultVolume":
     {
         "jpn":"デフォルト音量に戻す",
-        "eng":"Default Audio Volume",
     },
     "設定.詠唱メッセージ自動送り":
     {
         "jpn":"詠唱メッセージ自動送り",
-        "eng":"auto-read chantings",
     },
 
 
      "Ability.DNAの瑕":
     {
         "jpn":"DNAの瑕",
-        "eng":"DNA's Flaw",
     },
     "Ability.Description.DNAの瑕":
     {
@@ -43,7 +36,6 @@
     "Ability.UnlockName.DNAの瑕":
     {
         "jpn":"DNAの瑕",
-        "eng":"DNA's Flaw",
     },
     "Ability.UnlockDescription.DNAの瑕":
     {
@@ -52,22 +44,18 @@
     "Ability.CastNamePrefix.DNAの瑕":
     {
         "jpn":"記憶",
-        "eng":"Memory",
     },
     "Ability.CastName.DNAの瑕":
     {
         "jpn":"「DNAの瑕」",
-        "eng":""DNA's Flaw"",
     },
     "Ability.SpellText.DNAの瑕":
     {
         "jpn":"身に潜む記憶と記録\n顕れよ！　DNAの瑕！",
-        "eng":"Witness the chronicles in your veins! DNA's Flaw!"
     },
     "Ability.DNAの瑕.2":
     {
         "jpn":"DNAの瑕",
-        "eng":"DNA's Flaw",
     },
     "Ability.Description.DNAの瑕.2":
     {
@@ -76,32 +64,26 @@
     "Ability.UnlockName.DNAの瑕.2":
     {
         "jpn":"DNAの瑕L2",
-        "eng":"DNA's Flaw Lv2",
     },
     "Ability.UnlockDescription.DNAの瑕.2":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade"
     },
     "Ability.CastNamePrefix.DNAの瑕.2":
     {
         "jpn":"記憶",
-        "eng":"Memory"
     },
     "Ability.CastName.DNAの瑕.2":
     {
         "jpn":"「DNAの瑕」",
-        "eng":""DNA's Flaw"",
     },
     "Ability.SpellText.DNAの瑕.2":
     {
         "jpn":"身に潜む記憶と記録\n顕れよ！　DNAの瑕！",
-        "eng":"Witness the chronicles in your veins! DNA's Flaw!"
     },
     "Ability.DNAの瑕.3":
     {
         "jpn":"DNAの瑕",
-        "eng":"DNA's Flaw"
     },
     "Ability.Description.DNAの瑕.3":
     {
@@ -110,212 +92,170 @@
     "Ability.UnlockName.DNAの瑕.3":
     {
         "jpn":"DNAの瑕L3",
-        "eng":"DNA's Flaw Lv3",
     },
     "Ability.UnlockDescription.DNAの瑕.3":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
     },
     "Ability.CastNamePrefix.DNAの瑕.3":
     {
         "jpn":"記憶",
-        "eng":"Momery",
     },
     "Ability.CastName.DNAの瑕.3":
     {
         "jpn":"「DNAの瑕」",
-        "eng":""DNA's Flaw"",
     },
     "Ability.SpellText.DNAの瑕.3":
     {
         "jpn":"身に潜む記憶と記録\n顕れよ！　DNAの瑕！",
-        "eng":"The chronicles flow in your veins!\n DNA's Flaw!"
     },
     "Ability.ご先祖様":
     {
         "jpn":"ご先祖様",
-        "eng":"Ancestors",
     },
     "Ability.Description.ご先祖様":
     {
         "jpn":"",
-        "eng":"",
     },
     "Ability.UnlockName.ご先祖様":
     {
         "jpn":"ご先祖様",
-        "eng":"Ancestors",
     },
     "Ability.UnlockDescription.ご先祖様":
     {
         "jpn":"",
-        "eng":"",
     },
     "Ability.ご先祖様が見ているぞ":
     {
         "jpn":"ご先祖様が見ているぞ",
-        "eng":"Your Ancestors are Watching",
     },
     "Ability.Description.ご先祖様が見ているぞ":
     {
         "jpn":"行動を消費しない",
-        "eng":"This ability costs no actions.",
     },
     "Ability.UnlockName.ご先祖様が見ているぞ":
     {
         "jpn":"ご先祖様が見ているぞ",
-        "eng":"Your Ancestors are Watching",
     },
     "Ability.UnlockDescription.ご先祖様が見ているぞ":
     {
         "jpn":"行動を消費しない",
-        "eng":"This ability costs no actions.",
     },
     "Ability.CastNamePrefix.ご先祖様が見ているぞ":
     {
         "jpn":"夢符",
-        "eng":"Dream Sign",
     },
     "Ability.CastName.ご先祖様が見ているぞ":
     {
         "jpn":"「ご先祖様が見ているぞ」",
-        "eng":""Your Ancestors are Watching"",
     },
     "Ability.SpellText.ご先祖様が見ているぞ":
     {
         "jpn":"独りのときも草葉の陰で\nご先祖様が見ているぞ！",
-        "eng":"You are never alone.\n Your Ancestors are Watching!"
     },
     "Ability.ご先祖様が見ているぞ.2":
     {
         "jpn":"ご先祖様が見ているぞ",
-        "eng":"Your Ancestors are Watching",
     },
     "Ability.Description.ご先祖様が見ているぞ.2":
     {
         "jpn":"行動を消費しない",
-        "eng":"This ability costs no actions.",
     },
     "Ability.UnlockName.ご先祖様が見ているぞ.2":
     {
         "jpn":"ご先祖様が見ているぞL2",
-        "eng":"Your Ancestors are Watching Lv2",
     },
     "Ability.UnlockDescription.ご先祖様が見ているぞ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
     },
     "Ability.CastNamePrefix.ご先祖様が見ているぞ.2":
     {
         "jpn":"夢符",
-        "eng":"Dream Sign",
     },
     "Ability.CastName.ご先祖様が見ているぞ.2":
     {
         "jpn":"「ご先祖様が見ているぞ」",
-        "eng":""Your Ancestors are Watching"",
     },
     "Ability.SpellText.ご先祖様が見ているぞ.2":
     {
         "jpn":"独りのときも草葉の陰で\nご先祖様が見ているぞ！",
-        "eng":"You are never alone.\n Your Ancestors are Watching!",
     },
     "Ability.ご先祖様が見ているぞ.3":
     {
         "jpn":"ご先祖様が見ているぞ",
-        "eng":"Your Ancestors are Watching",
     },
     "Ability.Description.ご先祖様が見ているぞ.3":
     {
         "jpn":"行動を消費しない",
-        "eng":"This ability costs no actions."
     },
     "Ability.UnlockName.ご先祖様が見ているぞ.3":
     {
         "jpn":"ご先祖様が見ているぞL3",
-        "eng":"Your Ancestors are Watching L3",
     },
     "Ability.UnlockDescription.ご先祖様が見ているぞ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
     },
     "Ability.CastNamePrefix.ご先祖様が見ているぞ.3":
     {
         "jpn":"夢符",
-        "eng":"Dream Sign",
     },
     "Ability.CastName.ご先祖様が見ているぞ.3":
     {
         "jpn":"「ご先祖様が見ているぞ」",
-        "eng":""Your Ancestors are Watching"",
     },
     "Ability.SpellText.ご先祖様が見ているぞ.3":
     {
         "jpn":"独りのときも草葉の陰で\nご先祖様が見ているぞ！",
-        "eng":"You are never alone.\n Your Ancestors are Watching!",
     },
     "Ability.ちりょう":
     {
         "jpn":"ちりょう",
-        "eng":"Heal",
     },
     "Ability.Description.ちりょう":
     {
         "jpn":"",
-        "eng":"",
     },
     "Ability.UnlockName.ちりょう":
     {
         "jpn":"ちりょう",
-        "eng":"Heal",
     },
     "Ability.UnlockDescription.ちりょう":
     {
         "jpn":"",
-        "eng":"",
     },
     "Ability.CastNamePrefix.ちりょう":
     {
         "jpn":"",
-        "eng":"",
     },
     "Ability.CastName.ちりょう":
     {
         "jpn":"ちりょう",
-        "eng":"Heal",
     },
     "Ability.SpellText.ちりょう":
     {
         "jpn":"欠けし四肢、朽ちし内腑\n今一度あるべき様へ",
-        "eng":"Limbs broken, vitals rotten, \n Renew as I beckon!",
     },
     "Ability.アイテム発見移動":
     {
         "jpn":"アイテム発見移動",
-        "eng":"Find Item and Move",
     },
     "Ability.Description.アイテム発見移動":
     {
         "jpn":"隠された宝を見つける",
-        "eng":"Reveal hidden items.",
     },
     "Ability.UnlockName.アイテム発見移動":
     {
         "jpn":"アイテム発見移動",
-        "eng":"Find Item and Move",
     },
     "Ability.UnlockDescription.アイテム発見移動":
     {
         "jpn":"隠された宝を見つける",
-        "eng":"Reveal hidden items.",
     },
     "Ability.アビスノヴァ":
     {
         "jpn":"アビスノヴァ",
-        "eng":"Abyss Nova",
     },
     "Ability.Description.アビスノヴァ":
     {
@@ -324,7 +264,6 @@
     "Ability.UnlockName.アビスノヴァ":
     {
         "jpn":"アビスノヴァ",
-        "eng":"Abyss Nova",
     },
     "Ability.UnlockDescription.アビスノヴァ":
     {
@@ -337,17 +276,14 @@
     "Ability.CastName.アビスノヴァ":
     {
         "jpn":"「アビスノヴァ」",
-        "eng":""Abyss Nova"",
     },
     "Ability.SpellText.アビスノヴァ":
     {
         "jpn":"この身より迸る灼熱の混沌\n天地崩壊の火よ…　アビスノヴァ！",
-        "eng":"By fire be purged!\n Abyss Nova!",
     },
     "Ability.アビスノヴァ.2":
     {
         "jpn":"アビスノヴァ",
-        "eng":"Abyss Nova",
     },
     "Ability.Description.アビスノヴァ.2":
     {
@@ -356,12 +292,10 @@
     "Ability.UnlockName.アビスノヴァ.2":
     {
         "jpn":"アビスノヴァL2",
-        "eng":"Abyss Nova Lv2",
     },
     "Ability.UnlockDescription.アビスノヴァ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
     },
     "Ability.CastNamePrefix.アビスノヴァ.2":
     {
@@ -370,32 +304,26 @@
     "Ability.CastName.アビスノヴァ.2":
     {
         "jpn":"「アビスノヴァ」",
-        "eng":""Abyss Nova"",
     },
     "Ability.SpellText.アビスノヴァ.2":
     {
         "jpn":"この身より迸る灼熱の混沌\n天地崩壊の火よ…　アビスノヴァ！",
-        "eng":"By fire be purged!\n Abyss Nova!",
     },
     "Ability.アビスノヴァ.3":
     {
         "jpn":"アビスノヴァ",
-        "eng":"Abyss Nova",
     },
     "Ability.Description.アビスノヴァ.3":
     {
         "jpn":"",
-        "eng":"",
     },
     "Ability.UnlockName.アビスノヴァ.3":
     {
         "jpn":"アビスノヴァL3",
-        "eng":"Abyss Nova Lv3",
     },
     "Ability.UnlockDescription.アビスノヴァ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
     },
     "Ability.CastNamePrefix.アビスノヴァ.3":
     {
@@ -404,52 +332,42 @@
     "Ability.CastName.アビスノヴァ.3":
     {
         "jpn":"「アビスノヴァ」",
-        "eng":""Abyss Nova"",
     },
     "Ability.SpellText.アビスノヴァ.3":
     {
         "jpn":"この身より迸る灼熱の混沌\n天地崩壊の火よ…　アビスノヴァ！",
-        "eng":"By fire be purged!\n Abyss Nova!",
     },
     "Ability.オトリ":
     {
         "jpn":"オトリ",
-        "eng":"Baiting",
     },
     "Ability.Description.オトリ":
     {
         "jpn":"狙われやすくなる",
-        "eng":"Enemies are more likely to attack this unit.",
     },
     "Ability.UnlockName.オトリ":
     {
         "jpn":"オトリ",
-        "eng":"Baiting",
     },
     "Ability.UnlockDescription.オトリ":
     {
         "jpn":"狙われやすくなる",
-        "eng":"Enemies are more likely to attack this unit.",
     },
     "Ability.カウンター":
     {
         "jpn":"カウンター",
-        "eng":"Riposte",
     },
     "Ability.Description.カウンター":
     {
         "jpn":"接触攻撃にカウンター",
-        "eng":"Counterattack against melee hits.",
     },
     "Ability.UnlockName.カウンター":
     {
         "jpn":"カウンター",
-        "eng":"Riposte",
     },
     "Ability.UnlockDescription.カウンター":
     {
         "jpn":"接触攻撃にカウンター",
-        "eng":"Counterattack against melee hits.",
     },
     "Ability.CastNamePrefix.カウンター":
     {
@@ -458,7 +376,6 @@
     "Ability.CastName.カウンター":
     {
         "jpn":"カウンター",
-        "eng":"Riposte",
     },
     "Ability.SpellText.カウンター":
     {
@@ -467,22 +384,18 @@
     "Ability.カウンター.2":
     {
         "jpn":"カウンターL2",
-        "eng":"Riposte Lv2",
     },
     "Ability.Description.カウンター.2":
     {
         "jpn":"接触攻撃にカウンター",
-        "eng":"Counterattack against melee hits.",
     },
     "Ability.UnlockName.カウンター.2":
     {
         "jpn":"カウンターL2",
-        "eng":"Riposte Lv2",
     },
     "Ability.UnlockDescription.カウンター.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance"
     },
     "Ability.CastNamePrefix.カウンター.2":
     {
@@ -491,7 +404,6 @@
     "Ability.CastName.カウンター.2":
     {
         "jpn":"カウンター",
-        "eng":"Riposte",
     },
     "Ability.SpellText.カウンター.2":
     {
@@ -500,22 +412,18 @@
     "Ability.カウンター.3":
     {
         "jpn":"カウンターL3",
-        "eng":"Riposte Lv3",
     },
     "Ability.Description.カウンター.3":
     {
         "jpn":"接触攻撃にカウンター",
-        "eng":"Counterattack against melee hits.",
     },
     "Ability.UnlockName.カウンター.3":
     {
         "jpn":"カウンターL3",
-        "eng":"Riposte Lv3",
     },
     "Ability.UnlockDescription.カウンター.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンター.3":
     {
@@ -524,7 +432,6 @@
     "Ability.CastName.カウンター.3":
     {
         "jpn":"カウンター",
-        "eng":"Riposte",
     },
     "Ability.SpellText.カウンター.3":
     {
@@ -533,22 +440,18 @@
     "Ability.カウンターアタックブースト":
     {
         "jpn":"カウンターアタックブースト",
-        "eng":"Vengeance",
     },
     "Ability.Description.カウンターアタックブースト":
     {
         "jpn":"攻撃を受けたときにたまに攻撃上昇",
-        "eng":"Increase attack damage when hit",
     },
     "Ability.UnlockName.カウンターアタックブースト":
     {
         "jpn":"カウンターアタックブースト",
-        "eng":"Vengeance",
     },
     "Ability.UnlockDescription.カウンターアタックブースト":
     {
         "jpn":"攻撃を受けたときにたまに攻撃上昇",
-        "eng":"Increase attack damage when hit sometimes",
     },
     "Ability.CastNamePrefix.カウンターアタックブースト":
     {
@@ -557,7 +460,6 @@
     "Ability.CastName.カウンターアタックブースト":
     {
         "jpn":"アタックブースト",
-        "eng":"Attack Buff",
     },
     "Ability.SpellText.カウンターアタックブースト":
     {
@@ -566,22 +468,18 @@
     "Ability.カウンターアタックブースト.2":
     {
         "jpn":"カウンターアタックブーストL2",
-        "eng":"Vengeance Lv2",
     },
     "Ability.Description.カウンターアタックブースト.2":
     {
         "jpn":"攻撃を受けたときにたまに攻撃上昇",
-        "eng":"Increase attack damage when hit sometimes",
     },
     "Ability.UnlockName.カウンターアタックブースト.2":
     {
         "jpn":"カウンターアタックブーストL2",
-        "eng":"Vengeance Lv2"
     },
     "Ability.UnlockDescription.カウンターアタックブースト.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターアタックブースト.2":
     {
@@ -590,7 +488,6 @@
     "Ability.CastName.カウンターアタックブースト.2":
     {
         "jpn":"アタックブースト",
-        "eng":"Attack Buff",
     },
     "Ability.SpellText.カウンターアタックブースト.2":
     {
@@ -599,22 +496,18 @@
     "Ability.カウンターアタックブースト.3":
     {
         "jpn":"カウンターアタックブーストL3",
-        "eng":"Vengeance Lv3"
     },
     "Ability.Description.カウンターアタックブースト.3":
     {
         "jpn":"攻撃を受けたときにたまに攻撃上昇",
-        "eng":"Increase attack damage when hit sometimes",
     },
     "Ability.UnlockName.カウンターアタックブースト.3":
     {
         "jpn":"カウンターアタックブーストL3",
-        "eng":"Vengeance Lv3"
     },
     "Ability.UnlockDescription.カウンターアタックブースト.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターアタックブースト.3":
     {
@@ -623,7 +516,6 @@
     "Ability.CastName.カウンターアタックブースト.3":
     {
         "jpn":"アタックブースト",
-        "eng":"Offensive Buff"
     },
     "Ability.SpellText.カウンターアタックブースト.3":
     {
@@ -632,22 +524,18 @@
     "Ability.カウンターシールド":
     {
         "jpn":"カウンターシールド",
-        "eng":"Physical Armor",
     },
     "Ability.Description.カウンターシールド":
     {
         "jpn":"物理攻撃を受けたときにたまに物理耐性アップ",
-        "eng":"Have a chance to gain physical resistance when hit by physical attacks",
     },
     "Ability.UnlockName.カウンターシールド":
     {
         "jpn":"カウンターシールド",
-        "eng":"Physical Armor",
     },
     "Ability.UnlockDescription.カウンターシールド":
     {
         "jpn":"物理攻撃を受けたときにたまに物理耐性アップ",
-        "eng":"Have a chance to gain physical resistance when hit by physical attacks",
     },
     "Ability.CastNamePrefix.カウンターシールド":
     {
@@ -656,7 +544,6 @@
     "Ability.CastName.カウンターシールド":
     {
         "jpn":"シールド",
-        "eng":"Physical Defense",
     },
     "Ability.SpellText.カウンターシールド":
     {
@@ -665,22 +552,18 @@
     "Ability.カウンターシールド.2":
     {
         "jpn":"カウンターシールドL2",
-        "eng":"Physical Armor Lv2",
     },
     "Ability.Description.カウンターシールド.2":
     {
         "jpn":"物理攻撃を受けたときにたまに物理耐性アップ",
-        "eng":"Have a chance to gain physical resistance when hit by physical attacks",
     },
     "Ability.UnlockName.カウンターシールド.2":
     {
         "jpn":"カウンターシールドL2",
-        "eng":"Physical Armor Lv2",
     },
     "Ability.UnlockDescription.カウンターシールド.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターシールド.2":
     {
@@ -689,7 +572,6 @@
     "Ability.CastName.カウンターシールド.2":
     {
         "jpn":"シールド",
-        "eng":"Physical Defense",
     },
     "Ability.SpellText.カウンターシールド.2":
     {
@@ -698,22 +580,18 @@
     "Ability.カウンターシールド.3":
     {
         "jpn":"カウンターシールドL3",
-        "eng":"Physical Armor Lv3",
     },
     "Ability.Description.カウンターシールド.3":
     {
         "jpn":"物理攻撃を受けたときにたまに物理耐性アップ",
-        "eng":"Have a chance to gain physical resistance when hit by physical attacks",
     },
     "Ability.UnlockName.カウンターシールド.3":
     {
         "jpn":"カウンターシールドL3",
-        "eng":"Physical Armor Lv3",
     },
     "Ability.UnlockDescription.カウンターシールド.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターシールド.3":
     {
@@ -722,7 +600,6 @@
     "Ability.CastName.カウンターシールド.3":
     {
         "jpn":"シールド",
-        "eng":"Physical Defense",
     },
     "Ability.SpellText.カウンターシールド.3":
     {
@@ -731,22 +608,18 @@
     "Ability.カウンタースピードブースト":
     {
         "jpn":"カウンタースピードブースト",
-        "eng":"Competitive Spirit",
     },
     "Ability.Description.カウンタースピードブースト":
     {
         "jpn":"攻撃を受けたときにたまに敏捷上昇",
-        "eng":"Increase dexterity when hit sometimes",
     },
     "Ability.UnlockName.カウンタースピードブースト":
     {
         "jpn":"カウンタースピードブースト",
-        "eng":"Competitive Spirit",
     },
     "Ability.UnlockDescription.カウンタースピードブースト":
     {
         "jpn":"攻撃を受けたときにたまに敏捷上昇",
-        "eng":"Increase dexterity when hit sometimes",
     },
     "Ability.CastNamePrefix.カウンタースピードブースト":
     {
@@ -755,7 +628,6 @@
     "Ability.CastName.カウンタースピードブースト":
     {
         "jpn":"スピードブースト",
-        "eng":"Speed Buff",
     },
     "Ability.SpellText.カウンタースピードブースト":
     {
@@ -764,22 +636,18 @@
     "Ability.カウンタースピードブースト.2":
     {
         "jpn":"カウンタースピードブーストL2",
-        "eng":"Competitive Spirit Lv2",
     },
     "Ability.Description.カウンタースピードブースト.2":
     {
         "jpn":"攻撃を受けたときにたまに敏捷上昇",
-        "eng":"Increase dexterity when hit sometimes",
     },
     "Ability.UnlockName.カウンタースピードブースト.2":
     {
         "jpn":"カウンタースピードブーストL2",
-        "eng":"Competitive Spirit Lv2",
     },
     "Ability.UnlockDescription.カウンタースピードブースト.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンタースピードブースト.2":
     {
@@ -788,7 +656,6 @@
     "Ability.CastName.カウンタースピードブースト.2":
     {
         "jpn":"スピードブースト",
-        "eng":"Speed Buff",
     },
     "Ability.SpellText.カウンタースピードブースト.2":
     {
@@ -797,22 +664,18 @@
     "Ability.カウンタースピードブースト.3":
     {
         "jpn":"カウンタースピードブーストL3",
-        "eng":"Competitive Spirit Lv3",
     },
     "Ability.Description.カウンタースピードブースト.3":
     {
         "jpn":"攻撃を受けたときにたまに敏捷上昇",
-        "eng":"Increase dexterity when hit sometimes",
     },
     "Ability.UnlockName.カウンタースピードブースト.3":
     {
         "jpn":"カウンタースピードブーストL3",
-        "eng":"Competitive Spirit Lv3",
     },
     "Ability.UnlockDescription.カウンタースピードブースト.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンタースピードブースト.3":
     {
@@ -821,7 +684,6 @@
     "Ability.CastName.カウンタースピードブースト.3":
     {
         "jpn":"スピードブースト",
-        "eng":"Speed Buff",
     },
     "Ability.SpellText.カウンタースピードブースト.3":
     {
@@ -830,22 +692,18 @@
     "Ability.カウンターナイフ":
     {
         "jpn":"カウンターナイフ",
-        "eng":"Refined Riposte",
     },
     "Ability.Description.カウンターナイフ":
     {
         "jpn":"射撃、接触攻撃にカウンター",
-        "eng":"Counterattack against ranged and melee hits.",
     },
     "Ability.UnlockName.カウンターナイフ":
     {
         "jpn":"カウンターナイフ",
-        "eng":"Refined Riposte",
     },
     "Ability.UnlockDescription.カウンターナイフ":
     {
         "jpn":"射撃、接触攻撃にカウンター",
-        "eng":"Counterattack against ranged and melee hits.",
     },
     "Ability.CastNamePrefix.カウンターナイフ":
     {
@@ -854,7 +712,6 @@
     "Ability.CastName.カウンターナイフ":
     {
         "jpn":"カウンターナイフ",
-        "eng":"Refined Riposte",
     },
     "Ability.SpellText.カウンターナイフ":
     {
@@ -863,22 +720,18 @@
     "Ability.カウンターナイフ.2":
     {
         "jpn":"カウンターナイフL2",
-        "eng":"Refined Riposte Lv2",
     },
     "Ability.Description.カウンターナイフ.2":
     {
         "jpn":"射撃、接触攻撃にカウンター",
-        "eng":"Counterattack against ranged and melee hits.",
     },
     "Ability.UnlockName.カウンターナイフ.2":
     {
         "jpn":"カウンターナイフL2",
-        "eng":"Refined Riposte Lv2",
     },
     "Ability.UnlockDescription.カウンターナイフ.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターナイフ.2":
     {
@@ -887,7 +740,6 @@
     "Ability.CastName.カウンターナイフ.2":
     {
         "jpn":"カウンターナイフ",
-        "eng":"Refined Riposte",
     },
     "Ability.SpellText.カウンターナイフ.2":
     {
@@ -896,22 +748,18 @@
     "Ability.カウンターナイフ.3":
     {
         "jpn":"カウンターナイフL3",
-        "eng":"Refined Riposte Lv3",
     },
     "Ability.Description.カウンターナイフ.3":
     {
         "jpn":"射撃、接触攻撃にカウンター",
-        "eng":"Counterattack against ranged and melee hits.",
     },
     "Ability.UnlockName.カウンターナイフ.3":
     {
         "jpn":"カウンターナイフL3",
-        "eng":"Refined Riposte Lv3",
     },
     "Ability.UnlockDescription.カウンターナイフ.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターナイフ.3":
     {
@@ -920,7 +768,6 @@
     "Ability.CastName.カウンターナイフ.3":
     {
         "jpn":"カウンターナイフ",
-        "eng":"Refined Riposte",
     },
     "Ability.SpellText.カウンターナイフ.3":
     {
@@ -929,22 +776,18 @@
     "Ability.カウンターマジックシールド":
     {
         "jpn":"カウンターマジックシールド",
-        "eng":"Magical Armor",
     },
     "Ability.Description.カウンターマジックシールド":
     {
         "jpn":"魔法攻撃を受けたときにたまに魔法耐性アップ",
-        "eng":"Have a chance to gain magical resistance when hit by magical attacks",
     },
     "Ability.UnlockName.カウンターマジックシールド":
     {
         "jpn":"カウンターマジックシールド",
-        "eng":"Magical Armor",
     },
     "Ability.UnlockDescription.カウンターマジックシールド":
     {
         "jpn":"魔法攻撃を受けたときにたまに魔法耐性アップ",
-        "eng":"Have a chance to gain magical resistance when hit by magical attacks",
     },
     "Ability.CastNamePrefix.カウンターマジックシールド":
     {
@@ -953,7 +796,6 @@
     "Ability.CastName.カウンターマジックシールド":
     {
         "jpn":"マジックシールド",
-        "eng":"Magical Defense",
     },
     "Ability.SpellText.カウンターマジックシールド":
     {
@@ -962,22 +804,18 @@
     "Ability.カウンターマジックシールド.2":
     {
         "jpn":"カウンターマジックシールドL2",
-        "eng":"Magical Armor Lv2",
     },
     "Ability.Description.カウンターマジックシールド.2":
     {
         "jpn":"魔法攻撃を受けたときにたまに魔法耐性アップ",
-        "eng":"Have a chance to gain magical resistance when hit by magical attacks",
     },
     "Ability.UnlockName.カウンターマジックシールド.2":
     {
         "jpn":"カウンターマジックシールドL2",
-        "eng":"Magical Armor Lv2",
     },
     "Ability.UnlockDescription.カウンターマジックシールド.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターマジックシールド.2":
     {
@@ -986,7 +824,6 @@
     "Ability.CastName.カウンターマジックシールド.2":
     {
         "jpn":"マジックシールド",
-        "eng":"Magical Defense",
     },
     "Ability.SpellText.カウンターマジックシールド.2":
     {
@@ -995,22 +832,18 @@
     "Ability.カウンターマジックシールド.3":
     {
         "jpn":"カウンターマジックシールドL3",
-        "eng":"Magical Armor Lv3",
     },
     "Ability.Description.カウンターマジックシールド.3":
     {
         "jpn":"魔法攻撃を受けたときにたまに魔法耐性アップ",
-        "eng":"Have a chance to gain magical resistance when hit by magical attacks",
     },
     "Ability.UnlockName.カウンターマジックシールド.3":
     {
         "jpn":"カウンターマジックシールドL3",
-        "eng":"Magical Armor Lv3",
     },
     "Ability.UnlockDescription.カウンターマジックシールド.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターマジックシールド.3":
     {
@@ -1019,7 +852,6 @@
     "Ability.CastName.カウンターマジックシールド.3":
     {
         "jpn":"マジックシールド",
-        "eng":"Magical Defense",
     },
     "Ability.SpellText.カウンターマジックシールド.3":
     {
@@ -1028,22 +860,18 @@
     "Ability.カウンターリジェネレート":
     {
         "jpn":"カウンターリジェネレート",
-        "eng":"Self-recovery",
     },
     "Ability.Description.カウンターリジェネレート":
     {
         "jpn":"攻撃を受けたときにたまに自動再生付与",
-        "eng":"Have a chance to gain regenration when hit",
     },
     "Ability.UnlockName.カウンターリジェネレート":
     {
         "jpn":"カウンターリジェネレート",
-        "eng":"Self-recovery",
     },
     "Ability.UnlockDescription.カウンターリジェネレート":
     {
         "jpn":"攻撃を受けたときにたまに自動再生付与",
-        "eng":"Have a chance to gain regenration when hit",
     },
     "Ability.CastNamePrefix.カウンターリジェネレート":
     {
@@ -1052,7 +880,6 @@
     "Ability.CastName.カウンターリジェネレート":
     {
         "jpn":"リジェネレート",
-        "eng":"Regeneration",
     },
     "Ability.SpellText.カウンターリジェネレート":
     {
@@ -1061,22 +888,18 @@
     "Ability.カウンターリジェネレート.2":
     {
         "jpn":"カウンターリジェネレートL2",
-        "eng":"Self-recovery Lv2",
     },
     "Ability.Description.カウンターリジェネレート.2":
     {
         "jpn":"攻撃を受けたときにたまに自動再生付与",
-        "eng":"Have a chance to gain regenration when hit",
     },
     "Ability.UnlockName.カウンターリジェネレート.2":
     {
         "jpn":"カウンターリジェネレートL2",
-        "eng":"Self-recovery Lv2",
     },
     "Ability.UnlockDescription.カウンターリジェネレート.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターリジェネレート.2":
     {
@@ -1085,7 +908,6 @@
     "Ability.CastName.カウンターリジェネレート.2":
     {
         "jpn":"リジェネレート",
-        "eng":"Regeneration",
     },
     "Ability.SpellText.カウンターリジェネレート.2":
     {
@@ -1094,22 +916,18 @@
     "Ability.カウンターリジェネレート.3":
     {
         "jpn":"カウンターリジェネレートL3",
-        "eng":"Self-recovery Lv3",
     },
     "Ability.Description.カウンターリジェネレート.3":
     {
         "jpn":"攻撃を受けたときにたまに自動再生付与",
-        "eng":"Have a chance to gain regenration when hit",
     },
     "Ability.UnlockName.カウンターリジェネレート.3":
     {
         "jpn":"カウンターリジェネレートL3",
-        "eng":"Self-recovery Lv3",
     },
     "Ability.UnlockDescription.カウンターリジェネレート.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンターリジェネレート.3":
     {
@@ -1118,7 +936,6 @@
     "Ability.CastName.カウンターリジェネレート.3":
     {
         "jpn":"リジェネレート",
-        "eng":"Regeneration",
     },
     "Ability.SpellText.カウンターリジェネレート.3":
     {
@@ -1127,22 +944,18 @@
     "Ability.カウンター森羅結界":
     {
         "jpn":"カウンター森羅結界",
-        "eng":"Supernatural Border",
     },
     "Ability.Description.カウンター森羅結界":
     {
         "jpn":"カウンターで森羅結界を張る",
-        "eng":"Have a chance to gain Supernatural Border when hit.",
     },
     "Ability.UnlockName.カウンター森羅結界":
     {
         "jpn":"カウンター森羅結界",
-        "eng":"Supernatural Border",
     },
     "Ability.UnlockDescription.カウンター森羅結界":
     {
         "jpn":"カウンターで森羅結界を張る",
-        "eng":"Have a chance to gain Supernatural Border when hit.",
     },
     "Ability.CastNamePrefix.カウンター森羅結界":
     {
@@ -1151,7 +964,6 @@
     "Ability.CastName.カウンター森羅結界":
     {
         "jpn":"森羅結界",
-        "eng":"Barrier",
     },
     "Ability.SpellText.カウンター森羅結界":
     {
@@ -1160,22 +972,18 @@
     "Ability.カウンター森羅結界.2":
     {
         "jpn":"カウンター森羅結界L2",
-        "eng":"Supernatural Border Lv2",
     },
     "Ability.Description.カウンター森羅結界.2":
     {
         "jpn":"カウンターで森羅結界を張る",
-        "eng":"Have a chance to gain Supernatural Border when hit.",
     },
     "Ability.UnlockName.カウンター森羅結界.2":
     {
         "jpn":"カウンター森羅結界L2",
-        "eng":"Supernatural Border Lv2",
     },
     "Ability.UnlockDescription.カウンター森羅結界.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンター森羅結界.2":
     {
@@ -1184,7 +992,6 @@
     "Ability.CastName.カウンター森羅結界.2":
     {
         "jpn":"森羅結界",
-        "eng":"Barrier",
     },
     "Ability.SpellText.カウンター森羅結界.2":
     {
@@ -1193,22 +1000,18 @@
     "Ability.カウンター森羅結界.3":
     {
         "jpn":"カウンター森羅結界L3",
-        "eng":"Supernatural Border Lv3",
     },
     "Ability.Description.カウンター森羅結界.3":
     {
         "jpn":"カウンターで森羅結界を張る",
-        "eng":"Have a chance to gain Supernatural Border when hit.",
     },
     "Ability.UnlockName.カウンター森羅結界.3":
     {
         "jpn":"カウンター森羅結界L3",
-        "eng":"Supernatural Border Lv3",
     },
     "Ability.UnlockDescription.カウンター森羅結界.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
     },
     "Ability.CastNamePrefix.カウンター森羅結界.3":
     {
@@ -1217,7 +1020,6 @@
     "Ability.CastName.カウンター森羅結界.3":
     {
         "jpn":"森羅結界",
-        "eng":"Barrier",
     },
     "Ability.SpellText.カウンター森羅結界.3":
     {
