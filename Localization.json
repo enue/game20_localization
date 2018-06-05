@@ -12,12 +12,12 @@
     "設定.SE":
     {
         "jpn":"効果音",
-        "eng":"Sound Effect",
+        "eng":"SFX",
     },
     "設定.BGM":
     {
         "jpn":"BGM",
-        "eng":"Background",
+        "eng":"BGM",
     },
     "設定.DefaultVolume":
     {
@@ -28,6 +28,16 @@
     {
         "jpn":"詠唱メッセージ自動送り",
         "eng":"auto-read chantings",
+    },
+    "設定.Language":
+    {
+        "jpn":"言語 : {language}",
+        "eng":"Language : {language}",
+    },
+    "Ability.NameSeparator":
+    {
+        "jpn":"",
+        "eng":" ",
     },
     "Ability.DNAの瑕":
     {
@@ -46,16 +56,16 @@
     "Ability.UnlockDescription.DNAの瑕":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.DNAの瑕":
     {
         "jpn":"記憶",
-        "eng":"Memory",
     },
     "Ability.CastName.DNAの瑕":
     {
         "jpn":"「DNAの瑕」",
-        "eng":"DNA's Flaw",
+        "eng":"「DNAの瑕」 \"DNA's Flaw\"",
     },
     "Ability.SpellText.DNAの瑕":
     {
@@ -75,7 +85,7 @@
     "Ability.UnlockDescription.DNAの瑕.2":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
+        "eng":"Increase power",
     },
     "Ability.DNAの瑕.3":
     {
@@ -90,7 +100,7 @@
     "Ability.UnlockDescription.DNAの瑕.3":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
+        "eng":"Increase power",
     },
     "Ability.ご先祖様":
     {
@@ -135,12 +145,11 @@
     "Ability.CastNamePrefix.ご先祖様が見ているぞ":
     {
         "jpn":"夢符",
-        "eng":"Dream Sign",
     },
     "Ability.CastName.ご先祖様が見ているぞ":
     {
         "jpn":"「ご先祖様が見ているぞ」",
-        "eng":"Your Ancestors are Watching",
+        "eng":"\"Your Ancestors are Watching\"",
     },
     "Ability.SpellText.ご先祖様が見ているぞ":
     {
@@ -160,7 +169,7 @@
     "Ability.UnlockDescription.ご先祖様が見ているぞ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
+        "eng":"Increase power",
     },
     "Ability.ご先祖様が見ているぞ.3":
     {
@@ -175,7 +184,7 @@
     "Ability.UnlockDescription.ご先祖様が見ているぞ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
+        "eng":"Increase power",
     },
     "Ability.ちりょう":
     {
@@ -215,7 +224,7 @@
     "Ability.アイテム発見移動":
     {
         "jpn":"アイテム発見移動",
-        "eng":"Find Item and Move",
+        "eng":"Detect Treasure",
     },
     "Ability.Description.アイテム発見移動":
     {
@@ -225,7 +234,7 @@
     "Ability.UnlockName.アイテム発見移動":
     {
         "jpn":"アイテム発見移動",
-        "eng":"Find Item and Move",
+        "eng":"Detect Treasure",
     },
     "Ability.UnlockDescription.アイテム発見移動":
     {
@@ -257,7 +266,7 @@
     "Ability.CastName.アビスノヴァ":
     {
         "jpn":"「アビスノヴァ」",
-        "eng":"Abyss Nova",
+        "eng":"\"Abyss Nova\"",
     },
     "Ability.SpellText.アビスノヴァ":
     {
@@ -277,7 +286,7 @@
     "Ability.UnlockDescription.アビスノヴァ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
+        "eng":"Increase power",
     },
     "Ability.アビスノヴァ.3":
     {
@@ -292,7 +301,7 @@
     "Ability.UnlockDescription.アビスノヴァ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Upgrade",
+        "eng":"Increase power",
     },
     "Ability.オトリ":
     {
@@ -337,6 +346,7 @@
     "Ability.CastNamePrefix.カウンター":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.カウンター":
     {
@@ -346,6 +356,7 @@
     "Ability.SpellText.カウンター":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.カウンター.2":
     {
@@ -400,15 +411,17 @@
     "Ability.CastNamePrefix.カウンターアタックブースト":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.カウンターアタックブースト":
     {
         "jpn":"アタックブースト",
-        "eng":"Attack Buff",
+        "eng":"Vengeance",
     },
     "Ability.SpellText.カウンターアタックブースト":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.カウンターアタックブースト.2":
     {
@@ -443,7 +456,7 @@
     "Ability.カウンターシールド":
     {
         "jpn":"カウンターシールド",
-        "eng":"Physical Armor",
+        "eng":"Counter: Physical Armor",
     },
     "Ability.Description.カウンターシールド":
     {
@@ -453,7 +466,7 @@
     "Ability.UnlockName.カウンターシールド":
     {
         "jpn":"カウンターシールド",
-        "eng":"Physical Armor",
+        "eng":"Counter: Physical Armor",
     },
     "Ability.UnlockDescription.カウンターシールド":
     {
@@ -463,6 +476,7 @@
     "Ability.CastNamePrefix.カウンターシールド":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.カウンターシールド":
     {
@@ -472,6 +486,7 @@
     "Ability.SpellText.カウンターシールド":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.カウンターシールド.2":
     {
@@ -526,6 +541,7 @@
     "Ability.CastNamePrefix.カウンタースピードブースト":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.カウンタースピードブースト":
     {
@@ -589,6 +605,7 @@
     "Ability.CastNamePrefix.カウンターナイフ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.カウンターナイフ":
     {
@@ -598,6 +615,7 @@
     "Ability.SpellText.カウンターナイフ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.カウンターナイフ.2":
     {
@@ -632,7 +650,7 @@
     "Ability.カウンターマジックシールド":
     {
         "jpn":"カウンターマジックシールド",
-        "eng":"Magical Armor",
+        "eng":"Counter: Magical Armor",
     },
     "Ability.Description.カウンターマジックシールド":
     {
@@ -642,7 +660,7 @@
     "Ability.UnlockName.カウンターマジックシールド":
     {
         "jpn":"カウンターマジックシールド",
-        "eng":"Magical Armor",
+        "eng":"Counter: Magical Armor",
     },
     "Ability.UnlockDescription.カウンターマジックシールド":
     {
@@ -652,6 +670,7 @@
     "Ability.CastNamePrefix.カウンターマジックシールド":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.カウンターマジックシールド":
     {
@@ -661,16 +680,17 @@
     "Ability.SpellText.カウンターマジックシールド":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.カウンターマジックシールド.2":
     {
         "jpn":"カウンターマジックシールドL2",
-        "eng":"Magical Armor Lv2",
+        "eng":"Counter: Magical Armor Lv2",
     },
     "Ability.UnlockName.カウンターマジックシールド.2":
     {
         "jpn":"カウンターマジックシールドL2",
-        "eng":"Magical Armor Lv2",
+        "eng":"Counter: Magical Armor Lv2",
     },
     "Ability.UnlockDescription.カウンターマジックシールド.2":
     {
@@ -680,12 +700,12 @@
     "Ability.カウンターマジックシールド.3":
     {
         "jpn":"カウンターマジックシールドL3",
-        "eng":"Magical Armor Lv3",
+        "eng":"Counter: Magical Armor Lv3",
     },
     "Ability.UnlockName.カウンターマジックシールド.3":
     {
         "jpn":"カウンターマジックシールドL3",
-        "eng":"Magical Armor Lv3",
+        "eng":"Counter: Magical Armor Lv3",
     },
     "Ability.UnlockDescription.カウンターマジックシールド.3":
     {
@@ -715,6 +735,7 @@
     "Ability.CastNamePrefix.カウンターリジェネレート":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.カウンターリジェネレート":
     {
@@ -724,6 +745,7 @@
     "Ability.SpellText.カウンターリジェネレート":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.カウンターリジェネレート.2":
     {
@@ -758,7 +780,7 @@
     "Ability.カウンター森羅結界":
     {
         "jpn":"カウンター森羅結界",
-        "eng":"Supernatural Border",
+        "eng":"Counter: Supernatural Border",
     },
     "Ability.Description.カウンター森羅結界":
     {
@@ -768,7 +790,7 @@
     "Ability.UnlockName.カウンター森羅結界":
     {
         "jpn":"カウンター森羅結界",
-        "eng":"Supernatural Border",
+        "eng":"Counter: Supernatural Border",
     },
     "Ability.UnlockDescription.カウンター森羅結界":
     {
@@ -778,25 +800,27 @@
     "Ability.CastNamePrefix.カウンター森羅結界":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.カウンター森羅結界":
     {
         "jpn":"森羅結界",
-        "eng":"Barrier",
+        "eng":"Supernatural Border",
     },
     "Ability.SpellText.カウンター森羅結界":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.カウンター森羅結界.2":
     {
         "jpn":"カウンター森羅結界L2",
-        "eng":"Supernatural Border Lv2",
+        "eng":"Counter: Supernatural Border Lv2",
     },
     "Ability.UnlockName.カウンター森羅結界.2":
     {
         "jpn":"カウンター森羅結界L2",
-        "eng":"Supernatural Border Lv2",
+        "eng":"Counter: Supernatural Border Lv2",
     },
     "Ability.UnlockDescription.カウンター森羅結界.2":
     {
@@ -806,12 +830,12 @@
     "Ability.カウンター森羅結界.3":
     {
         "jpn":"カウンター森羅結界L3",
-        "eng":"Supernatural Border Lv3",
+        "eng":"Counter: Supernatural Border Lv3",
     },
     "Ability.UnlockName.カウンター森羅結界.3":
     {
         "jpn":"カウンター森羅結界L3",
-        "eng":"Supernatural Border Lv3",
+        "eng":"Counter: Supernatural Border Lv3",
     },
     "Ability.UnlockDescription.カウンター森羅結界.3":
     {
@@ -821,18 +845,22 @@
     "Ability.ガゴウジサイクロン":
     {
         "jpn":"ガゴウジサイクロン",
+        "eng":"Gagouji's Cyclone",
     },
     "Ability.Description.ガゴウジサイクロン":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.ガゴウジサイクロン":
     {
         "jpn":"ガゴウジサイクロン",
+        "eng":"Gagouji's Cyclone",
     },
     "Ability.UnlockDescription.ガゴウジサイクロン":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.ガゴウジサイクロン":
     {
@@ -841,6 +869,7 @@
     "Ability.CastName.ガゴウジサイクロン":
     {
         "jpn":"「ガゴウジサイクロン」",
+        "eng":"\"Gagouji's Cyclone\"",
     },
     "Ability.SpellText.ガゴウジサイクロン":
     {
@@ -849,30 +878,37 @@
     "Ability.ガゴウジサイクロン.2":
     {
         "jpn":"ガゴウジサイクロン",
+        "eng":"Gagouji's Cyclone",
     },
     "Ability.UnlockName.ガゴウジサイクロン.2":
     {
         "jpn":"ガゴウジサイクロンL2",
+        "eng":"Gagouji's Cyclone Lv2",
     },
     "Ability.UnlockDescription.ガゴウジサイクロン.2":
     {
         "jpn":"威力上昇",
+        "eng":"Increase power",
     },
     "Ability.ガゴウジサイクロン.3":
     {
         "jpn":"ガゴウジサイクロン",
+        "eng":"Gagouji's Cyclone",
     },
     "Ability.UnlockName.ガゴウジサイクロン.3":
     {
         "jpn":"ガゴウジサイクロンL3",
+        "eng":"Gagouji's Cyclone Lv3",
     },
     "Ability.UnlockDescription.ガゴウジサイクロン.3":
     {
         "jpn":"威力上昇",
+        "eng":"Increase power",
     },
     "Ability.ガッツ":
     {
         "jpn":"ガッツ",
+        "eng":"Last Stand",
     },
     "Ability.Description.ガッツ":
     {
@@ -881,6 +917,7 @@
     "Ability.UnlockName.ガッツ":
     {
         "jpn":"ガッツ",
+        "eng":"Last Stand",
     },
     "Ability.UnlockDescription.ガッツ":
     {
@@ -889,10 +926,12 @@
     "Ability.ガッツ.2":
     {
         "jpn":"ガッツL2",
+        "eng":"Last Stand Lv2",
     },
     "Ability.UnlockName.ガッツ.2":
     {
         "jpn":"ガッツL2",
+        "eng":"Last Stand Lv2",
     },
     "Ability.UnlockDescription.ガッツ.2":
     {
@@ -901,10 +940,12 @@
     "Ability.ガッツ.3":
     {
         "jpn":"ガッツL3",
+        "eng":"Last Stand Lv3",
     },
     "Ability.UnlockName.ガッツ.3":
     {
         "jpn":"ガッツL3",
+        "eng":"Last Stand Lv3",
     },
     "Ability.UnlockDescription.ガッツ.3":
     {
@@ -913,6 +954,7 @@
     "Ability.ガード":
     {
         "jpn":"ガード",
+        "eng":"Guard",
     },
     "Ability.Description.ガード":
     {
@@ -921,6 +963,7 @@
     "Ability.UnlockName.ガード":
     {
         "jpn":"ガード",
+        "eng":"Guard",
     },
     "Ability.UnlockDescription.ガード":
     {
@@ -929,22 +972,27 @@
     "Ability.CastNamePrefix.ガード":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.ガード":
     {
         "jpn":"ガード",
+        "eng":"Guard",
     },
     "Ability.SpellText.ガード":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.ガード.2":
     {
         "jpn":"ガードL2",
+        "eng":"Guard Lv2",
     },
     "Ability.UnlockName.ガード.2":
     {
         "jpn":"ガードL2",
+        "eng":"Guard Lv2",
     },
     "Ability.UnlockDescription.ガード.2":
     {
@@ -953,10 +1001,12 @@
     "Ability.ガード.3":
     {
         "jpn":"ガードL3",
+        "eng":"Guard Lv3",
     },
     "Ability.UnlockName.ガード.3":
     {
         "jpn":"ガードL3",
+        "eng":"Guard Lv3",
     },
     "Ability.UnlockDescription.ガード.3":
     {
@@ -965,6 +1015,7 @@
     "Ability.キョンシー":
     {
         "jpn":"キョンシー",
+        "eng":"Jiangshi",
     },
     "Ability.Description.キョンシー":
     {
@@ -973,6 +1024,7 @@
     "Ability.UnlockName.キョンシー":
     {
         "jpn":"キョンシー",
+        "eng":"Jiangshi",
     },
     "Ability.UnlockDescription.キョンシー":
     {
@@ -981,6 +1033,7 @@
     "Ability.サンダーバリア":
     {
         "jpn":"サンダーバリア",
+        "eng":"Thunder Barrier",
     },
     "Ability.Description.サンダーバリア":
     {
@@ -989,6 +1042,7 @@
     "Ability.UnlockName.サンダーバリア":
     {
         "jpn":"サンダーバリア",
+        "eng":"Thunder Barrier",
     },
     "Ability.UnlockDescription.サンダーバリア":
     {
@@ -997,30 +1051,37 @@
     "Ability.CastNamePrefix.サンダーバリア":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.サンダーバリア":
     {
         "jpn":"サンダーバリア",
+        "eng":"Thunder Barrier",
     },
     "Ability.SpellText.サンダーバリア":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.スカーレットデビル":
     {
         "jpn":"スカーレットデビル",
+        "eng":"Scarlet Devil",
     },
     "Ability.Description.スカーレットデビル":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.スカーレットデビル":
     {
         "jpn":"スカーレットデビル",
+        "eng":"Scarlet Devil",
     },
     "Ability.UnlockDescription.スカーレットデビル":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.スカーレットデビル":
     {
@@ -1029,6 +1090,7 @@
     "Ability.CastName.スカーレットデビル":
     {
         "jpn":"「スカーレットデビル」",
+        "eng":"\"Scarlet Devil\"",
     },
     "Ability.SpellText.スカーレットデビル":
     {
@@ -1037,10 +1099,12 @@
     "Ability.スカーレットデビル.2":
     {
         "jpn":"スカーレットデビル",
+        "eng":"Scarlet Devil",
     },
     "Ability.UnlockName.スカーレットデビル.2":
     {
         "jpn":"スカーレットデビルL2",
+        "eng":"Scarlet Devil Lv2",
     },
     "Ability.UnlockDescription.スカーレットデビル.2":
     {
@@ -1049,10 +1113,12 @@
     "Ability.スカーレットデビル.3":
     {
         "jpn":"スカーレットデビル",
+        "eng":"Scarlet Devil3",
     },
     "Ability.UnlockName.スカーレットデビル.3":
     {
         "jpn":"スカーレットデビルL3",
+        "eng":"Scarlet Devil Lv3",
     },
     "Ability.UnlockDescription.スカーレットデビル.3":
     {
@@ -1061,6 +1127,7 @@
     "Ability.スキマ移動":
     {
         "jpn":"スキマ移動",
+        "eng":"Sukima Move",
     },
     "Ability.Description.スキマ移動":
     {
@@ -1069,6 +1136,7 @@
     "Ability.UnlockName.スキマ移動":
     {
         "jpn":"スキマ移動",
+        "eng":"Sukima Move",
     },
     "Ability.UnlockDescription.スキマ移動":
     {
@@ -1077,6 +1145,7 @@
     "Ability.ステルス":
     {
         "jpn":"ステルス",
+        "eng":"Stealth",
     },
     "Ability.Description.ステルス":
     {
@@ -1085,6 +1154,7 @@
     "Ability.UnlockName.ステルス":
     {
         "jpn":"ステルス",
+        "eng":"Stealth",
     },
     "Ability.UnlockDescription.ステルス":
     {
@@ -1093,6 +1163,7 @@
     "Ability.スプリーンイーター":
     {
         "jpn":"スプリーンイーター",
+        "eng":"Spleen Eater",
     },
     "Ability.Description.スプリーンイーター":
     {
@@ -1101,6 +1172,7 @@
     "Ability.UnlockName.スプリーンイーター":
     {
         "jpn":"スプリーンイーター",
+        "eng":"Spleen Eater",
     },
     "Ability.UnlockDescription.スプリーンイーター":
     {
@@ -1113,6 +1185,7 @@
     "Ability.CastName.スプリーンイーター":
     {
         "jpn":"「スプリーンイーター」",
+        "eng":"\"Spleen Eater\"",
     },
     "Ability.SpellText.スプリーンイーター":
     {
@@ -1121,10 +1194,12 @@
     "Ability.スプリーンイーター.2":
     {
         "jpn":"スプリーンイーター",
+        "eng":"Spleen Eater",
     },
     "Ability.UnlockName.スプリーンイーター.2":
     {
         "jpn":"スプリーンイーターL2",
+        "eng":"Spleen Eater Lv2",
     },
     "Ability.UnlockDescription.スプリーンイーター.2":
     {
@@ -1133,10 +1208,12 @@
     "Ability.スプリーンイーター.3":
     {
         "jpn":"スプリーンイーター",
+        "eng":"Spleen Eater",
     },
     "Ability.UnlockName.スプリーンイーター.3":
     {
         "jpn":"スプリーンイーターL3",
+        "eng":"Spleen Eater Lv3",
     },
     "Ability.UnlockDescription.スプリーンイーター.3":
     {
@@ -1145,82 +1222,102 @@
     "Ability.スペルブースト":
     {
         "jpn":"スペルカード威力+5％",
+        "eng":"SpellCardPower +5%",
     },
     "Ability.Description.スペルブースト":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.スペルブースト":
     {
         "jpn":"スペルカード威力+5％",
+        "eng":"SpellCardPower +5%",
     },
     "Ability.UnlockDescription.スペルブースト":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.スペルブースト.2":
     {
         "jpn":"スペルカード威力+10％",
+        "eng":"SpellCardPower +10%",
     },
     "Ability.UnlockName.スペルブースト.2":
     {
         "jpn":"スペルカード威力+10％",
+        "eng":"SpellCardPower +10%",
     },
     "Ability.UnlockDescription.スペルブースト.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.スペルブースト.3":
     {
         "jpn":"スペルカード威力+15％",
+        "eng":"SpellCardPower +15%",
     },
     "Ability.UnlockName.スペルブースト.3":
     {
         "jpn":"スペルカード威力+15％",
+        "eng":"SpellCardPower +15%",
     },
     "Ability.UnlockDescription.スペルブースト.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.スペルブースト.4":
     {
         "jpn":"スペルカード威力+20％",
+        "eng":"SpellCardPower +20%",
     },
     "Ability.UnlockName.スペルブースト.4":
     {
         "jpn":"スペルカード威力+20％",
+        "eng":"SpellCardPower +20%",
     },
     "Ability.UnlockDescription.スペルブースト.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.スペルブースト.5":
     {
         "jpn":"スペルカード威力+25％",
+        "eng":"SpellCardPower +25%",
     },
     "Ability.UnlockName.スペルブースト.5":
     {
         "jpn":"スペルカード威力+25％",
+        "eng":"SpellCardPower +25%",
     },
     "Ability.UnlockDescription.スペルブースト.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.セプテントリオン":
     {
         "jpn":"セプテントリオン",
+        "eng":"Septentrion",
     },
     "Ability.Description.セプテントリオン":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.セプテントリオン":
     {
         "jpn":"セプテントリオン",
+        "eng":"Septentrion",
     },
     "Ability.UnlockDescription.セプテントリオン":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.セプテントリオン":
     {
@@ -1229,6 +1326,7 @@
     "Ability.CastName.セプテントリオン":
     {
         "jpn":"「セプテントリオン」",
+        "eng":"\"Septentrion\"",
     },
     "Ability.SpellText.セプテントリオン":
     {
@@ -1237,10 +1335,12 @@
     "Ability.セプテントリオン.2":
     {
         "jpn":"セプテントリオン",
+        "eng":"Septentrion",
     },
     "Ability.UnlockName.セプテントリオン.2":
     {
         "jpn":"セプテントリオンL2",
+        "eng":"Septentrion Lv2",
     },
     "Ability.UnlockDescription.セプテントリオン.2":
     {
@@ -1249,10 +1349,12 @@
     "Ability.セプテントリオン.3":
     {
         "jpn":"セプテントリオン",
+        "eng":"Septentrion",
     },
     "Ability.UnlockName.セプテントリオン.3":
     {
         "jpn":"セプテントリオンL3",
+        "eng":"Septentrion Lv3",
     },
     "Ability.UnlockDescription.セプテントリオン.3":
     {
@@ -1261,18 +1363,22 @@
     "Ability.ソウルスカルプチュア":
     {
         "jpn":"ソウルスカルプチュア",
+        "eng":"Soul Sculpture",
     },
     "Ability.Description.ソウルスカルプチュア":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.ソウルスカルプチュア":
     {
         "jpn":"ソウルスカルプチュア",
+        "eng":"Soul Sculpture",
     },
     "Ability.UnlockDescription.ソウルスカルプチュア":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.ソウルスカルプチュア":
     {
@@ -1281,6 +1387,7 @@
     "Ability.CastName.ソウルスカルプチュア":
     {
         "jpn":"「ソウルスカルプチュア」",
+        "eng":"\"Soul Sculpture\"",
     },
     "Ability.SpellText.ソウルスカルプチュア":
     {
@@ -1289,10 +1396,12 @@
     "Ability.ソウルスカルプチュア.2":
     {
         "jpn":"ソウルスカルプチュア",
+        "eng":"Soul Sculpture",
     },
     "Ability.UnlockName.ソウルスカルプチュア.2":
     {
         "jpn":"ソウルスカルプチュアL2",
+        "eng":"Soul Sculpture Lv2",
     },
     "Ability.UnlockDescription.ソウルスカルプチュア.2":
     {
@@ -1301,10 +1410,12 @@
     "Ability.ソウルスカルプチュア.3":
     {
         "jpn":"ソウルスカルプチュア",
+        "eng":"Soul Sculpture",
     },
     "Ability.UnlockName.ソウルスカルプチュア.3":
     {
         "jpn":"ソウルスカルプチュアL3",
+        "eng":"Soul Sculpture Lv3",
     },
     "Ability.UnlockDescription.ソウルスカルプチュア.3":
     {
@@ -1313,6 +1424,7 @@
     "Ability.ゾンビフェアリー":
     {
         "jpn":"ゾンビフェアリー",
+        "eng":"Zombie Fairy",
     },
     "Ability.Description.ゾンビフェアリー":
     {
@@ -1321,6 +1433,7 @@
     "Ability.UnlockName.ゾンビフェアリー":
     {
         "jpn":"ゾンビフェアリー",
+        "eng":"Zombie Fairy",
     },
     "Ability.UnlockDescription.ゾンビフェアリー":
     {
@@ -1329,22 +1442,27 @@
     "Ability.ダッシュ":
     {
         "jpn":"ダッシュ",
+        "eng":"Dash",
     },
     "Ability.Description.ダッシュ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.ダッシュ":
     {
         "jpn":"ダッシュ",
+        "eng":"Dash",
     },
     "Ability.UnlockDescription.ダッシュ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.トリップワイヤー":
     {
         "jpn":"トリップワイヤー",
+        "eng":"Trip Wire",
     },
     "Ability.Description.トリップワイヤー":
     {
@@ -1353,6 +1471,7 @@
     "Ability.UnlockName.トリップワイヤー":
     {
         "jpn":"トリップワイヤー",
+        "eng":"Trip Wire",
     },
     "Ability.UnlockDescription.トリップワイヤー":
     {
@@ -1365,6 +1484,7 @@
     "Ability.CastName.トリップワイヤー":
     {
         "jpn":"「トリップワイヤー」",
+        "eng":"\"Trip Wire\"",
     },
     "Ability.SpellText.トリップワイヤー":
     {
@@ -1373,10 +1493,12 @@
     "Ability.トリップワイヤー.2":
     {
         "jpn":"トリップワイヤー",
+        "eng":"Trip Wire",
     },
     "Ability.UnlockName.トリップワイヤー.2":
     {
         "jpn":"トリップワイヤーL2",
+        "eng":"Trip Wire Lv2",
     },
     "Ability.UnlockDescription.トリップワイヤー.2":
     {
@@ -1385,10 +1507,12 @@
     "Ability.トリップワイヤー.3":
     {
         "jpn":"トリップワイヤー",
+        "eng":"Trip Wire",
     },
     "Ability.UnlockName.トリップワイヤー.3":
     {
         "jpn":"トリップワイヤーL3",
+        "eng":"Trip Wire Lv3",
     },
     "Ability.UnlockDescription.トリップワイヤー.3":
     {
@@ -1397,18 +1521,22 @@
     "Ability.ドラゴンメテオ":
     {
         "jpn":"ドラゴンメテオ",
+        "eng":"Dragon Meteor",
     },
     "Ability.Description.ドラゴンメテオ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.ドラゴンメテオ":
     {
         "jpn":"ドラゴンメテオ",
+        "eng":"Dragon Meteor",
     },
     "Ability.UnlockDescription.ドラゴンメテオ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.ドラゴンメテオ":
     {
@@ -1417,6 +1545,7 @@
     "Ability.CastName.ドラゴンメテオ":
     {
         "jpn":"「ドラゴンメテオ」",
+        "eng":"\"Dragon Meteor\"",
     },
     "Ability.SpellText.ドラゴンメテオ":
     {
@@ -1425,10 +1554,12 @@
     "Ability.ドラゴンメテオ.2":
     {
         "jpn":"ドラゴンメテオ",
+        "eng":"Dragon Meteor",
     },
     "Ability.UnlockName.ドラゴンメテオ.2":
     {
         "jpn":"ドラゴンメテオL2",
+        "eng":"Dragon Meteor Lv2",
     },
     "Ability.UnlockDescription.ドラゴンメテオ.2":
     {
@@ -1437,10 +1568,12 @@
     "Ability.ドラゴンメテオ.3":
     {
         "jpn":"ドラゴンメテオ",
+        "eng":"Dragon Meteor",
     },
     "Ability.UnlockName.ドラゴンメテオ.3":
     {
         "jpn":"ドラゴンメテオL3",
+        "eng":"Dragon Meteor Lv3",
     },
     "Ability.UnlockDescription.ドラゴンメテオ.3":
     {
@@ -1449,46 +1582,57 @@
     "Ability.ナイフ":
     {
         "jpn":"ナイフ",
+        "eng":"Knife",
     },
     "Ability.Description.ナイフ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.ナイフ":
     {
         "jpn":"ナイフ",
+        "eng":"Knife",
     },
     "Ability.UnlockDescription.ナイフ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.ナイフ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.ナイフ":
     {
         "jpn":"ナイフ",
+        "eng":"Knife",
     },
     "Ability.SpellText.ナイフ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.ノエキアンデリュージュ":
     {
         "jpn":"ノエキアンデリュージュ",
+        "eng":"Noachian Deluge",
     },
     "Ability.Description.ノエキアンデリュージュ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.ノエキアンデリュージュ":
     {
         "jpn":"ノエキアンデリュージュ",
+        "eng":"Noachian Deluge",
     },
     "Ability.UnlockDescription.ノエキアンデリュージュ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.ノエキアンデリュージュ":
     {
@@ -1497,6 +1641,7 @@
     "Ability.CastName.ノエキアンデリュージュ":
     {
         "jpn":"「ノエキアンデリュージュ」",
+        "eng":"\"Noachian Deluge\"",
     },
     "Ability.SpellText.ノエキアンデリュージュ":
     {
@@ -1505,10 +1650,12 @@
     "Ability.ノエキアンデリュージュ.2":
     {
         "jpn":"ノエキアンデリュージュ",
+        "eng":"Noachian Deluge",
     },
     "Ability.UnlockName.ノエキアンデリュージュ.2":
     {
         "jpn":"ノエキアンデリュージュL2",
+        "eng":"Noachian Deluge Lv2",
     },
     "Ability.UnlockDescription.ノエキアンデリュージュ.2":
     {
@@ -1517,10 +1664,12 @@
     "Ability.ノエキアンデリュージュ.3":
     {
         "jpn":"ノエキアンデリュージュ",
+        "eng":"Noachian Deluge",
     },
     "Ability.UnlockName.ノエキアンデリュージュ.3":
     {
         "jpn":"ノエキアンデリュージュL3",
+        "eng":"Noachian Deluge Lv3",
     },
     "Ability.UnlockDescription.ノエキアンデリュージュ.3":
     {
@@ -1529,18 +1678,22 @@
     "Ability.ハングリータイガー":
     {
         "jpn":"ハングリータイガー",
+        "eng":"Hungry Tiger",
     },
     "Ability.Description.ハングリータイガー":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.ハングリータイガー":
     {
         "jpn":"ハングリータイガー",
+        "eng":"Hungry Tiger",
     },
     "Ability.UnlockDescription.ハングリータイガー":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.ハングリータイガー":
     {
@@ -1549,6 +1702,7 @@
     "Ability.CastName.ハングリータイガー":
     {
         "jpn":"「ハングリータイガー」",
+        "eng":"\"Hungry Tiger\"",
     },
     "Ability.SpellText.ハングリータイガー":
     {
@@ -1557,10 +1711,12 @@
     "Ability.ハングリータイガー.2":
     {
         "jpn":"ハングリータイガー",
+        "eng":"Hungry Tiger",
     },
     "Ability.UnlockName.ハングリータイガー.2":
     {
         "jpn":"ハングリータイガーL2",
+        "eng":"Hungry Tiger Lv2",
     },
     "Ability.UnlockDescription.ハングリータイガー.2":
     {
@@ -1569,10 +1725,12 @@
     "Ability.ハングリータイガー.3":
     {
         "jpn":"ハングリータイガー",
+        "eng":"Hungry Tiger",
     },
     "Ability.UnlockName.ハングリータイガー.3":
     {
         "jpn":"ハングリータイガーL3",
+        "eng":"Hungry Tiger Lv3",
     },
     "Ability.UnlockDescription.ハングリータイガー.3":
     {
@@ -1581,26 +1739,32 @@
     "Ability.フォースクライシス":
     {
         "jpn":"フォースクライシス",
+        "eng":"Force Crisis",
     },
     "Ability.Description.フォースクライシス":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.フォースクライシス":
     {
         "jpn":"フォースクライシス",
+        "eng":"Force Crisis",
     },
     "Ability.UnlockDescription.フォースクライシス":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.フォースクライシス":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.フォースクライシス":
     {
         "jpn":"フォースクライシス",
+        "eng":"Force Crisis",
     },
     "Ability.SpellText.フォースクライシス":
     {
@@ -1609,10 +1773,12 @@
     "Ability.フォースクライシス.2":
     {
         "jpn":"フォースクライシス",
+        "eng":"Force Crisis",
     },
     "Ability.UnlockName.フォースクライシス.2":
     {
         "jpn":"フォースクライシスL2",
+        "eng":"Force Crisis Lv2",
     },
     "Ability.UnlockDescription.フォースクライシス.2":
     {
@@ -1621,10 +1787,12 @@
     "Ability.フォースクライシス.3":
     {
         "jpn":"フォースクライシス",
+        "eng":"Force Crisis",
     },
     "Ability.UnlockName.フォースクライシス.3":
     {
         "jpn":"フォースクライシスL3",
+        "eng":"Force Crisis Lv3",
     },
     "Ability.UnlockDescription.フォースクライシス.3":
     {
@@ -1633,6 +1801,7 @@
     "Ability.ブラインドナイトバード":
     {
         "jpn":"ブラインドナイトバード",
+        "eng":"Blind Night Bird",
     },
     "Ability.Description.ブラインドナイトバード":
     {
@@ -1641,6 +1810,7 @@
     "Ability.UnlockName.ブラインドナイトバード":
     {
         "jpn":"ブラインドナイトバード",
+        "eng":"Blind Night Bird",
     },
     "Ability.UnlockDescription.ブラインドナイトバード":
     {
@@ -1649,10 +1819,12 @@
     "Ability.CastNamePrefix.ブラインドナイトバード":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.ブラインドナイトバード":
     {
         "jpn":"「ブラインドナイトバード」",
+        "eng":"\"Blind Night Bird\"",
     },
     "Ability.SpellText.ブラインドナイトバード":
     {
@@ -1661,10 +1833,12 @@
     "Ability.ブラインドナイトバード.2":
     {
         "jpn":"ブラインドナイトバード",
+        "eng":"Blind Night Bird",
     },
     "Ability.UnlockName.ブラインドナイトバード.2":
     {
         "jpn":"ブラインドナイトバードL2",
+        "eng":"Blind Night Bird Lv2",
     },
     "Ability.UnlockDescription.ブラインドナイトバード.2":
     {
@@ -1673,10 +1847,12 @@
     "Ability.ブラインドナイトバード.3":
     {
         "jpn":"ブラインドナイトバード",
+        "eng":"Blind Night Bird",
     },
     "Ability.UnlockName.ブラインドナイトバード.3":
     {
         "jpn":"ブラインドナイトバードL3",
+        "eng":"Blind Night Bird Lv3",
     },
     "Ability.UnlockDescription.ブラインドナイトバード.3":
     {
@@ -1685,6 +1861,7 @@
     "Ability.ブロック":
     {
         "jpn":"ブロック",
+        "eng":"Parry",
     },
     "Ability.Description.ブロック":
     {
@@ -1693,6 +1870,7 @@
     "Ability.UnlockName.ブロック":
     {
         "jpn":"ブロック",
+        "eng":"Parry",
     },
     "Ability.UnlockDescription.ブロック":
     {
@@ -1701,22 +1879,27 @@
     "Ability.CastNamePrefix.ブロック":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.ブロック":
     {
         "jpn":"ブロック",
+        "eng":"Parry",
     },
     "Ability.SpellText.ブロック":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.ブロック.2":
     {
         "jpn":"ブロックL2",
+        "eng":"Parry Lv2",
     },
     "Ability.UnlockName.ブロック.2":
     {
         "jpn":"ブロックL2",
+        "eng":"Parry Lv2",
     },
     "Ability.UnlockDescription.ブロック.2":
     {
@@ -1725,10 +1908,12 @@
     "Ability.ブロック.3":
     {
         "jpn":"ブロックL3",
+        "eng":"Parry Lv3",
     },
     "Ability.UnlockName.ブロック.3":
     {
         "jpn":"ブロックL3",
+        "eng":"Parry Lv3",
     },
     "Ability.UnlockDescription.ブロック.3":
     {
@@ -1737,6 +1922,7 @@
     "Ability.ポイズンレイズ":
     {
         "jpn":"ポイズンレイズ",
+        "eng":"Poison Raise",
     },
     "Ability.Description.ポイズンレイズ":
     {
@@ -1745,6 +1931,7 @@
     "Ability.UnlockName.ポイズンレイズ":
     {
         "jpn":"ポイズンレイズ",
+        "eng":"Poison Raise",
     },
     "Ability.UnlockDescription.ポイズンレイズ":
     {
@@ -1757,6 +1944,7 @@
     "Ability.CastName.ポイズンレイズ":
     {
         "jpn":"「ポイズンレイズ」",
+        "eng":"\"Poison Raise\"",
     },
     "Ability.SpellText.ポイズンレイズ":
     {
@@ -1765,10 +1953,12 @@
     "Ability.ポイズンレイズ.2":
     {
         "jpn":"ポイズンレイズ",
+        "eng":"Poison Raise",
     },
     "Ability.UnlockName.ポイズンレイズ.2":
     {
         "jpn":"ポイズンレイズL2",
+        "eng":"Poison Raise Lv2",
     },
     "Ability.UnlockDescription.ポイズンレイズ.2":
     {
@@ -1777,10 +1967,12 @@
     "Ability.ポイズンレイズ.3":
     {
         "jpn":"ポイズンレイズ",
+        "eng":"Poison Raise",
     },
     "Ability.UnlockName.ポイズンレイズ.3":
     {
         "jpn":"ポイズンレイズL3",
+        "eng":"Poison Raise Lv3",
     },
     "Ability.UnlockDescription.ポイズンレイズ.3":
     {
@@ -1789,6 +1981,7 @@
     "Ability.マスタースパーク":
     {
         "jpn":"マスタースパーク",
+        "eng":"Master Spark",
     },
     "Ability.Description.マスタースパーク":
     {
@@ -1797,6 +1990,7 @@
     "Ability.UnlockName.マスタースパーク":
     {
         "jpn":"マスタースパーク",
+        "eng":"Master Spark",
     },
     "Ability.UnlockDescription.マスタースパーク":
     {
@@ -1809,6 +2003,7 @@
     "Ability.CastName.マスタースパーク":
     {
         "jpn":"「マスタースパーク」",
+        "eng":"\"Master Spark\"",
     },
     "Ability.SpellText.マスタースパーク":
     {
@@ -1817,10 +2012,12 @@
     "Ability.マスタースパーク.2":
     {
         "jpn":"マスタースパーク",
+        "eng":"Master Spark",
     },
     "Ability.UnlockName.マスタースパーク.2":
     {
         "jpn":"マスタースパークL2",
+        "eng":"Master Spark Lv2",
     },
     "Ability.UnlockDescription.マスタースパーク.2":
     {
@@ -1829,10 +2026,12 @@
     "Ability.マスタースパーク.3":
     {
         "jpn":"マスタースパーク",
+        "eng":"Master Spark",
     },
     "Ability.UnlockName.マスタースパーク.3":
     {
         "jpn":"マスタースパークL3",
+        "eng":"Master Spark Lv3",
     },
     "Ability.UnlockDescription.マスタースパーク.3":
     {
@@ -1841,6 +2040,7 @@
     "Ability.ミレニアムの吸血鬼":
     {
         "jpn":"ミレニアムの吸血鬼",
+        "eng":"Millennium Vampire",
     },
     "Ability.Description.ミレニアムの吸血鬼":
     {
@@ -1849,6 +2049,7 @@
     "Ability.UnlockName.ミレニアムの吸血鬼":
     {
         "jpn":"ミレニアムの吸血鬼",
+        "eng":"Millennium Vampire",
     },
     "Ability.UnlockDescription.ミレニアムの吸血鬼":
     {
@@ -1857,10 +2058,12 @@
     "Ability.CastNamePrefix.ミレニアムの吸血鬼":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.ミレニアムの吸血鬼":
     {
         "jpn":"「ミレニアムの吸血鬼」",
+        "eng":"\"Millennium Vampire\"",
     },
     "Ability.SpellText.ミレニアムの吸血鬼":
     {
@@ -1869,6 +2072,7 @@
     "Ability.ヤンシャオグイ":
     {
         "jpn":"ヤンシャオグイ",
+        "eng":"Yang Xiaogui",
     },
     "Ability.Description.ヤンシャオグイ":
     {
@@ -1877,6 +2081,7 @@
     "Ability.UnlockName.ヤンシャオグイ":
     {
         "jpn":"ヤンシャオグイ",
+        "eng":"Yang Xiaogui",
     },
     "Ability.UnlockDescription.ヤンシャオグイ":
     {
@@ -1889,6 +2094,7 @@
     "Ability.CastName.ヤンシャオグイ":
     {
         "jpn":"「ヤンシャオグイ」",
+        "eng":"\"Yang Xiaogui\"",
     },
     "Ability.SpellText.ヤンシャオグイ":
     {
@@ -1897,10 +2103,12 @@
     "Ability.ヤンシャオグイ.2":
     {
         "jpn":"ヤンシャオグイ",
+        "eng":"Yang Xiaogui",
     },
     "Ability.UnlockName.ヤンシャオグイ.2":
     {
         "jpn":"ヤンシャオグイL2",
+        "eng":"Yang Xiaogui Lv2",
     },
     "Ability.UnlockDescription.ヤンシャオグイ.2":
     {
@@ -1909,10 +2117,12 @@
     "Ability.ヤンシャオグイ.3":
     {
         "jpn":"ヤンシャオグイ",
+        "eng":"Yang Xiaogui",
     },
     "Ability.UnlockName.ヤンシャオグイ.3":
     {
         "jpn":"ヤンシャオグイL3",
+        "eng":"Yang Xiaogui Lv3",
     },
     "Ability.UnlockDescription.ヤンシャオグイ.3":
     {
@@ -1921,18 +2131,22 @@
     "Ability.ラストジャッジメント":
     {
         "jpn":"ラストジャッジメント",
+        "eng":"Last Judgement",
     },
     "Ability.Description.ラストジャッジメント":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.ラストジャッジメント":
     {
         "jpn":"ラストジャッジメント",
+        "eng":"Last Judgement",
     },
     "Ability.UnlockDescription.ラストジャッジメント":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.ラストジャッジメント":
     {
@@ -1941,6 +2155,7 @@
     "Ability.CastName.ラストジャッジメント":
     {
         "jpn":"「ラストジャッジメント」",
+        "eng":"\"Last Judgement\"",
     },
     "Ability.SpellText.ラストジャッジメント":
     {
@@ -1949,10 +2164,12 @@
     "Ability.ラストジャッジメント.2":
     {
         "jpn":"ラストジャッジメント",
+        "eng":"Last Judgement",
     },
     "Ability.UnlockName.ラストジャッジメント.2":
     {
         "jpn":"ラストジャッジメントL2",
+        "eng":"Last Judgement Lv2",
     },
     "Ability.UnlockDescription.ラストジャッジメント.2":
     {
@@ -1961,10 +2178,12 @@
     "Ability.ラストジャッジメント.3":
     {
         "jpn":"ラストジャッジメント",
+        "eng":"Last Judgement",
     },
     "Ability.UnlockName.ラストジャッジメント.3":
     {
         "jpn":"ラストジャッジメントL3",
+        "eng":"Last Judgement Lv3",
     },
     "Ability.UnlockDescription.ラストジャッジメント.3":
     {
@@ -1973,6 +2192,7 @@
     "Ability.ロイヤルフレア":
     {
         "jpn":"ロイヤルフレア",
+        "eng":"Royal Flare",
     },
     "Ability.Description.ロイヤルフレア":
     {
@@ -1981,6 +2201,7 @@
     "Ability.UnlockName.ロイヤルフレア":
     {
         "jpn":"ロイヤルフレア",
+        "eng":"Royal Flare",
     },
     "Ability.UnlockDescription.ロイヤルフレア":
     {
@@ -1993,6 +2214,7 @@
     "Ability.CastName.ロイヤルフレア":
     {
         "jpn":"「ロイヤルフレア」",
+        "eng":"\"Royal Flare\"",
     },
     "Ability.SpellText.ロイヤルフレア":
     {
@@ -2001,10 +2223,12 @@
     "Ability.ロイヤルフレア.2":
     {
         "jpn":"ロイヤルフレア",
+        "eng":"Royal Flare",
     },
     "Ability.UnlockName.ロイヤルフレア.2":
     {
         "jpn":"ロイヤルフレアL2",
+        "eng":"Royal Flare Lv2",
     },
     "Ability.UnlockDescription.ロイヤルフレア.2":
     {
@@ -2013,10 +2237,12 @@
     "Ability.ロイヤルフレア.3":
     {
         "jpn":"ロイヤルフレア",
+        "eng":"Royal Flare",
     },
     "Ability.UnlockName.ロイヤルフレア.3":
     {
         "jpn":"ロイヤルフレアL3",
+        "eng":"Royal Flare Lv3",
     },
     "Ability.UnlockDescription.ロイヤルフレア.3":
     {
@@ -2025,6 +2251,7 @@
     "Ability.ワイルドカーペット":
     {
         "jpn":"ワイルドカーペット",
+        "eng":"Wild Carpet",
     },
     "Ability.Description.ワイルドカーペット":
     {
@@ -2033,6 +2260,7 @@
     "Ability.UnlockName.ワイルドカーペット":
     {
         "jpn":"ワイルドカーペット",
+        "eng":"Wild Carpet",
     },
     "Ability.UnlockDescription.ワイルドカーペット":
     {
@@ -2041,10 +2269,12 @@
     "Ability.CastNamePrefix.ワイルドカーペット":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.ワイルドカーペット":
     {
         "jpn":"「ワイルドカーペット」",
+        "eng":"\"Wild Carpet\"",
     },
     "Ability.SpellText.ワイルドカーペット":
     {
@@ -2053,10 +2283,12 @@
     "Ability.ワイルドカーペット.2":
     {
         "jpn":"ワイルドカーペット",
+        "eng":"Wild Carpet",
     },
     "Ability.UnlockName.ワイルドカーペット.2":
     {
         "jpn":"ワイルドカーペットL2",
+        "eng":"Wild Carpet Lv2",
     },
     "Ability.UnlockDescription.ワイルドカーペット.2":
     {
@@ -2065,10 +2297,12 @@
     "Ability.ワイルドカーペット.3":
     {
         "jpn":"ワイルドカーペット",
+        "eng":"Wild Carpet",
     },
     "Ability.UnlockName.ワイルドカーペット.3":
     {
         "jpn":"ワイルドカーペットL3",
+        "eng":"Wild Carpet Lv3",
     },
     "Ability.UnlockDescription.ワイルドカーペット.3":
     {
@@ -2077,6 +2311,7 @@
     "Ability.一寸法師にも五分の魂":
     {
         "jpn":"一寸法師にも五分の魂",
+        "eng":"Even Issun-bōshi will turn",
     },
     "Ability.Description.一寸法師にも五分の魂":
     {
@@ -2085,6 +2320,7 @@
     "Ability.UnlockName.一寸法師にも五分の魂":
     {
         "jpn":"一寸法師にも五分の魂",
+        "eng":"Even Issun-bōshi will turn",
     },
     "Ability.UnlockDescription.一寸法師にも五分の魂":
     {
@@ -2097,6 +2333,7 @@
     "Ability.CastName.一寸法師にも五分の魂":
     {
         "jpn":"「一寸法師にも五分の魂」",
+        "eng":"\"Even Issun-bōshi will turn\"",
     },
     "Ability.SpellText.一寸法師にも五分の魂":
     {
@@ -2105,10 +2342,12 @@
     "Ability.一寸法師にも五分の魂.2":
     {
         "jpn":"一寸法師にも五分の魂",
+        "eng":"Even Issun-bōshi will turn",
     },
     "Ability.UnlockName.一寸法師にも五分の魂.2":
     {
         "jpn":"一寸法師にも五分の魂L2",
+        "eng":"Even Issun-bōshi will turn Lv2",
     },
     "Ability.UnlockDescription.一寸法師にも五分の魂.2":
     {
@@ -2117,10 +2356,12 @@
     "Ability.一寸法師にも五分の魂.3":
     {
         "jpn":"一寸法師にも五分の魂",
+        "eng":"Even Issun-bōshi will turn",
     },
     "Ability.UnlockName.一寸法師にも五分の魂.3":
     {
         "jpn":"一寸法師にも五分の魂L3",
+        "eng":"Even Issun-bōshi will turn Lv3",
     },
     "Ability.UnlockDescription.一寸法師にも五分の魂.3":
     {
@@ -2129,6 +2370,7 @@
     "Ability.上海人形":
     {
         "jpn":"上海人形",
+        "eng":"Shanghai Doll",
     },
     "Ability.Description.上海人形":
     {
@@ -2137,6 +2379,7 @@
     "Ability.UnlockName.上海人形":
     {
         "jpn":"上海人形",
+        "eng":"Shanghai Doll",
     },
     "Ability.UnlockDescription.上海人形":
     {
@@ -2145,6 +2388,7 @@
     "Ability.二ッ岩家の裁き":
     {
         "jpn":"二ッ岩家の裁き",
+        "eng":"Futatsuiwa's Judgement",
     },
     "Ability.Description.二ッ岩家の裁き":
     {
@@ -2153,6 +2397,7 @@
     "Ability.UnlockName.二ッ岩家の裁き":
     {
         "jpn":"二ッ岩家の裁き",
+        "eng":"Futatsuiwa's Judgement",
     },
     "Ability.UnlockDescription.二ッ岩家の裁き":
     {
@@ -2165,6 +2410,7 @@
     "Ability.CastName.二ッ岩家の裁き":
     {
         "jpn":"「二ッ岩家の裁き」",
+        "eng":"\"Futatsuiwa's Judgement\"",
     },
     "Ability.SpellText.二ッ岩家の裁き":
     {
@@ -2173,114 +2419,142 @@
     "Ability.二回攻撃":
     {
         "jpn":"二回攻撃",
+        "eng":"Double Attack",
     },
     "Ability.Description.二回攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.二回攻撃":
     {
         "jpn":"二回攻撃",
+        "eng":"Double Attack",
     },
     "Ability.UnlockDescription.二回攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.二回攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.二回攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.SpellText.二回攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.二回行動":
     {
         "jpn":"二回行動",
+        "eng":"Double Action",
     },
     "Ability.Description.二回行動":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.二回行動":
     {
         "jpn":"二回行動",
+        "eng":"Double Action",
     },
     "Ability.UnlockDescription.二回行動":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.体力アップ":
     {
         "jpn":"HP+10％",
+        "eng":"HP +10％",
     },
     "Ability.Description.体力アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.体力アップ":
     {
         "jpn":"HP+10％",
+        "eng":"HP +10％",
     },
     "Ability.UnlockDescription.体力アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.体力アップ.2":
     {
         "jpn":"HP+20％",
+        "eng":"HP +20％",
     },
     "Ability.UnlockName.体力アップ.2":
     {
         "jpn":"HP+20％",
+        "eng":"HP +20％",
     },
     "Ability.UnlockDescription.体力アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.体力アップ.3":
     {
         "jpn":"HP+30％",
+        "eng":"HP +30％",
     },
     "Ability.UnlockName.体力アップ.3":
     {
         "jpn":"HP+30％",
+        "eng":"HP +30％",
     },
     "Ability.UnlockDescription.体力アップ.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.体力アップ.4":
     {
         "jpn":"HP+40％",
+        "eng":"HP +40％",
     },
     "Ability.UnlockName.体力アップ.4":
     {
         "jpn":"HP+40％",
+        "eng":"HP +40％",
     },
     "Ability.UnlockDescription.体力アップ.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.体力アップ.5":
     {
         "jpn":"HP+50％",
+        "eng":"HP +50％",
     },
     "Ability.UnlockName.体力アップ.5":
     {
         "jpn":"HP+50％",
+        "eng":"HP +50％",
     },
     "Ability.UnlockDescription.体力アップ.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.余命幾許も無し":
     {
         "jpn":"余命幾許も無し",
+        "eng":"Yomei ikubaku mo nashi",
     },
     "Ability.Description.余命幾許も無し":
     {
@@ -2289,6 +2563,7 @@
     "Ability.UnlockName.余命幾許も無し":
     {
         "jpn":"余命幾許も無し",
+        "eng":"Yomei ikubaku mo nashi",
     },
     "Ability.UnlockDescription.余命幾許も無し":
     {
@@ -2301,6 +2576,7 @@
     "Ability.CastName.余命幾許も無し":
     {
         "jpn":"「余命幾許も無し」",
+        "eng":"\"Yomei ikubaku mo nashi\"",
     },
     "Ability.SpellText.余命幾許も無し":
     {
@@ -2309,10 +2585,12 @@
     "Ability.余命幾許も無し.2":
     {
         "jpn":"余命幾許も無し",
+        "eng":"Yomei ikubaku mo nashi",
     },
     "Ability.UnlockName.余命幾許も無し.2":
     {
         "jpn":"余命幾許も無しL2",
+        "eng":"Yomei ikubaku mo nashi Lv2",
     },
     "Ability.UnlockDescription.余命幾許も無し.2":
     {
@@ -2321,10 +2599,12 @@
     "Ability.余命幾許も無し.3":
     {
         "jpn":"余命幾許も無し",
+        "eng":"Yomei ikubaku mo nashi",
     },
     "Ability.UnlockName.余命幾許も無し.3":
     {
         "jpn":"余命幾許も無しL3",
+        "eng":"Yomei ikubaku mo nashi Lv3",
     },
     "Ability.UnlockDescription.余命幾許も無し.3":
     {
@@ -2333,6 +2613,7 @@
     "Ability.八方鬼縛陣":
     {
         "jpn":"八方鬼縛陣",
+        "eng":"Happou Kibaku Jin",
     },
     "Ability.Description.八方鬼縛陣":
     {
@@ -2341,6 +2622,7 @@
     "Ability.UnlockName.八方鬼縛陣":
     {
         "jpn":"八方鬼縛陣",
+        "eng":"Happou Kibaku Jin",
     },
     "Ability.UnlockDescription.八方鬼縛陣":
     {
@@ -2353,6 +2635,7 @@
     "Ability.CastName.八方鬼縛陣":
     {
         "jpn":"「八方鬼縛陣」",
+        "eng":"\"Happou Kibaku Jin\"",
     },
     "Ability.SpellText.八方鬼縛陣":
     {
@@ -2361,10 +2644,12 @@
     "Ability.八方鬼縛陣.2":
     {
         "jpn":"八方鬼縛陣",
+        "eng":"Happou Kibaku Jin",
     },
     "Ability.UnlockName.八方鬼縛陣.2":
     {
         "jpn":"八方鬼縛陣L2",
+        "eng":"Happou Kibaku Jin Lv2",
     },
     "Ability.UnlockDescription.八方鬼縛陣.2":
     {
@@ -2373,10 +2658,12 @@
     "Ability.八方鬼縛陣.3":
     {
         "jpn":"八方鬼縛陣",
+        "eng":"Happou Kibaku Jin",
     },
     "Ability.UnlockName.八方鬼縛陣.3":
     {
         "jpn":"八方鬼縛陣L3",
+        "eng":"Happou Kibaku Jin Lv3",
     },
     "Ability.UnlockDescription.八方鬼縛陣.3":
     {
@@ -2437,18 +2724,22 @@
     "Ability.十王裁判":
     {
         "jpn":"十王裁判",
+        "eng":"Juuou Judgement",
     },
     "Ability.Description.十王裁判":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.十王裁判":
     {
         "jpn":"十王裁判",
+        "eng":"Juuou Judgement",
     },
     "Ability.UnlockDescription.十王裁判":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.十王裁判":
     {
@@ -2457,6 +2748,7 @@
     "Ability.CastName.十王裁判":
     {
         "jpn":"「十王裁判」",
+        "eng":"\"Juuou Judgement\"",
     },
     "Ability.SpellText.十王裁判":
     {
@@ -2465,10 +2757,12 @@
     "Ability.十王裁判.2":
     {
         "jpn":"十王裁判",
+        "eng":"Juuou Judgement",
     },
     "Ability.UnlockName.十王裁判.2":
     {
         "jpn":"十王裁判L2",
+        "eng":"Juuou Judgement Lv2",
     },
     "Ability.UnlockDescription.十王裁判.2":
     {
@@ -2477,10 +2771,12 @@
     "Ability.十王裁判.3":
     {
         "jpn":"十王裁判",
+        "eng":"Juuou Judgement",
     },
     "Ability.UnlockName.十王裁判.3":
     {
         "jpn":"十王裁判L3",
+        "eng":"Juuou Judgement Lv3",
     },
     "Ability.UnlockDescription.十王裁判.3":
     {
@@ -2489,6 +2785,7 @@
     "Ability.呪力吸収":
     {
         "jpn":"呪力吸収",
+        "eng":"JP Drain",
     },
     "Ability.Description.呪力吸収":
     {
@@ -2497,6 +2794,7 @@
     "Ability.UnlockName.呪力吸収":
     {
         "jpn":"呪力吸収",
+        "eng":"JP Drain",
     },
     "Ability.UnlockDescription.呪力吸収":
     {
@@ -2505,50 +2803,62 @@
     "Ability.CastNamePrefix.呪力吸収":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.呪力吸収":
     {
         "jpn":"呪力吸収",
+        "eng":"JP Drain",
     },
     "Ability.SpellText.呪力吸収":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.呪力容量拡大":
     {
         "jpn":"呪力容量拡大",
+        "eng":"Capacity Enlargement",
     },
     "Ability.Description.呪力容量拡大":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.呪力容量拡大":
     {
         "jpn":"呪力容量拡大",
+        "eng":"Capacity Enlargement",
     },
     "Ability.UnlockDescription.呪力容量拡大":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.命中アップ":
     {
         "jpn":"命中+5",
+        "eng":"Accuracy +5",
     },
     "Ability.Description.命中アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.命中アップ":
     {
         "jpn":"命中+5",
+        "eng":"Accuracy +5",
     },
     "Ability.UnlockDescription.命中アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.命中アップ.2":
     {
         "jpn":"命中+10",
+        "eng":"Accuracy +10",
     },
     "Ability.UnlockName.命中アップ.2":
     {
@@ -2557,46 +2867,57 @@
     "Ability.UnlockDescription.命中アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.命中アップ.3":
     {
         "jpn":"命中+15",
+        "eng":"Accuracy +15",
     },
     "Ability.UnlockName.命中アップ.3":
     {
         "jpn":"命中+15",
+        "eng":"Accuracy +15",
     },
     "Ability.UnlockDescription.命中アップ.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.命中アップ.4":
     {
         "jpn":"命中+20",
+        "eng":"Accuracy +20",
     },
     "Ability.UnlockName.命中アップ.4":
     {
         "jpn":"命中+20",
+        "eng":"Accuracy +20",
     },
     "Ability.UnlockDescription.命中アップ.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.命中アップ.5":
     {
         "jpn":"命中+25",
+        "eng":"Accuracy +25",
     },
     "Ability.UnlockName.命中アップ.5":
     {
         "jpn":"命中+25",
+        "eng":"Accuracy +25",
     },
     "Ability.UnlockDescription.命中アップ.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.咲夜の世界":
     {
         "jpn":"咲夜の世界",
+        "eng":"Sakuya's World",
     },
     "Ability.Description.咲夜の世界":
     {
@@ -2605,6 +2926,7 @@
     "Ability.UnlockName.咲夜の世界":
     {
         "jpn":"咲夜の世界",
+        "eng":"Sakuya's World",
     },
     "Ability.UnlockDescription.咲夜の世界":
     {
@@ -2613,10 +2935,12 @@
     "Ability.CastNamePrefix.咲夜の世界":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.咲夜の世界":
     {
         "jpn":"「咲夜の世界」",
+        "eng":"\"Sakuya's World\"",
     },
     "Ability.SpellText.咲夜の世界":
     {
@@ -2625,10 +2949,12 @@
     "Ability.咲夜の世界.2":
     {
         "jpn":"咲夜の世界",
+        "eng":"Sakuya's World",
     },
     "Ability.UnlockName.咲夜の世界.2":
     {
         "jpn":"咲夜の世界L2",
+        "eng":"Sakuya's World Lv2",
     },
     "Ability.UnlockDescription.咲夜の世界.2":
     {
@@ -2637,10 +2963,12 @@
     "Ability.咲夜の世界.3":
     {
         "jpn":"咲夜の世界",
+        "eng":"Sakuya's World",
     },
     "Ability.UnlockName.咲夜の世界.3":
     {
         "jpn":"咲夜の世界L3",
+        "eng":"Sakuya's World Lv3",
     },
     "Ability.UnlockDescription.咲夜の世界.3":
     {
@@ -2649,98 +2977,122 @@
     "Ability.回避":
     {
         "jpn":"回避",
+        "eng":"Evade",
     },
     "Ability.Description.回避":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.回避":
     {
         "jpn":"回避",
+        "eng":"Evade",
     },
     "Ability.UnlockDescription.回避":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.回避":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.回避":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.SpellText.回避":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.回避アップ":
     {
         "jpn":"回避+5",
+        "eng":"Evade +5",
     },
     "Ability.Description.回避アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.回避アップ":
     {
         "jpn":"回避+5",
+        "eng":"Evade +5",
     },
     "Ability.UnlockDescription.回避アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.回避アップ.2":
     {
         "jpn":"回避+10",
+        "eng":"Evade +10",
     },
     "Ability.UnlockName.回避アップ.2":
     {
         "jpn":"回避+10",
+        "eng":"Evade +10",
     },
     "Ability.UnlockDescription.回避アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.回避アップ.3":
     {
         "jpn":"回避+15",
+        "eng":"Evade +15",
     },
     "Ability.UnlockName.回避アップ.3":
     {
         "jpn":"回避+15",
+        "eng":"Evade +15",
     },
     "Ability.UnlockDescription.回避アップ.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.回避アップ.4":
     {
         "jpn":"回避+20",
+        "eng":"Evade +20",
     },
     "Ability.UnlockName.回避アップ.4":
     {
         "jpn":"回避+20",
+        "eng":"Evade +20",
     },
     "Ability.UnlockDescription.回避アップ.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.回避アップ.5":
     {
         "jpn":"回避+25",
+        "eng":"Evade +25",
     },
     "Ability.UnlockName.回避アップ.5":
     {
         "jpn":"回避+25",
+        "eng":"Evade +25",
     },
     "Ability.UnlockDescription.回避アップ.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.壁無視移動":
     {
         "jpn":"壁無視移動",
+        "eng":"Walk Through Walls",
     },
     "Ability.Description.壁無視移動":
     {
@@ -2749,6 +3101,7 @@
     "Ability.UnlockName.壁無視移動":
     {
         "jpn":"壁無視移動",
+        "eng":"Walk Through Walls",
     },
     "Ability.UnlockDescription.壁無視移動":
     {
@@ -2757,6 +3110,7 @@
     "Ability.夜雀の歌":
     {
         "jpn":"夜雀の歌",
+        "eng":"Yosuzume's Song",
     },
     "Ability.Description.夜雀の歌":
     {
@@ -2765,6 +3119,7 @@
     "Ability.UnlockName.夜雀の歌":
     {
         "jpn":"夜雀の歌",
+        "eng":"Yosuzume's Song",
     },
     "Ability.UnlockDescription.夜雀の歌":
     {
@@ -2777,6 +3132,7 @@
     "Ability.CastName.夜雀の歌":
     {
         "jpn":"「夜雀の歌」",
+        "eng":"\"Yosuzume's Song\"",
     },
     "Ability.SpellText.夜雀の歌":
     {
@@ -2785,10 +3141,12 @@
     "Ability.夜雀の歌.2":
     {
         "jpn":"夜雀の歌",
+        "eng":"Yosuzume's Song",
     },
     "Ability.UnlockName.夜雀の歌.2":
     {
         "jpn":"夜雀の歌L2",
+        "eng":"Yosuzume's Song Lv2",
     },
     "Ability.UnlockDescription.夜雀の歌.2":
     {
@@ -2797,10 +3155,12 @@
     "Ability.夜雀の歌.3":
     {
         "jpn":"夜雀の歌",
+        "eng":"Yosuzume's Song",
     },
     "Ability.UnlockName.夜雀の歌.3":
     {
         "jpn":"夜雀の歌L3",
+        "eng":"Yosuzume's Song Lv3",
     },
     "Ability.UnlockDescription.夜雀の歌.3":
     {
@@ -2809,6 +3169,7 @@
     "Ability.夢想封印":
     {
         "jpn":"夢想封印",
+        "eng":"Musou Fuuin",
     },
     "Ability.Description.夢想封印":
     {
@@ -2817,6 +3178,7 @@
     "Ability.UnlockName.夢想封印":
     {
         "jpn":"夢想封印",
+        "eng":"Musou Fuuin",
     },
     "Ability.UnlockDescription.夢想封印":
     {
@@ -2829,6 +3191,7 @@
     "Ability.CastName.夢想封印":
     {
         "jpn":"「夢想封印」",
+        "eng":"\"Musou Fuuin\"",
     },
     "Ability.SpellText.夢想封印":
     {
@@ -2837,10 +3200,12 @@
     "Ability.夢想封印.2":
     {
         "jpn":"夢想封印",
+        "eng":"Musou Fuuin",
     },
     "Ability.UnlockName.夢想封印.2":
     {
         "jpn":"夢想封印L2",
+        "eng":"Musou Fuuin Lv2",
     },
     "Ability.UnlockDescription.夢想封印.2":
     {
@@ -2849,10 +3214,12 @@
     "Ability.夢想封印.3":
     {
         "jpn":"夢想封印",
+        "eng":"Musou Fuuin",
     },
     "Ability.UnlockName.夢想封印.3":
     {
         "jpn":"夢想封印L3",
+        "eng":"Musou Fuuin Lv3",
     },
     "Ability.UnlockDescription.夢想封印.3":
     {
@@ -2861,6 +3228,7 @@
     "Ability.大日如来の輝き":
     {
         "jpn":"大日如来の輝き",
+        "eng":"Mahāvairocana",
     },
     "Ability.Description.大日如来の輝き":
     {
@@ -2869,6 +3237,7 @@
     "Ability.UnlockName.大日如来の輝き":
     {
         "jpn":"大日如来の輝き",
+        "eng":"Mahāvairocana",
     },
     "Ability.UnlockDescription.大日如来の輝き":
     {
@@ -2881,18 +3250,22 @@
     "Ability.CastName.大日如来の輝き":
     {
         "jpn":"「大日如来の輝き」",
+        "eng":"\"Mahāvairocana\"",
     },
     "Ability.SpellText.大日如来の輝き":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.大日如来の輝き.2":
     {
         "jpn":"大日如来の輝き",
+        "eng":"Mahāvairocana",
     },
     "Ability.UnlockName.大日如来の輝き.2":
     {
         "jpn":"大日如来の輝きL2",
+        "eng":"Mahāvairocana Lv2",
     },
     "Ability.UnlockDescription.大日如来の輝き.2":
     {
@@ -2901,10 +3274,12 @@
     "Ability.大日如来の輝き.3":
     {
         "jpn":"大日如来の輝き",
+        "eng":"Mahāvairocana",
     },
     "Ability.UnlockName.大日如来の輝き.3":
     {
         "jpn":"大日如来の輝きL3",
+        "eng":"Mahāvairocana",
     },
     "Ability.UnlockDescription.大日如来の輝き.3":
     {
@@ -2913,6 +3288,7 @@
     "Ability.大火の改新":
     {
         "jpn":"大火の改新",
+        "eng":"Taika no Kaishin",
     },
     "Ability.Description.大火の改新":
     {
@@ -2921,6 +3297,7 @@
     "Ability.UnlockName.大火の改新":
     {
         "jpn":"大火の改新",
+        "eng":"Taika no Kaishin",
     },
     "Ability.UnlockDescription.大火の改新":
     {
@@ -2929,10 +3306,12 @@
     "Ability.CastNamePrefix.大火の改新":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.大火の改新":
     {
         "jpn":"「大火の改新」",
+        "eng":"\"Taika no Kaishin\"",
     },
     "Ability.SpellText.大火の改新":
     {
@@ -2941,10 +3320,12 @@
     "Ability.大火の改新.2":
     {
         "jpn":"大火の改新",
+        "eng":"Taika no Kaishin",
     },
     "Ability.UnlockName.大火の改新.2":
     {
         "jpn":"大火の改新L2",
+        "eng":"Taika no Kaishin Lv2",
     },
     "Ability.UnlockDescription.大火の改新.2":
     {
@@ -2953,10 +3334,12 @@
     "Ability.大火の改新.3":
     {
         "jpn":"大火の改新",
+        "eng":"Taika no Kaishin",
     },
     "Ability.UnlockName.大火の改新.3":
     {
         "jpn":"大火の改新L3",
+        "eng":"Taika no Kaishin Lv3",
     },
     "Ability.UnlockDescription.大火の改新.3":
     {
@@ -2965,6 +3348,7 @@
     "Ability.威圧":
     {
         "jpn":"威圧",
+        "eng":"ZoC",
     },
     "Ability.Description.威圧":
     {
@@ -2973,6 +3357,7 @@
     "Ability.UnlockName.威圧":
     {
         "jpn":"威圧",
+        "eng":"ZoC",
     },
     "Ability.UnlockDescription.威圧":
     {
@@ -2981,10 +3366,12 @@
     "Ability.威圧.2":
     {
         "jpn":"威圧L2",
+        "eng":"ZoC Lv2",
     },
     "Ability.UnlockName.威圧.2":
     {
         "jpn":"威圧L2",
+        "eng":"ZoC Lv2",
     },
     "Ability.UnlockDescription.威圧.2":
     {
@@ -2993,6 +3380,7 @@
     "Ability.宵越しの銭":
     {
         "jpn":"宵越しの銭",
+        "eng":"Yoigoshi no Zeni",
     },
     "Ability.Description.宵越しの銭":
     {
@@ -3001,6 +3389,7 @@
     "Ability.UnlockName.宵越しの銭":
     {
         "jpn":"宵越しの銭",
+        "eng":"Yoigoshi no Zeni",
     },
     "Ability.UnlockDescription.宵越しの銭":
     {
@@ -3013,6 +3402,7 @@
     "Ability.CastName.宵越しの銭":
     {
         "jpn":"「宵越しの銭」",
+        "eng":"\"Yoigoshi no Zeni\"",
     },
     "Ability.SpellText.宵越しの銭":
     {
@@ -3021,10 +3411,12 @@
     "Ability.宵越しの銭.2":
     {
         "jpn":"宵越しの銭",
+        "eng":"Yoigoshi no Zeni",
     },
     "Ability.UnlockName.宵越しの銭.2":
     {
         "jpn":"宵越しの銭L2",
+        "eng":"Yoigoshi no Zeni Lv2",
     },
     "Ability.UnlockDescription.宵越しの銭.2":
     {
@@ -3033,10 +3425,12 @@
     "Ability.宵越しの銭.3":
     {
         "jpn":"宵越しの銭",
+        "eng":"Yoigoshi no Zeni",
     },
     "Ability.UnlockName.宵越しの銭.3":
     {
         "jpn":"宵越しの銭L3",
+        "eng":"Yoigoshi no Zeni Lv3",
     },
     "Ability.UnlockDescription.宵越しの銭.3":
     {
@@ -3045,138 +3439,172 @@
     "Ability.射撃":
     {
         "jpn":"射撃",
+        "eng":"Ranged Attack",
     },
     "Ability.Description.射撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.射撃":
     {
         "jpn":"射撃",
+        "eng":"Ranged Attack",
     },
     "Ability.UnlockDescription.射撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.射撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.射撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.SpellText.射撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.射程アップ":
     {
         "jpn":"射程+1",
+        "eng":"Range +1",
     },
     "Ability.Description.射程アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.射程アップ":
     {
         "jpn":"射程+1",
+        "eng":"Range +1",
     },
     "Ability.UnlockDescription.射程アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.待機":
     {
         "jpn":"待機",
+        "eng":"Wait",
     },
     "Ability.Description.待機":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.待機":
     {
         "jpn":"待機",
+        "eng":"Wait",
     },
     "Ability.UnlockDescription.待機":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.待機":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.待機":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.SpellText.待機":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.必殺アップ":
     {
         "jpn":"必殺+5",
+        "eng":"Critical +5",
     },
     "Ability.Description.必殺アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.必殺アップ":
     {
         "jpn":"必殺+5",
+        "eng":"Critical +5",
     },
     "Ability.UnlockDescription.必殺アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.必殺アップ.2":
     {
         "jpn":"必殺+10",
+        "eng":"Critical +10",
     },
     "Ability.UnlockName.必殺アップ.2":
     {
         "jpn":"必殺+10",
+        "eng":"Critical +10",
     },
     "Ability.UnlockDescription.必殺アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.必殺アップ.3":
     {
         "jpn":"必殺+15",
+        "eng":"Critical +15",
     },
     "Ability.UnlockName.必殺アップ.3":
     {
         "jpn":"必殺+15",
+        "eng":"Critical +15",
     },
     "Ability.UnlockDescription.必殺アップ.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.必殺アップ.4":
     {
         "jpn":"必殺+20",
+        "eng":"Critical +20",
     },
     "Ability.UnlockName.必殺アップ.4":
     {
         "jpn":"必殺+20",
+        "eng":"Critical +20",
     },
     "Ability.UnlockDescription.必殺アップ.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.必殺アップ.5":
     {
         "jpn":"必殺+25",
+        "eng":"Critical +25",
     },
     "Ability.UnlockName.必殺アップ.5":
     {
         "jpn":"必殺+25",
+        "eng":"Critical +25",
     },
     "Ability.UnlockDescription.必殺アップ.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.想起":
     {
@@ -3197,162 +3625,202 @@
     "Ability.攻撃":
     {
         "jpn":"攻撃",
+        "eng":"Attack",
     },
     "Ability.Description.攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.攻撃":
     {
         "jpn":"攻撃",
+        "eng":"Attack",
     },
     "Ability.UnlockDescription.攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.SpellText.攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.攻撃アップ":
     {
         "jpn":"攻撃+5％",
+        "eng":"Attack +5%",
     },
     "Ability.Description.攻撃アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.攻撃アップ":
     {
         "jpn":"攻撃+5％",
+        "eng":"Attack +5%",
     },
     "Ability.UnlockDescription.攻撃アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.攻撃アップ.2":
     {
         "jpn":"攻撃+10％",
+        "eng":"Attack +10%",
     },
     "Ability.UnlockName.攻撃アップ.2":
     {
         "jpn":"攻撃+10％",
+        "eng":"Attack +10%",
     },
     "Ability.UnlockDescription.攻撃アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.攻撃アップ.3":
     {
         "jpn":"攻撃+15％",
+        "eng":"Attack +15%",
     },
     "Ability.UnlockName.攻撃アップ.3":
     {
         "jpn":"攻撃+15％",
+        "eng":"Attack +15%",
     },
     "Ability.UnlockDescription.攻撃アップ.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.攻撃アップ.4":
     {
         "jpn":"攻撃+20％",
+        "eng":"Attack +20%",
     },
     "Ability.UnlockName.攻撃アップ.4":
     {
         "jpn":"攻撃+20％",
+        "eng":"Attack +20%",
     },
     "Ability.UnlockDescription.攻撃アップ.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.攻撃アップ.5":
     {
         "jpn":"攻撃+25％",
+        "eng":"Attack +25%",
     },
     "Ability.UnlockName.攻撃アップ.5":
     {
         "jpn":"攻撃+25％",
+        "eng":"Attack +25%",
     },
     "Ability.UnlockDescription.攻撃アップ.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.敏捷アップ":
     {
         "jpn":"敏捷+5％",
+        "eng":"Agility +5%",
     },
     "Ability.Description.敏捷アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.敏捷アップ":
     {
         "jpn":"敏捷+5％",
+        "eng":"Agility +5%",
     },
     "Ability.UnlockDescription.敏捷アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.敏捷アップ.2":
     {
         "jpn":"敏捷+10％",
+        "eng":"Agility +10%",
     },
     "Ability.UnlockName.敏捷アップ.2":
     {
         "jpn":"敏捷+10％",
+        "eng":"Agility +10%",
     },
     "Ability.UnlockDescription.敏捷アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.敏捷アップ.3":
     {
         "jpn":"敏捷+15％",
+        "eng":"Agility +15%",
     },
     "Ability.UnlockName.敏捷アップ.3":
     {
         "jpn":"敏捷+15％",
+        "eng":"Agility +15%",
     },
     "Ability.UnlockDescription.敏捷アップ.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.敏捷アップ.4":
     {
         "jpn":"敏捷+20％",
+        "eng":"Agility +20%",
     },
     "Ability.UnlockName.敏捷アップ.4":
     {
         "jpn":"敏捷+20％",
+        "eng":"Agility +20%",
     },
     "Ability.UnlockDescription.敏捷アップ.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.敏捷アップ.5":
     {
         "jpn":"敏捷+25％",
+        "eng":"Agility +25%",
     },
     "Ability.UnlockName.敏捷アップ.5":
     {
         "jpn":"敏捷+25％",
+        "eng":"Agility +25%",
     },
     "Ability.UnlockDescription.敏捷アップ.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.敵無視移動":
     {
         "jpn":"敵無視移動",
+        "eng":"Walk Through Enemies",
     },
     "Ability.Description.敵無視移動":
     {
@@ -3361,6 +3829,7 @@
     "Ability.UnlockName.敵無視移動":
     {
         "jpn":"敵無視移動",
+        "eng":"Walk Through Enemies",
     },
     "Ability.UnlockDescription.敵無視移動":
     {
@@ -3369,6 +3838,7 @@
     "Ability.施餓鬼縛りの術":
     {
         "jpn":"施餓鬼縛りの術",
+        "eng":"Segaki Shibari no Jutsu",
     },
     "Ability.Description.施餓鬼縛りの術":
     {
@@ -3377,6 +3847,7 @@
     "Ability.UnlockName.施餓鬼縛りの術":
     {
         "jpn":"施餓鬼縛りの術",
+        "eng":"Segaki Shibari no Jutsu",
     },
     "Ability.UnlockDescription.施餓鬼縛りの術":
     {
@@ -3389,6 +3860,7 @@
     "Ability.CastName.施餓鬼縛りの術":
     {
         "jpn":"「施餓鬼縛りの術」",
+        "eng":"\"Segaki Shibari no Jutsu\"",
     },
     "Ability.SpellText.施餓鬼縛りの術":
     {
@@ -3397,10 +3869,12 @@
     "Ability.施餓鬼縛りの術.2":
     {
         "jpn":"施餓鬼縛りの術",
+        "eng":"Segaki Shibari no Jutsu",
     },
     "Ability.UnlockName.施餓鬼縛りの術.2":
     {
         "jpn":"施餓鬼縛りの術L2",
+        "eng":"Segaki Shibari no Jutsu Lv2",
     },
     "Ability.UnlockDescription.施餓鬼縛りの術.2":
     {
@@ -3409,10 +3883,12 @@
     "Ability.施餓鬼縛りの術.3":
     {
         "jpn":"施餓鬼縛りの術",
+        "eng":"Segaki Shibari no Jutsu",
     },
     "Ability.UnlockName.施餓鬼縛りの術.3":
     {
         "jpn":"施餓鬼縛りの術L3",
+        "eng":"Segaki Shibari no Jutsu Lv3",
     },
     "Ability.UnlockDescription.施餓鬼縛りの術.3":
     {
@@ -3421,6 +3897,7 @@
     "Ability.月兎遠隔催眠術(テレメスメリズム)":
     {
         "jpn":"月兎遠隔催眠術(テレメスメリズム)",
+        "eng":"Telemesmerism",
     },
     "Ability.Description.月兎遠隔催眠術(テレメスメリズム)":
     {
@@ -3429,6 +3906,7 @@
     "Ability.UnlockName.月兎遠隔催眠術(テレメスメリズム)":
     {
         "jpn":"月兎遠隔催眠術(テレメスメリズム)",
+        "eng":"Telemesmerism",
     },
     "Ability.UnlockDescription.月兎遠隔催眠術(テレメスメリズム)":
     {
@@ -3441,6 +3919,7 @@
     "Ability.CastName.月兎遠隔催眠術(テレメスメリズム)":
     {
         "jpn":"「月兎遠隔催眠術(テレメスメリズム)」",
+        "eng":"\"Telemesmerism\"",
     },
     "Ability.SpellText.月兎遠隔催眠術(テレメスメリズム)":
     {
@@ -3449,10 +3928,12 @@
     "Ability.月兎遠隔催眠術(テレメスメリズム).2":
     {
         "jpn":"月兎遠隔催眠術(テレメスメリズム)",
+        "eng":"Telemesmerism",
     },
     "Ability.UnlockName.月兎遠隔催眠術(テレメスメリズム).2":
     {
         "jpn":"月兎遠隔催眠術(テレメスメリズム)L2",
+        "eng":"Telemesmerism Lv2",
     },
     "Ability.UnlockDescription.月兎遠隔催眠術(テレメスメリズム).2":
     {
@@ -3461,10 +3942,12 @@
     "Ability.月兎遠隔催眠術(テレメスメリズム).3":
     {
         "jpn":"月兎遠隔催眠術(テレメスメリズム)",
+        "eng":"Telemesmerism",
     },
     "Ability.UnlockName.月兎遠隔催眠術(テレメスメリズム).3":
     {
         "jpn":"月兎遠隔催眠術(テレメスメリズム)L3",
+        "eng":"Telemesmerism Lv3",
     },
     "Ability.UnlockDescription.月兎遠隔催眠術(テレメスメリズム).3":
     {
@@ -3473,6 +3956,7 @@
     "Ability.森羅結界":
     {
         "jpn":"森羅結界",
+        "eng":"Supernatural Border",
     },
     "Ability.Description.森羅結界":
     {
@@ -3481,6 +3965,7 @@
     "Ability.UnlockName.森羅結界":
     {
         "jpn":"森羅結界",
+        "eng":"Supernatural Border",
     },
     "Ability.UnlockDescription.森羅結界":
     {
@@ -3489,10 +3974,12 @@
     "Ability.CastNamePrefix.森羅結界":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.森羅結界":
     {
         "jpn":"森羅結界",
+        "eng":"Supernatural Border",
     },
     "Ability.SpellText.森羅結界":
     {
@@ -3501,18 +3988,22 @@
     "Ability.残機アップ":
     {
         "jpn":"残機+1",
+        "eng":"Extra Life",
     },
     "Ability.Description.残機アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.残機アップ":
     {
         "jpn":"残機+1",
+        "eng":"Extra Life",
     },
     "Ability.UnlockDescription.残機アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.水上移動":
     {
@@ -3533,6 +4024,7 @@
     "Ability.浮遊":
     {
         "jpn":"浮遊",
+        "eng":"Levitation",
     },
     "Ability.Description.浮遊":
     {
@@ -3541,6 +4033,7 @@
     "Ability.UnlockName.浮遊":
     {
         "jpn":"浮遊",
+        "eng":"Levitation",
     },
     "Ability.UnlockDescription.浮遊":
     {
@@ -3565,6 +4058,7 @@
     "Ability.瀕死HP回復":
     {
         "jpn":"瀕死HP回復",
+        "eng":"HP recover",
     },
     "Ability.Description.瀕死HP回復":
     {
@@ -3573,6 +4067,7 @@
     "Ability.UnlockName.瀕死HP回復":
     {
         "jpn":"瀕死HP回復",
+        "eng":"Critical: HP recover",
     },
     "Ability.UnlockDescription.瀕死HP回復":
     {
@@ -3581,22 +4076,27 @@
     "Ability.CastNamePrefix.瀕死HP回復":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.瀕死HP回復":
     {
         "jpn":"瀕死HP回復",
+        "eng":"Critical: HP recover",
     },
     "Ability.SpellText.瀕死HP回復":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.瀕死HP回復.2":
     {
         "jpn":"瀕死HP回復L2",
+        "eng":"Critical: HP recover Lv2",
     },
     "Ability.UnlockName.瀕死HP回復.2":
     {
         "jpn":"瀕死HP回復L2",
+        "eng":"Critical: HP recover Lv2",
     },
     "Ability.UnlockDescription.瀕死HP回復.2":
     {
@@ -3605,10 +4105,12 @@
     "Ability.瀕死HP回復.3":
     {
         "jpn":"瀕死HP回復L3",
+        "eng":"Critical: HP recover Lv3",
     },
     "Ability.UnlockName.瀕死HP回復.3":
     {
         "jpn":"瀕死HP回復L3",
+        "eng":"Critical: HP recover Lv3",
     },
     "Ability.UnlockDescription.瀕死HP回復.3":
     {
@@ -3617,6 +4119,7 @@
     "Ability.瀕死クイック":
     {
         "jpn":"瀕死クイック",
+        "eng":"Critical: Quick",
     },
     "Ability.Description.瀕死クイック":
     {
@@ -3625,6 +4128,7 @@
     "Ability.UnlockName.瀕死クイック":
     {
         "jpn":"瀕死クイック",
+        "eng":"Critical: Quick",
     },
     "Ability.UnlockDescription.瀕死クイック":
     {
@@ -3633,22 +4137,27 @@
     "Ability.CastNamePrefix.瀕死クイック":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.瀕死クイック":
     {
         "jpn":"瀕死クイック",
+        "eng":"Critical: Quick",
     },
     "Ability.SpellText.瀕死クイック":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.瀕死クイック.2":
     {
         "jpn":"瀕死クイックL2",
+        "eng":"Critical: Quick Lv2",
     },
     "Ability.UnlockName.瀕死クイック.2":
     {
         "jpn":"瀕死クイックL2",
+        "eng":"Critical: Quick Lv3",
     },
     "Ability.UnlockDescription.瀕死クイック.2":
     {
@@ -3657,6 +4166,7 @@
     "Ability.瀕死呪力チャージ":
     {
         "jpn":"瀕死呪力チャージ",
+        "eng":"Critical: Recover JP",
     },
     "Ability.Description.瀕死呪力チャージ":
     {
@@ -3665,6 +4175,7 @@
     "Ability.UnlockName.瀕死呪力チャージ":
     {
         "jpn":"瀕死呪力チャージ",
+        "eng":"Critical: Recover JP",
     },
     "Ability.UnlockDescription.瀕死呪力チャージ":
     {
@@ -3673,22 +4184,27 @@
     "Ability.CastNamePrefix.瀕死呪力チャージ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.瀕死呪力チャージ":
     {
         "jpn":"瀕死呪力チャージ",
+        "eng":"Critical: Recover JP",
     },
     "Ability.SpellText.瀕死呪力チャージ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.瀕死呪力チャージ.2":
     {
-        "jpn":"呪力チャージL2",
+        "jpn":"瀕死呪力チャージL2",
+        "eng":"Critical: Recover JP Lv2",
     },
     "Ability.UnlockName.瀕死呪力チャージ.2":
     {
-        "jpn":"呪力チャージL2",
+        "jpn":"瀕死呪力チャージL2",
+        "eng":"Critical: Recover JP Lv2",
     },
     "Ability.UnlockDescription.瀕死呪力チャージ.2":
     {
@@ -3696,11 +4212,13 @@
     },
     "Ability.瀕死呪力チャージ.3":
     {
-        "jpn":"呪力チャージL3",
+        "jpn":"瀕死呪力チャージL3",
+        "eng":"Critical: Recover JP Lv3",
     },
     "Ability.UnlockName.瀕死呪力チャージ.3":
     {
-        "jpn":"呪力チャージL3",
+        "jpn":"瀕死呪力チャージL3",
+        "eng":"Critical: Recover JP Lv3",
     },
     "Ability.UnlockDescription.瀕死呪力チャージ.3":
     {
@@ -3709,6 +4227,7 @@
     "Ability.火焔の車輪":
     {
         "jpn":"火焔の車輪",
+        "eng":"Kaen no Sharin",
     },
     "Ability.Description.火焔の車輪":
     {
@@ -3717,6 +4236,7 @@
     "Ability.UnlockName.火焔の車輪":
     {
         "jpn":"火焔の車輪",
+        "eng":"Kaen no Sharin",
     },
     "Ability.UnlockDescription.火焔の車輪":
     {
@@ -3729,6 +4249,7 @@
     "Ability.CastName.火焔の車輪":
     {
         "jpn":"「火焔の車輪」",
+        "eng":"\"Kaen no Sharin\"",
     },
     "Ability.SpellText.火焔の車輪":
     {
@@ -3737,10 +4258,12 @@
     "Ability.火焔の車輪.2":
     {
         "jpn":"火焔の車輪",
+        "eng":"Kaen no Sharin",
     },
     "Ability.UnlockName.火焔の車輪.2":
     {
         "jpn":"火焔の車輪L2",
+        "eng":"Kaen no Sharin Lv2",
     },
     "Ability.UnlockDescription.火焔の車輪.2":
     {
@@ -3749,10 +4272,12 @@
     "Ability.火焔の車輪.3":
     {
         "jpn":"火焔の車輪",
+        "eng":"Kaen no Sharin",
     },
     "Ability.UnlockName.火焔の車輪.3":
     {
         "jpn":"火焔の車輪L3",
+        "eng":"Kaen no Sharin Lv3",
     },
     "Ability.UnlockDescription.火焔の車輪.3":
     {
@@ -3765,6 +4290,7 @@
     "Ability.Description.物理に強い":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.物理に強い":
     {
@@ -3773,6 +4299,7 @@
     "Ability.UnlockDescription.物理に強い":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.物理に強い.2":
     {
@@ -3785,6 +4312,7 @@
     "Ability.UnlockDescription.物理に強い.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.物理に強い.3":
     {
@@ -3797,6 +4325,7 @@
     "Ability.UnlockDescription.物理に強い.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.物理に強い.4":
     {
@@ -3809,6 +4338,7 @@
     "Ability.UnlockDescription.物理に強い.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.物理に強い.5":
     {
@@ -3821,94 +4351,117 @@
     "Ability.UnlockDescription.物理に強い.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.物理攻撃アップ":
     {
         "jpn":"物理威力+5％",
+        "eng":"Physical Power +5%"
     },
     "Ability.Description.物理攻撃アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.物理攻撃アップ":
     {
         "jpn":"物理威力+5％",
+        "eng":"Physical Power +5%"
     },
     "Ability.UnlockDescription.物理攻撃アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.物理攻撃アップ.2":
     {
         "jpn":"物理威力+10％",
+        "eng":"Physical Power +10%"
     },
     "Ability.UnlockName.物理攻撃アップ.2":
     {
         "jpn":"物理威力+10％",
+        "eng":"Physical Power +10%"
     },
     "Ability.UnlockDescription.物理攻撃アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.物理攻撃アップ.3":
     {
         "jpn":"物理威力+15％",
+        "eng":"Physical Power +15%"
     },
     "Ability.UnlockName.物理攻撃アップ.3":
     {
         "jpn":"物理威力+15％",
+        "eng":"Physical Power +15%"
     },
     "Ability.UnlockDescription.物理攻撃アップ.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.物理攻撃アップ.4":
     {
         "jpn":"物理威力+20％",
+        "eng":"Physical Power +20%"
     },
     "Ability.UnlockName.物理攻撃アップ.4":
     {
         "jpn":"物理威力+20％",
+        "eng":"Physical Power +20%"
     },
     "Ability.UnlockDescription.物理攻撃アップ.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.物理攻撃アップ.5":
     {
         "jpn":"物理威力+25％",
+        "eng":"Physical Power +25%"
     },
     "Ability.UnlockName.物理攻撃アップ.5":
     {
         "jpn":"物理威力+25％",
+        "eng":"Physical Power +25%"
     },
     "Ability.UnlockDescription.物理攻撃アップ.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.百万鬼夜行":
     {
         "jpn":"百万鬼夜行",
+        "eng":"Hyakumanki Yagyō",
     },
     "Ability.Description.百万鬼夜行":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.百万鬼夜行":
     {
         "jpn":"百万鬼夜行",
+        "eng":"Hyakumanki Yagyō",
     },
     "Ability.UnlockDescription.百万鬼夜行":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.百万鬼夜行":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.百万鬼夜行":
     {
         "jpn":"「百万鬼夜行」",
+        "eng":"\"Hyakumanki Yagyō\"",
     },
     "Ability.SpellText.百万鬼夜行":
     {
@@ -3917,10 +4470,12 @@
     "Ability.百万鬼夜行.2":
     {
         "jpn":"百万鬼夜行",
+        "eng":"Hyakumanki Yagyō",
     },
     "Ability.UnlockName.百万鬼夜行.2":
     {
         "jpn":"百万鬼夜行L2",
+        "eng":"Hyakumanki Yagyō Lv2",
     },
     "Ability.UnlockDescription.百万鬼夜行.2":
     {
@@ -3929,10 +4484,12 @@
     "Ability.百万鬼夜行.3":
     {
         "jpn":"百万鬼夜行",
+        "eng":"Hyakumanki Yagyō",
     },
     "Ability.UnlockName.百万鬼夜行.3":
     {
         "jpn":"百万鬼夜行L3",
+        "eng":"Hyakumanki Yagyō Lv3",
     },
     "Ability.UnlockDescription.百万鬼夜行.3":
     {
@@ -3941,6 +4498,7 @@
     "Ability.盗む":
     {
         "jpn":"盗む",
+        "eng":"Steal",
     },
     "Ability.Description.盗む":
     {
@@ -3949,6 +4507,7 @@
     "Ability.UnlockName.盗む":
     {
         "jpn":"盗む",
+        "eng":"Steal",
     },
     "Ability.UnlockDescription.盗む":
     {
@@ -3957,10 +4516,12 @@
     "Ability.CastNamePrefix.盗む":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.盗む":
     {
         "jpn":"盗む",
+        "eng":"Steal",
     },
     "Ability.SpellText.盗む":
     {
@@ -3969,6 +4530,7 @@
     "Ability.破局の開門":
     {
         "jpn":"破局の開門",
+        "eng":"Hakyoku no Kaimon",
     },
     "Ability.Description.破局の開門":
     {
@@ -3977,6 +4539,7 @@
     "Ability.UnlockName.破局の開門":
     {
         "jpn":"破局の開門",
+        "eng":"Hakyoku no Kaimon",
     },
     "Ability.UnlockDescription.破局の開門":
     {
@@ -3989,6 +4552,7 @@
     "Ability.CastName.破局の開門":
     {
         "jpn":"「破局の開門」",
+        "eng":"\"Hakyoku no Kaimon\"",
     },
     "Ability.SpellText.破局の開門":
     {
@@ -4001,6 +4565,7 @@
     "Ability.Description.破局の開門・朱雀":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.破局の開門・朱雀":
     {
@@ -4009,6 +4574,7 @@
     "Ability.UnlockDescription.破局の開門・朱雀":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.破局の開門・朱雀":
     {
@@ -4017,6 +4583,7 @@
     "Ability.CastName.破局の開門・朱雀":
     {
         "jpn":"「破局の開門」",
+        "eng":"\"Hakyoku no Kaimon\"",
     },
     "Ability.SpellText.破局の開門・朱雀":
     {
@@ -4029,6 +4596,7 @@
     "Ability.Description.破局の開門・玄武":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.破局の開門・玄武":
     {
@@ -4037,6 +4605,7 @@
     "Ability.UnlockDescription.破局の開門・玄武":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.破局の開門・玄武":
     {
@@ -4045,6 +4614,7 @@
     "Ability.CastName.破局の開門・玄武":
     {
         "jpn":"「破局の開門」",
+        "eng":"\"Hakyoku no Kaimon\"",
     },
     "Ability.SpellText.破局の開門・玄武":
     {
@@ -4057,6 +4627,7 @@
     "Ability.Description.破局の開門・白虎":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.破局の開門・白虎":
     {
@@ -4065,6 +4636,7 @@
     "Ability.UnlockDescription.破局の開門・白虎":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.破局の開門・白虎":
     {
@@ -4073,6 +4645,7 @@
     "Ability.CastName.破局の開門・白虎":
     {
         "jpn":"「破局の開門」",
+        "eng":"\"Hakyoku no Kaimon\"",
     },
     "Ability.SpellText.破局の開門・白虎":
     {
@@ -4085,6 +4658,7 @@
     "Ability.Description.破局の開門・青竜":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.破局の開門・青竜":
     {
@@ -4093,6 +4667,7 @@
     "Ability.UnlockDescription.破局の開門・青竜":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.破局の開門・青竜":
     {
@@ -4101,6 +4676,7 @@
     "Ability.CastName.破局の開門・青竜":
     {
         "jpn":"「破局の開門」",
+        "eng":"\"Hakyoku no Kaimon\"",
     },
     "Ability.SpellText.破局の開門・青竜":
     {
@@ -4109,6 +4685,7 @@
     "Ability.禁呪詠唱":
     {
         "jpn":"禁呪詠唱",
+        "eng":"Incantation",
     },
     "Ability.Description.禁呪詠唱":
     {
@@ -4117,6 +4694,7 @@
     "Ability.UnlockName.禁呪詠唱":
     {
         "jpn":"禁呪詠唱",
+        "eng":"Incantation",
     },
     "Ability.UnlockDescription.禁呪詠唱":
     {
@@ -4125,58 +4703,72 @@
     "Ability.CastNamePrefix.禁呪詠唱":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.禁呪詠唱":
     {
         "jpn":"禁呪詠唱",
+        "eng":"Incantation",
     },
     "Ability.SpellText.禁呪詠唱":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.移動":
     {
         "jpn":"移動",
+        "eng":"Move",
     },
     "Ability.Description.移動":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.移動":
     {
         "jpn":"移動",
+        "eng":"Move",
     },
     "Ability.UnlockDescription.移動":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.移動アップ":
     {
         "jpn":"移動+1",
+        "eng":"Move +1",
     },
     "Ability.Description.移動アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.移動アップ":
     {
         "jpn":"移動+1",
+        "eng":"Move +1",
     },
     "Ability.UnlockDescription.移動アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.移動アップ.2":
     {
         "jpn":"移動+2",
+        "eng":"Move +2",
     },
     "Ability.UnlockName.移動アップ.2":
     {
         "jpn":"移動+2",
+        "eng":"Move +2",
     },
     "Ability.UnlockDescription.移動アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.竜脈":
     {
@@ -4197,6 +4789,7 @@
     "Ability.CastNamePrefix.竜脈":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.竜脈":
     {
@@ -4209,6 +4802,7 @@
     "Ability.聖白蓮":
     {
         "jpn":"聖白蓮",
+        "eng":"Hijiri Byakuren",
     },
     "Ability.Description.聖白蓮":
     {
@@ -4217,6 +4811,7 @@
     "Ability.UnlockName.聖白蓮":
     {
         "jpn":"聖白蓮",
+        "eng":"Hijiri Byakuren",
     },
     "Ability.UnlockDescription.聖白蓮":
     {
@@ -4229,6 +4824,7 @@
     "Ability.CastName.聖白蓮":
     {
         "jpn":"「聖白蓮」",
+        "eng":"\"Hijiri Byakuren\"",
     },
     "Ability.SpellText.聖白蓮":
     {
@@ -4237,18 +4833,22 @@
     "Ability.花鳥風月、嘯風弄月":
     {
         "jpn":"花鳥風月、嘯風弄月",
+        "eng":"Kachou Fuugetsu",
     },
     "Ability.Description.花鳥風月、嘯風弄月":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.花鳥風月、嘯風弄月":
     {
         "jpn":"花鳥風月、嘯風弄月",
+        "eng":"Kachou Fuugetsu",
     },
     "Ability.UnlockDescription.花鳥風月、嘯風弄月":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.花鳥風月、嘯風弄月":
     {
@@ -4257,6 +4857,7 @@
     "Ability.CastName.花鳥風月、嘯風弄月":
     {
         "jpn":"「花鳥風月、嘯風弄月」",
+        "eng":"\"Kachou Fuugetsu\"",
     },
     "Ability.SpellText.花鳥風月、嘯風弄月":
     {
@@ -4265,10 +4866,12 @@
     "Ability.花鳥風月、嘯風弄月.2":
     {
         "jpn":"花鳥風月、嘯風弄月",
+        "eng":"Kachou Fuugetsu",
     },
     "Ability.UnlockName.花鳥風月、嘯風弄月.2":
     {
         "jpn":"花鳥風月、嘯風弄月L2",
+        "eng":"Kachou Fuugetsu Lv2",
     },
     "Ability.UnlockDescription.花鳥風月、嘯風弄月.2":
     {
@@ -4277,10 +4880,12 @@
     "Ability.花鳥風月、嘯風弄月.3":
     {
         "jpn":"花鳥風月、嘯風弄月",
+        "eng":"Kachou Fuugetsu",
     },
     "Ability.UnlockName.花鳥風月、嘯風弄月.3":
     {
         "jpn":"花鳥風月、嘯風弄月L3",
+        "eng":"Kachou Fuugetsu Lv3",
     },
     "Ability.UnlockDescription.花鳥風月、嘯風弄月.3":
     {
@@ -4289,6 +4894,7 @@
     "Ability.芳香":
     {
         "jpn":"芳香",
+        "eng":"Yoshika",
     },
     "Ability.Description.芳香":
     {
@@ -4297,6 +4903,7 @@
     "Ability.UnlockName.芳香":
     {
         "jpn":"芳香",
+        "eng":"Yoshika",
     },
     "Ability.UnlockDescription.芳香":
     {
@@ -4305,14 +4912,17 @@
     "Ability.蓬莱の薬":
     {
         "jpn":"蓬莱の薬",
+        "eng":"Hourai no Kusuri",
     },
     "Ability.Description.蓬莱の薬":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.蓬莱の薬":
     {
         "jpn":"蓬莱の薬",
+        "eng":"Hourai no Kusuri",
     },
     "Ability.UnlockDescription.蓬莱の薬":
     {
@@ -4325,6 +4935,7 @@
     "Ability.CastName.蓬莱の薬":
     {
         "jpn":"「蓬莱の薬」",
+        "eng":"\"Hourai no Kusuri\"",
     },
     "Ability.SpellText.蓬莱の薬":
     {
@@ -4333,34 +4944,42 @@
     "Ability.薙ぎ払い":
     {
         "jpn":"薙ぎ払い",
+        "eng":"Slash",
     },
     "Ability.Description.薙ぎ払い":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.薙ぎ払い":
     {
         "jpn":"薙ぎ払い",
+        "eng":"Slash",
     },
     "Ability.UnlockDescription.薙ぎ払い":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.薙ぎ払い":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.薙ぎ払い":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.SpellText.薙ぎ払い":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.虚弱":
     {
         "jpn":"虚弱",
+        "eng":"Feeble",
     },
     "Ability.Description.虚弱":
     {
@@ -4369,6 +4988,7 @@
     "Ability.UnlockName.虚弱":
     {
         "jpn":"虚弱",
+        "eng":"Feeble",
     },
     "Ability.UnlockDescription.虚弱":
     {
@@ -4393,6 +5013,7 @@
     "Ability.CastNamePrefix.見切り":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.見切り":
     {
@@ -4401,6 +5022,7 @@
     "Ability.SpellText.見切り":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.見切り.2":
     {
@@ -4429,6 +5051,7 @@
     "Ability.豪族乱舞":
     {
         "jpn":"豪族乱舞",
+        "eng":"Gouzoku Ranbu",
     },
     "Ability.Description.豪族乱舞":
     {
@@ -4437,6 +5060,7 @@
     "Ability.UnlockName.豪族乱舞":
     {
         "jpn":"豪族乱舞",
+        "eng":"Gouzoku Ranbu",
     },
     "Ability.UnlockDescription.豪族乱舞":
     {
@@ -4449,6 +5073,7 @@
     "Ability.CastName.豪族乱舞":
     {
         "jpn":"「豪族乱舞」",
+        "eng":"\"Gouzoku Ranbu\"",
     },
     "Ability.SpellText.豪族乱舞":
     {
@@ -4457,10 +5082,12 @@
     "Ability.豪族乱舞.2":
     {
         "jpn":"豪族乱舞",
+        "eng":"Gouzoku Ranbu",
     },
     "Ability.UnlockName.豪族乱舞.2":
     {
         "jpn":"豪族乱舞L2",
+        "eng":"Gouzoku Ranbu Lv2",
     },
     "Ability.UnlockDescription.豪族乱舞.2":
     {
@@ -4469,10 +5096,12 @@
     "Ability.豪族乱舞.3":
     {
         "jpn":"豪族乱舞",
+        "eng":"Gouzoku Ranbu",
     },
     "Ability.UnlockName.豪族乱舞.3":
     {
         "jpn":"豪族乱舞L3",
+        "eng":"Gouzoku Ranbu Lv3",
     },
     "Ability.UnlockDescription.豪族乱舞.3":
     {
@@ -4481,6 +5110,7 @@
     "Ability.超高速上海人形":
     {
         "jpn":"超高速上海人形",
+        "eng":"HighSpeed Shanghai Doll",
     },
     "Ability.Description.超高速上海人形":
     {
@@ -4489,6 +5119,7 @@
     "Ability.UnlockName.超高速上海人形":
     {
         "jpn":"超高速上海人形",
+        "eng":"HighSpeed Shanghai Doll",
     },
     "Ability.UnlockDescription.超高速上海人形":
     {
@@ -4497,6 +5128,7 @@
     "Ability.輝針剣":
     {
         "jpn":"輝針剣",
+        "eng":"Kishin Sword",
     },
     "Ability.Description.輝針剣":
     {
@@ -4505,6 +5137,7 @@
     "Ability.UnlockName.輝針剣":
     {
         "jpn":"輝針剣",
+        "eng":"Kishin Sword",
     },
     "Ability.UnlockDescription.輝針剣":
     {
@@ -4517,6 +5150,7 @@
     "Ability.CastName.輝針剣":
     {
         "jpn":"「輝針剣」",
+        "eng":"\"Kishin Sword\"",
     },
     "Ability.SpellText.輝針剣":
     {
@@ -4525,10 +5159,12 @@
     "Ability.輝針剣.2":
     {
         "jpn":"輝針剣",
+        "eng":"Kishin Sword",
     },
     "Ability.UnlockName.輝針剣.2":
     {
         "jpn":"輝針剣L2",
+        "eng":"Kishin Sword Lv2",
     },
     "Ability.UnlockDescription.輝針剣.2":
     {
@@ -4537,10 +5173,12 @@
     "Ability.輝針剣.3":
     {
         "jpn":"輝針剣",
+        "eng":"Kishin Sword",
     },
     "Ability.UnlockName.輝針剣.3":
     {
         "jpn":"輝針剣L3",
+        "eng":"Kishin Sword Lv3",
     },
     "Ability.UnlockDescription.輝針剣.3":
     {
@@ -4549,34 +5187,42 @@
     "Ability.防御":
     {
         "jpn":"防御",
+        "eng":"Defense",
     },
     "Ability.Description.防御":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.防御":
     {
         "jpn":"防御",
+        "eng":"Defense",
     },
     "Ability.UnlockDescription.防御":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.防御":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.防御":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.SpellText.防御":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.障壁波動（イビルアンジュレーション）":
     {
         "jpn":"障壁波動（イビルアンジュレーション）",
+        "eng":"Evil Undulation",
     },
     "Ability.Description.障壁波動（イビルアンジュレーション）":
     {
@@ -4585,6 +5231,7 @@
     "Ability.UnlockName.障壁波動（イビルアンジュレーション）":
     {
         "jpn":"障壁波動（イビルアンジュレーション）",
+        "eng":"Evil Undulation",
     },
     "Ability.UnlockDescription.障壁波動（イビルアンジュレーション）":
     {
@@ -4593,10 +5240,12 @@
     "Ability.CastNamePrefix.障壁波動（イビルアンジュレーション）":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.障壁波動（イビルアンジュレーション）":
     {
         "jpn":"「障壁波動（イビルアンジュレーション）」",
+        "eng":"\"Evil Undulation\"",
     },
     "Ability.SpellText.障壁波動（イビルアンジュレーション）":
     {
@@ -4605,6 +5254,7 @@
     "Ability.集合的無意識":
     {
         "jpn":"集合的無意識",
+        "eng":"Collective unconscious",
     },
     "Ability.Description.集合的無意識":
     {
@@ -4613,6 +5263,7 @@
     "Ability.UnlockName.集合的無意識":
     {
         "jpn":"集合的無意識",
+        "eng":"Collective unconscious",
     },
     "Ability.UnlockDescription.集合的無意識":
     {
@@ -4621,70 +5272,87 @@
     "Ability.霊力アップ":
     {
         "jpn":"霊力+1",
+        "eng":"JP Speed +1",
     },
     "Ability.Description.霊力アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.霊力アップ":
     {
         "jpn":"霊力+1",
+        "eng":"JP Speed +1",
     },
     "Ability.UnlockDescription.霊力アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.霊力アップ.2":
     {
         "jpn":"霊力+2",
+        "eng":"JP Speed +2",
     },
     "Ability.UnlockName.霊力アップ.2":
     {
         "jpn":"霊力+2",
+        "eng":"JP Speed +2",
     },
     "Ability.UnlockDescription.霊力アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.霊力アップ.3":
     {
         "jpn":"霊力+3",
+        "eng":"JP Speed +3",
     },
     "Ability.UnlockName.霊力アップ.3":
     {
         "jpn":"霊力+3",
+        "eng":"JP Speed +3",
     },
     "Ability.UnlockDescription.霊力アップ.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.霊力アップ.4":
     {
         "jpn":"霊力+4",
+        "eng":"JP Speed +3",
     },
     "Ability.UnlockName.霊力アップ.4":
     {
         "jpn":"霊力+4",
+        "eng":"JP Speed +4",
     },
     "Ability.UnlockDescription.霊力アップ.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.霊力アップ.5":
     {
         "jpn":"霊力+5",
+        "eng":"JP Speed +5",
     },
     "Ability.UnlockName.霊力アップ.5":
     {
         "jpn":"霊力+5",
+        "eng":"JP Speed +5",
     },
     "Ability.UnlockDescription.霊力アップ.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.霊撃":
     {
         "jpn":"結界",
+        "eng":"Border",
     },
     "Ability.Description.霊撃":
     {
@@ -4693,6 +5361,7 @@
     "Ability.UnlockName.霊撃":
     {
         "jpn":"結界",
+        "eng":"Border",
     },
     "Ability.UnlockDescription.霊撃":
     {
@@ -4701,18 +5370,22 @@
     "Ability.CastNamePrefix.霊撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.霊撃":
     {
         "jpn":"結界",
+        "eng":"Border",
     },
     "Ability.SpellText.霊撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔彩光の上海人形":
     {
         "jpn":"魔彩光の上海人形",
+        "eng":"Masaikou no Shanghai Doll"
     },
     "Ability.Description.魔彩光の上海人形":
     {
@@ -4721,6 +5394,7 @@
     "Ability.UnlockName.魔彩光の上海人形":
     {
         "jpn":"魔彩光の上海人形",
+        "eng":"Masaikou no Shanghai Doll"
     },
     "Ability.UnlockDescription.魔彩光の上海人形":
     {
@@ -4733,6 +5407,7 @@
     "Ability.CastName.魔彩光の上海人形":
     {
         "jpn":"「魔彩光の上海人形」",
+        "eng":"\"Masaikou no Shanghai Doll\""
     },
     "Ability.SpellText.魔彩光の上海人形":
     {
@@ -4741,10 +5416,12 @@
     "Ability.魔彩光の上海人形.2":
     {
         "jpn":"魔彩光の上海人形",
+        "eng":"Masaikou no Shanghai Doll"
     },
     "Ability.UnlockName.魔彩光の上海人形.2":
     {
         "jpn":"魔彩光の上海人形L2",
+        "eng":"Masaikou no Shanghai Doll Lv2"
     },
     "Ability.UnlockDescription.魔彩光の上海人形.2":
     {
@@ -4753,10 +5430,12 @@
     "Ability.魔彩光の上海人形.3":
     {
         "jpn":"魔彩光の上海人形",
+        "eng":"Masaikou no Shanghai Doll"
     },
     "Ability.UnlockName.魔彩光の上海人形.3":
     {
         "jpn":"魔彩光の上海人形L3",
+        "eng":"Masaikou no Shanghai Doll Lv3"
     },
     "Ability.UnlockDescription.魔彩光の上海人形.3":
     {
@@ -4769,6 +5448,7 @@
     "Ability.Description.魔法に強い":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.魔法に強い":
     {
@@ -4777,6 +5457,7 @@
     "Ability.UnlockDescription.魔法に強い":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法に強い.2":
     {
@@ -4789,6 +5470,7 @@
     "Ability.UnlockDescription.魔法に強い.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法に強い.3":
     {
@@ -4801,6 +5483,7 @@
     "Ability.UnlockDescription.魔法に強い.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法に強い.4":
     {
@@ -4813,6 +5496,7 @@
     "Ability.UnlockDescription.魔法に強い.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法に強い.5":
     {
@@ -4825,114 +5509,142 @@
     "Ability.UnlockDescription.魔法に強い.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法攻撃":
     {
         "jpn":"魔法攻撃",
+        "eng":"Magic Attack"
     },
     "Ability.Description.魔法攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.魔法攻撃":
     {
         "jpn":"魔法攻撃",
+        "eng":"Magic Attack"
     },
     "Ability.UnlockDescription.魔法攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.魔法攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastName.魔法攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.SpellText.魔法攻撃":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法攻撃アップ":
     {
         "jpn":"魔法威力+5％",
+        "eng":"Magic Power +5%"
     },
     "Ability.Description.魔法攻撃アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.魔法攻撃アップ":
     {
         "jpn":"魔法威力+5％",
+        "eng":"Magic Power +5%"
     },
     "Ability.UnlockDescription.魔法攻撃アップ":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法攻撃アップ.2":
     {
         "jpn":"魔法威力+10％",
+        "eng":"Magic Power +10%"
     },
     "Ability.UnlockName.魔法攻撃アップ.2":
     {
         "jpn":"魔法威力+10％",
+        "eng":"Magic Power +10%"
     },
     "Ability.UnlockDescription.魔法攻撃アップ.2":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法攻撃アップ.3":
     {
         "jpn":"魔法威力+15％",
+        "eng":"Magic Power +15%"
     },
     "Ability.UnlockName.魔法攻撃アップ.3":
     {
         "jpn":"魔法威力+15％",
+        "eng":"Magic Power +15%"
     },
     "Ability.UnlockDescription.魔法攻撃アップ.3":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法攻撃アップ.4":
     {
         "jpn":"魔法威力+20％",
+        "eng":"Magic Power +20%"
     },
     "Ability.UnlockName.魔法攻撃アップ.4":
     {
         "jpn":"魔法威力+20％",
+        "eng":"Magic Power +20%"
     },
     "Ability.UnlockDescription.魔法攻撃アップ.4":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.魔法攻撃アップ.5":
     {
         "jpn":"魔法威力+25％",
+        "eng":"Magic Power +25%"
     },
     "Ability.UnlockName.魔法攻撃アップ.5":
     {
         "jpn":"魔法威力+25％",
+        "eng":"Magic Power +25%"
     },
     "Ability.UnlockDescription.魔法攻撃アップ.5":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.黄金の震眩":
     {
         "jpn":"黄金の震眩",
+        "eng":"Ōgon no Shingen"
     },
     "Ability.Description.黄金の震眩":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.UnlockName.黄金の震眩":
     {
         "jpn":"黄金の震眩",
+        "eng":"Ōgon no Shingen"
     },
     "Ability.UnlockDescription.黄金の震眩":
     {
         "jpn":"",
+        "eng":"",
     },
     "Ability.CastNamePrefix.黄金の震眩":
     {
@@ -4941,6 +5653,7 @@
     "Ability.CastName.黄金の震眩":
     {
         "jpn":"「黄金の震眩」",
+        "eng":"\"Ōgon no Shingen\""
     },
     "Ability.SpellText.黄金の震眩":
     {
@@ -4949,10 +5662,12 @@
     "Ability.黄金の震眩.2":
     {
         "jpn":"黄金の震眩",
+        "eng":"Ōgon no Shingen"
     },
     "Ability.UnlockName.黄金の震眩.2":
     {
         "jpn":"黄金の震眩L2",
+        "eng":"Ōgon no Shingen Lv2"
     },
     "Ability.UnlockDescription.黄金の震眩.2":
     {
@@ -4961,10 +5676,12 @@
     "Ability.黄金の震眩.3":
     {
         "jpn":"黄金の震眩",
+        "eng":"Ōgon no Shingen"
     },
     "Ability.UnlockName.黄金の震眩.3":
     {
         "jpn":"黄金の震眩L3",
+        "eng":"Ōgon no Shingen Lv3"
     },
     "Ability.UnlockDescription.黄金の震眩.3":
     {
@@ -4973,6 +5690,7 @@
     "Article.わら人形":
     {
         "jpn":"わら人形",
+        "eng":"Straw doll",
     },
     "Article.Description.わら人形":
     {
@@ -4981,6 +5699,7 @@
     "Article.クイックシルバー":
     {
         "jpn":"クイックシルバー",
+        "eng":"Quick Silver"
     },
     "Article.Description.クイックシルバー":
     {
@@ -4989,6 +5708,7 @@
     "Article.スターソード":
     {
         "jpn":"スターソード",
+        "eng":"Star Sword"
     },
     "Article.Description.スターソード":
     {
@@ -4997,6 +5717,7 @@
     "Article.ソノシート":
     {
         "jpn":"ソノシート",
+        "eng":"Sonosheet"
     },
     "Article.Description.ソノシート":
     {
@@ -5005,6 +5726,7 @@
     "Article.トリモチ":
     {
         "jpn":"トリモチ",
+        "eng":"Birdlime"
     },
     "Article.Description.トリモチ":
     {
@@ -5013,6 +5735,7 @@
     "Article.ハイソックス":
     {
         "jpn":"ハイソックス",
+        "eng":"High socks",
     },
     "Article.Description.ハイソックス":
     {
@@ -5021,6 +5744,7 @@
     "Article.バンデージ":
     {
         "jpn":"バンデージ",
+        "eng":"Bandage",
     },
     "Article.Description.バンデージ":
     {
@@ -5029,6 +5753,7 @@
     "Article.マント":
     {
         "jpn":"マント",
+        "eng":"Cloak",
     },
     "Article.Description.マント":
     {
@@ -5037,6 +5762,7 @@
     "Article.メガネ":
     {
         "jpn":"メガネ",
+        "eng":"Glasses",
     },
     "Article.Description.メガネ":
     {
@@ -5045,6 +5771,7 @@
     "Article.リボン":
     {
         "jpn":"リボン",
+        "eng":"Ribbon",
     },
     "Article.Description.リボン":
     {
@@ -5053,6 +5780,7 @@
     "Article.七星剣":
     {
         "jpn":"七星剣",
+        "eng":"Shichiseiken",
     },
     "Article.Description.七星剣":
     {
@@ -5061,6 +5789,7 @@
     "Article.向日葵":
     {
         "jpn":"向日葵",
+        "eng":"Sunflower",
     },
     "Article.Description.向日葵":
     {
@@ -5069,6 +5798,7 @@
     "Article.宝塔":
     {
         "jpn":"宝塔",
+        "eng":"Houtou",
     },
     "Article.Description.宝塔":
     {
@@ -5077,6 +5807,7 @@
     "Article.座布団":
     {
         "jpn":"座布団",
+        "eng":"Zabuton",
     },
     "Article.Description.座布団":
     {
@@ -5085,6 +5816,7 @@
     "Article.彼岸花":
     {
         "jpn":"彼岸花",
+        "eng":"Red spider lily",
     },
     "Article.Description.彼岸花":
     {
@@ -5093,6 +5825,7 @@
     "Article.日傘":
     {
         "jpn":"日傘",
+        "eng":"Parasol",
     },
     "Article.Description.日傘":
     {
@@ -5101,6 +5834,7 @@
     "Article.晴明判紋":
     {
         "jpn":"晴明判紋",
+        "eng":"Pentagram",
     },
     "Article.Description.晴明判紋":
     {
@@ -5109,6 +5843,7 @@
     "Article.月の砂":
     {
         "jpn":"月の砂",
+        "eng":"Moon regolith",
     },
     "Article.Description.月の砂":
     {
@@ -5117,6 +5852,7 @@
     "Article.桃":
     {
         "jpn":"桃",
+        "eng":"Peach",
     },
     "Article.Description.桃":
     {
@@ -5125,6 +5861,7 @@
     "Article.桜":
     {
         "jpn":"桜",
+        "eng":"Sakura",
     },
     "Article.Description.桜":
     {
@@ -5133,6 +5870,7 @@
     "Article.火廼要慎":
     {
         "jpn":"火廼要慎",
+        "eng":"Fire Amulet",
     },
     "Article.Description.火廼要慎":
     {
@@ -5141,6 +5879,7 @@
     "Article.爻辞棒":
     {
         "jpn":"爻辞棒",
+        "eng":"Kou-ji Rod",
     },
     "Article.Description.爻辞棒":
     {
@@ -5149,6 +5888,7 @@
     "Article.生きてるホウキ":
     {
         "jpn":"生きてるホウキ",
+        "eng":"Living Broom",
     },
     "Article.Description.生きてるホウキ":
     {
@@ -5157,6 +5897,7 @@
     "Article.紅葉":
     {
         "jpn":"紅葉",
+        "eng":"Maple leaf",
     },
     "Article.Description.紅葉":
     {
@@ -5165,6 +5906,7 @@
     "Article.赤い靴":
     {
         "jpn":"赤い靴",
+        "eng":"Red boots",
     },
     "Article.Description.赤い靴":
     {
@@ -5173,6 +5915,7 @@
     "Article.逆光波望遠鏡":
     {
         "jpn":"逆光波望遠鏡",
+        "eng":"Telescope",
     },
     "Article.Description.逆光波望遠鏡":
     {
@@ -5181,6 +5924,7 @@
     "Article.鈴蘭":
     {
         "jpn":"鈴蘭",
+        "eng":"Lily of the valley",
     },
     "Article.Description.鈴蘭":
     {
@@ -5189,6 +5933,7 @@
     "Article.陰陽玉":
     {
         "jpn":"陰陽玉",
+        "eng":"Yin-Yang",
     },
     "Article.Description.陰陽玉":
     {
@@ -5197,6 +5942,7 @@
     "Article.魔法書":
     {
         "jpn":"魔法書",
+        "eng":"Spellbook",
     },
     "Article.Description.魔法書":
     {
@@ -5205,406 +5951,332 @@
     "Character.こいし":
     {
         "jpn":"こいし",
-    },
-    "Character.Job.こいし":
-    {
-        "jpn":"",
+        "eng":"Koishi",
     },
     "Character.ご先祖様":
     {
         "jpn":"ご先祖様？",
-    },
-    "Character.Job.ご先祖様":
-    {
-        "jpn":"ザコ",
+        "eng":"?",
     },
     "Character.さとり":
     {
         "jpn":"さとり",
-    },
-    "Character.Job.さとり":
-    {
-        "jpn":"",
+        "eng":"Satori",
     },
     "Character.アリス":
     {
         "jpn":"アリス",
-    },
-    "Character.Job.アリス":
-    {
-        "jpn":"",
+        "eng":"Alice",
     },
     "Character.ゾンビフェアリー":
     {
         "jpn":"ゾンビフェアリー",
-    },
-    "Character.Job.ゾンビフェアリー":
-    {
-        "jpn":"ザコ",
+        "eng":"Zombie Fairy",
     },
     "Character.パチュリー":
     {
         "jpn":"パチュリー",
-    },
-    "Character.Job.パチュリー":
-    {
-        "jpn":"",
+        "eng":"Patchouli",
     },
     "Character.マミゾウ":
     {
         "jpn":"マミゾウ",
-    },
-    "Character.Job.マミゾウ":
-    {
-        "jpn":"",
+        "eng":"Mamizou",
     },
     "Character.ミスティア":
     {
         "jpn":"ミスティア",
-    },
-    "Character.Job.ミスティア":
-    {
-        "jpn":"",
+        "eng":"Mystia",
     },
     "Character.レミリア":
     {
         "jpn":"レミリア",
-    },
-    "Character.Job.レミリア":
-    {
-        "jpn":"",
+        "eng":"Remilia",
     },
     "Character.上海人形":
     {
         "jpn":"上海人形",
-    },
-    "Character.Job.上海人形":
-    {
-        "jpn":"ザコ",
+        "eng":"Shanghai Doll",
     },
     "Character.咲夜":
     {
         "jpn":"咲夜",
-    },
-    "Character.Job.咲夜":
-    {
-        "jpn":"",
+        "eng":"Sakuya",
     },
     "Character.妖精":
     {
         "jpn":"妖精",
-    },
-    "Character.Job.妖精":
-    {
-        "jpn":"ザコ",
+        "eng":"Fairy",
     },
     "Character.小町":
     {
         "jpn":"小町",
-    },
-    "Character.Job.小町":
-    {
-        "jpn":"",
+        "eng":"Komachi",
     },
     "Character.屠自古":
     {
         "jpn":"屠自古",
-    },
-    "Character.Job.屠自古":
-    {
-        "jpn":"",
+        "eng":"Tojiko",
     },
     "Character.布都":
     {
         "jpn":"布都",
-    },
-    "Character.Job.布都":
-    {
-        "jpn":"",
+        "eng":"Futo",
     },
     "Character.幽香":
     {
         "jpn":"幽香",
-    },
-    "Character.Job.幽香":
-    {
-        "jpn":"",
+        "eng":"Yuuka",
     },
     "Character.星":
     {
         "jpn":"星",
-    },
-    "Character.Job.星":
-    {
-        "jpn":"",
+        "eng":"Shou",
     },
     "Character.映姫":
     {
         "jpn":"映姫",
-    },
-    "Character.Job.映姫":
-    {
-        "jpn":"",
+        "eng":"Eiki",
     },
     "Character.映姫_シャクなし":
     {
         "jpn":"映姫",
-    },
-    "Character.Job.映姫_シャクなし":
-    {
-        "jpn":"",
+        "eng":"Eiki",
     },
     "Character.毛玉":
     {
         "jpn":"毛玉",
-    },
-    "Character.Job.毛玉":
-    {
-        "jpn":"ザコ",
+        "eng":"kedama",
     },
     "Character.永琳":
     {
         "jpn":"永琳",
-    },
-    "Character.Job.永琳":
-    {
-        "jpn":"",
+        "eng":"Eirin",
     },
     "Character.燐":
     {
         "jpn":"燐",
-    },
-    "Character.Job.燐":
-    {
-        "jpn":"",
+        "eng":"Rin",
     },
     "Character.白蓮":
     {
         "jpn":"白蓮",
-    },
-    "Character.Job.白蓮":
-    {
-        "jpn":"",
+        "eng":"Byakuren",
     },
     "Character.神子":
     {
         "jpn":"神子",
-    },
-    "Character.Job.神子":
-    {
-        "jpn":"",
+        "eng":"Miko",
     },
     "Character.空":
     {
         "jpn":"空",
-    },
-    "Character.Job.空":
-    {
-        "jpn":"",
+        "eng":"Utsuho",
     },
     "Character.芳香":
     {
         "jpn":"芳香",
-    },
-    "Character.Job.芳香":
-    {
-        "jpn":"",
+        "eng":"Yoshika",
     },
     "Character.萃香":
     {
         "jpn":"萃香",
-    },
-    "Character.Job.萃香":
-    {
-        "jpn":"",
+        "eng":"Suika",
     },
     "Character.赤毛玉":
     {
         "jpn":"毛玉",
-    },
-    "Character.Job.赤毛玉":
-    {
-        "jpn":"ザコ",
+        "eng":"Kedama",
     },
     "Character.針妙丸":
     {
         "jpn":"針妙丸",
-    },
-    "Character.Job.針妙丸":
-    {
-        "jpn":"",
+        "eng":"Shinmyomaru",
     },
     "Character.鈴仙":
     {
         "jpn":"鈴仙",
-    },
-    "Character.Job.鈴仙":
-    {
-        "jpn":"",
+        "eng":"Reisen",
     },
     "Character.霊夢":
     {
         "jpn":"霊夢",
-    },
-    "Character.Job.霊夢":
-    {
-        "jpn":"",
+        "eng":"Reimu",
     },
     "Character.霖之助":
     {
         "jpn":"霖之助",
-    },
-    "Character.Job.霖之助":
-    {
-        "jpn":"",
+        "eng":"Rinnosuke",
     },
     "Character.青娥":
     {
         "jpn":"青娥",
-    },
-    "Character.Job.青娥":
-    {
-        "jpn":"",
+        "eng":"Seiga",
     },
     "Character.魔本":
     {
         "jpn":"魔本",
-    },
-    "Character.Job.魔本":
-    {
-        "jpn":"ザコ",
+        "eng":"LivingBook",
     },
     "Character.魔理沙":
     {
         "jpn":"魔理沙",
-    },
-    "Character.Job.魔理沙":
-    {
-        "jpn":"",
+        "eng":"Marisa",
     },
     "Character.黒妖精":
     {
         "jpn":"妖精",
-    },
-    "Character.Job.黒妖精":
-    {
-        "jpn":"ザコ",
+        "eng":"Fairy",
     },
     "Character.阿求":
     {
         "jpn":"阿求",
+        "eng":"Akyuu",
+    },
+    "Element.Separator":
+    {
+        "jpn":"",
+        "eng":" "
     },
     "Element.物理":
     {
         "jpn":"物理",
+        "eng":"Physical"
     },
     "Element.魔法":
     {
         "jpn":"魔法",
+        "eng":"Magical"
     },
     "Element.熱":
     {
         "jpn":"熱",
+        "eng":"Fire"
     },
     "Element.光":
     {
         "jpn":"光",
+        "eng":"Light"
     },
     "Element.無効":
     {
         "jpn":"{element}無効",
+        "eng":"{element}: No effect",
     },
     "Element.吸収":
     {
         "jpn":"{element}吸収",
+        "eng":"{element}: Absorb",
     },
     "Element.強い":
     {
         "jpn":"{element}に強い",
+        "eng":"{element}: Not very effective",
     },
     "Element.弱い":
     {
         "jpn":"{element}に弱い",
+        "eng":"{element}: Effective",
     },
     "Element.超強い":
     {
         "jpn":"{element}に超強い",
+        "eng":"{element}: Not effective",
     },
     "Element.超弱い":
     {
         "jpn":"{element}に超弱い",
+        "eng":"{element}: Very effective",
     },
     "Status.HP":
     {
         "jpn":"HP",
+        "eng":"HP",
     },
     "Status.残機":
     {
         "jpn":"残機",
+        "eng":"Life",
     },
     "Status.攻撃":
     {
         "jpn":"攻撃",
+        "eng":"Attack",
     },
     "Status.敏捷":
     {
         "jpn":"敏捷",
+        "eng":"Agility",
     },
     "Status.防御":
     {
         "jpn":"防御",
+        "eng":"Defense",
     },
     "Status.命中":
     {
         "jpn":"命中",
+        "eng":"Accuracy",
     },
     "Status.回避":
     {
         "jpn":"回避",
+        "eng":"Evade",
     },
     "Status.必殺":
     {
         "jpn":"必殺",
+        "eng":"Critical",
     },
     "Status.霊力":
     {
         "jpn":"霊力",
+        "eng":"JP Speed",
     },
     "Status.移動":
     {
         "jpn":"移動",
+        "eng":"Move",
     },
     "Status.射程":
     {
         "jpn":"射程",
+        "eng":"Range",
     },
     "Family.妖怪":
     {
         "jpn":"妖怪",
+        "eng":"Youkai",
     },
     "Menu.所持品":
     {
         "jpn":"所持品",
+        "eng":"Inventory",
     },
     "Menu.強化":
     {
         "jpn":"強化",
+        "eng":"Unit",
     },
     "Menu.編成":
     {
         "jpn":"編成",
+        "eng":"Formation",
     },
     "Menu.履歴":
     {
         "jpn":"履歴",
+        "eng":"Log",
     },
     "Menu.セーブ":
     {
         "jpn":"セーブ",
+        "eng":"Save",
     },
     "Menu.タイトルに戻る":
     {
         "jpn":"タイトルに戻る",
+        "eng":"Return to the title",
     },
     "Menu.タイトルに戻る.確認":
     {
@@ -5613,38 +6285,47 @@
     "Menu.タイトルに戻る.確認.はい":
     {
         "jpn":"はい",
+        "eng":"Yes",
     },
     "Menu.タイトルに戻る.確認.いいえ":
     {
         "jpn":"いいえ",
+        "eng":"No",
     },
     "Menu.設定":
     {
         "jpn":"設定",
+        "eng":"Settings",
     },
     "Menu.Unit.ステータス":
     {
         "jpn":"ステータス",
+        "eng":"Status",
     },
     "Menu.Unit.アイテム装備":
     {
         "jpn":"アイテム装備",
+        "eng":"Equip",
     },
     "Menu.Unit.アイテム装備.はずす":
     {
         "jpn":"はずす",
+        "eng":"Unequip",
     },
     "Menu.Unit.アビリティ装備":
     {
         "jpn":"アビリティ装備",
+        "eng":"Ability",
     },
     "Menu.Unit.アビリティ装備.はずす":
     {
         "jpn":"はずす",
+        "eng":"Unequip",
     },
     "Menu.Unit.アビリティ習得":
     {
         "jpn":"アビリティ習得",
+        "eng":"Learn Ability",
     },
     "Menu.Unit.アビリティ習得.確認ダイアログ":
     {
@@ -5653,6 +6334,7 @@
     "Menu.Unit.アビリティ習得.必要アビリティ":
     {
         "jpn":"必要アビリティ:{abilities}",
+        "eng":"require: {abilities}",
     },
     "Menu.Unit.アビリティ習得.完了ダイアログ":
     {
@@ -5665,6 +6347,7 @@
     "Menu.編成.外す":
     {
         "jpn":"外す",
+        "eng":"Unjoin",
     },
     "ステータスアップアイテム.確認":
     {
@@ -5681,174 +6364,217 @@
     "UnitStatusView.レベル":
     {
         "jpn":"レベル {level}",
+        "eng":"Level {level}",
     },
     "UnitStatusView.装備":
     {
         "jpn":"装備",
+        "eng":"Equipment",
     },
     "UnitState.APチャージ":
     {
         "jpn":"行動値上昇",
+        "eng":"AP Up",
     },
     "UnitState.APブレイク":
     {
         "jpn":"行動値ブレイク",
+        "eng":"AP Down",
     },
     "UnitState.クイック":
     {
         "jpn":"クイック",
+        "eng":"Quick",
     },
     "UnitState.チキン":
     {
         "jpn":"変化",
+        "eng":"Curse",
     },
     "UnitState.Short.チキン":
     {
         "jpn":"変化",
+        "eng":"CRS",
     },
     "UnitState.ディスペル":
     {
         "jpn":"ディスペル",
+        "eng":"Dispell",
     },
     "UnitState.バリア":
     {
         "jpn":"結界",
+        "eng":"Border",
     },
     "UnitState.Short.バリア":
     {
         "jpn":"結界",
+        "eng":"BD",
     },
     "UnitState.再生":
     {
         "jpn":"再生",
+        "eng":"Regen",
     },
     "UnitState.Short.再生":
     {
         "jpn":"再生",
+        "eng":"REG",
     },
     "UnitState.吸血付与":
     {
         "jpn":"吸血付与",
+        "eng":"Vampire",
     },
     "UnitState.Short.吸血付与":
     {
         "jpn":"吸血",
+        "eng":"VP",
     },
     "UnitState.呪力コスト吸収":
     {
         "jpn":"呪力コスト吸収",
+        "eng":"Drain JP Cost",
     },
     "UnitState.呪力チャージ":
     {
         "jpn":"呪力チャージ",
+        "eng":"Recover JP",
     },
     "UnitState.呪力吸収":
     {
         "jpn":"呪力吸収",
+        "eng":"Drain JP",
     },
     "UnitState.命中ダウン":
     {
         "jpn":"命中ダウン",
+        "eng":"Accuracy Down",
     },
     "UnitState.Short.命中ダウン":
     {
         "jpn":"命中↓",
+        "eng":"ACC↓",
     },
     "UnitState.回避":
     {
         "jpn":"回避",
+        "eng":"Evade",
     },
     "UnitState.Short.回避":
     {
         "jpn":"回避",
+        "eng":"EV",
     },
     "UnitState.回避ダウン":
     {
         "jpn":"回避ダウン",
+        "eng":"Evade Down",
     },
     "UnitState.Short.回避ダウン":
     {
         "jpn":"回避↓",
+        "eng":"EV↓",
     },
     "UnitState.射程ダウン":
     {
         "jpn":"射程ダウン",
+        "eng":"Range Down",
     },
     "UnitState.Short.射程ダウン":
     {
         "jpn":"射程↓",
+        "eng":"RNG↓",
     },
     "UnitState.攻撃アップ":
     {
         "jpn":"攻撃アップ",
+        "eng":"Attack Up",
     },
     "UnitState.Short.攻撃アップ":
     {
         "jpn":"攻撃↑",
+        "eng":"ATK↑",
     },
     "UnitState.攻撃ダウン":
     {
         "jpn":"攻撃ダウン",
+        "eng":"Attack Down",
     },
     "UnitState.Short.攻撃ダウン":
     {
         "jpn":"攻撃↓",
+        "eng":"ATK↓",
     },
     "UnitState.敏捷アップ":
     {
         "jpn":"敏捷アップ",
+        "eng":"Agility Up",
     },
     "UnitState.Short.敏捷アップ":
     {
         "jpn":"敏捷↑",
+        "eng":"AGI↑",
     },
     "UnitState.敏捷ダウン":
     {
         "jpn":"敏捷ダウン",
+        "eng":"Agility Down",
     },
     "UnitState.Short.敏捷ダウン":
     {
         "jpn":"敏捷↓",
+        "eng":"AGI↓",
     },
     "UnitState.毒":
     {
         "jpn":"毒",
+        "eng":"Poison",
     },
     "UnitState.Short.毒":
     {
         "jpn":"毒",
+        "eng":"PSN",
     },
     "UnitState.物理耐性":
     {
         "jpn":"物理耐性アップ",
+        "eng":"Hard Armor",
     },
     "UnitState.Short.物理耐性":
     {
         "jpn":"耐物",
+        "eng":"Armor",
     },
     "UnitState.盗む":
     {
         "jpn":"盗む",
+        "eng":"Steal",
     },
     "UnitState.禁呪":
     {
         "jpn":"禁呪",
+        "eng":"Incantation",
     },
     "UnitState.Short.禁呪":
     {
         "jpn":"禁呪",
+        "eng":"INC",
     },
     "UnitState.移動ダウン":
     {
         "jpn":"移動ダウン",
+        "eng":"Move Down",
     },
     "UnitState.Short.移動ダウン":
     {
         "jpn":"移動↓",
+        "eng":"MV↓",
     },
     "UnitState.装備破壊":
     {
         "jpn":"装備破壊",
+        "eng":"Break Equip",
     },
     "UnitState.超人":
     {
@@ -5861,22 +6587,27 @@
     "UnitState.防御":
     {
         "jpn":"防御",
+        "eng":"Defense",
     },
     "UnitState.Short.防御":
     {
         "jpn":"防御",
+        "eng":"DF",
     },
     "UnitState.魔法威力ダウン":
     {
         "jpn":"魔法威力ダウン",
+        "eng":"Magic Power Down",
     },
     "UnitState.Short.魔法威力ダウン":
     {
         "jpn":"魔法↓",
+        "eng":"MAG↓",
     },
     "UnitState.魔法耐性":
     {
         "jpn":"魔法耐性アップ",
+        "eng":"Magic Defense Up",
     },
     "UnitState.Short.魔法耐性":
     {
@@ -5885,6 +6616,7 @@
     "SaveData.オートセーブ":
     {
         "jpn":"オートセーブ",
+        "eng":"Autosave",
     },
     "SaveData.上書き確認":
     {
@@ -5893,10 +6625,12 @@
     "SaveData.上書き確認.はい":
     {
         "jpn":"はい",
+        "eng":"Yes",
     },
     "SaveData.上書き確認.いいえ":
     {
         "jpn":"いいえ",
+        "eng":"No",
     },
     "SaveData.はじめから確認":
     {
@@ -5913,22 +6647,27 @@
     "AbilityWindow.威力":
     {
         "jpn":"威力 {value}",
+        "eng":"Power: {value}",
     },
     "AbilityWindow.ヒット数":
     {
         "jpn":"ヒット数 {value}",
+        "eng":"Hit Count: {value}",
     },
     "AbilityWindow.呪力コスト":
     {
         "jpn":"呪力コスト {value}",
+        "eng":"JP Cost: {value}",
     },
     "AbilityWindow.射程":
     {
         "jpn":"射程 {min} - {max}",
+        "eng":"Range: {min} - {max}",
     },
     "AbilityWindow.属性":
     {
         "jpn":"属性 {elements}",
+        "eng":"Elements: {elements}",
     },
     "ショップ.購入確認":
     {
@@ -5937,6 +6676,7 @@
     "ショップ.購入確認.装備数":
     {
         "jpn":"装備数 : {count}",
+        "eng":"Equipped: {count}",
     },
     "ステージ選択.開始":
     {
@@ -5945,34 +6685,47 @@
     "Battle.レベルアップ":
     {
         "jpn":"レベルアップ！ {prev} → {next}",
+        "eng":"Level Up! {prev} → {next}",
+    },
+    "Battle.コマンド.移動":
+    {
+        "jpn":"移動",
+        "eng":"Move",
     },
     "Battle.行動結果.ダメージ":
     {
         "jpn":"ダメージ",
+        "eng":"Damage",
     },
     "Battle.行動結果.回復":
     {
         "jpn":"回復",
+        "eng":"Heal",
     },
     "Battle.行動結果.クリティカル率":
     {
         "jpn":"CT",
+        "eng":"CT",
     },
     "Battle.行動結果.命中率":
     {
         "jpn":"命中",
+        "eng":"Accuracy",
     },
     "Battle.Unit.行動値":
     {
         "jpn":"行動",
+        "eng":"ACT",
     },
     "Battle.Unit.残機":
     {
         "jpn":"残機",
+        "eng":"Life",
     },
     "Battle.Unit.状態":
     {
         "jpn":"状態",
+        "eng":"State",
     },
     "Battle.ガイド.ステータス確認":
     {
