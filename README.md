@@ -8,50 +8,16 @@ http://moetoku.sakura.ne.jp/gsq2/manual.html
 ## Steam
 http://store.steampowered.com/app/806720/
 
-# Instructions
+# Version
+ The game version must be `1.1.0` or newer.
 
-  If you are not a developer, jump to #4.
-
-## 1. Copy Localization.json
-
-  Copy `Localization.json` in new language directory.
-
-  Files in this repo will be like this.
-```
-deu/Localization.json
-eng/Localization.json
-Localization.json
-README.md
-```
-
-## 2. Modify your Localization.json
-
-Edit the `xxx/Localization.json` and add translations.  
-
-e.g.
-```
-"設定.Caption":
-{
-   "jpn":"設定",
-   "eng":"Settings", // <- this
-},
-```
-
-## 3. Create pull request!
-
-  Words in `jpn` will be used where your translation lacks.
-  So PRs don't have to be perfect.
-
-## 4. Replace json
-
+# Edit json
 GensoYonbaiKen2 contains Localization.json.  
 `gsq2_Data/StreamingAssets/Localization.json`
 
-Replace it with your modified one.
+Edit it and start the game.
 
-## 5. Modify language.txt
+If you want to develop a language other than English, tell me.
 
-The game contains language.txt. Open it.  
-And replace `jpn` with your language. e.g. `eng`
-
-Start the game, it will render your translations.
+# Create pull request!
+Words in `jpn` will be used where your translation lacks. So PRs don't have to be perfect.
